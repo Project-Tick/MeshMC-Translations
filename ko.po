@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-01-21 22:32\n"
+"PO-Revision-Date: 2025-07-05 13:49\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -283,7 +283,7 @@ msgstr "계정"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:118
 msgctxt "AccountsDialog|"
 msgid "Account / Profile Name Here"
-msgstr ""
+msgstr "계정 / 프로필 이름"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:138
 #: src/launcher/ui/dialogs/AccountsDialog.ui:573
@@ -308,49 +308,49 @@ msgstr "스킨 폴더 열기"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
 msgid "Model"
-msgstr ""
+msgstr "모델"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:215
 msgctxt "AccountsDialog|"
 msgid "Classic"
-msgstr ""
+msgstr "클래식"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:228
 msgctxt "AccountsDialog|"
 msgid "Slim"
-msgstr ""
+msgstr "슬림"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:241
 msgctxt "AccountsDialog|"
 msgid "Reset Changes"
-msgstr ""
+msgstr "변경 사항 재설정"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:248
 msgctxt "AccountsDialog|"
 msgid "Apply Changes"
-msgstr ""
+msgstr "변경 사항 적용"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:255
 msgctxt "AccountsDialog|"
 msgid "Save Skin To File"
-msgstr ""
+msgstr "스킨을 파일에 저장"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:295
 msgctxt "AccountsDialog|"
 msgid "Skins"
-msgstr ""
+msgstr "스킨"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:333
 msgctxt "AccountsDialog|"
 msgid "Capes"
-msgstr ""
+msgstr "망토"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:553
 #: src/launcher/ui/dialogs/AccountsDialog.ui:725
 #: src/launcher/ui/dialogs/AccountsDialog.ui:860
 msgctxt "AccountsDialog|"
 msgid "Account Name Here"
-msgstr ""
+msgstr "계정 이름"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:614
 msgctxt "AccountsDialog|"
@@ -361,22 +361,22 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:657
 msgctxt "AccountsDialog|"
 msgid "Create Profile"
-msgstr ""
+msgstr "프로필 만들기"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:779
 msgctxt "AccountsDialog|"
 msgid "This account's authentication tokens have expired and it needs to be signed in into again."
-msgstr ""
+msgstr "이 계정의 인증 토큰이 만료되었으므로 다시 로그인해야 합니다."
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:792
 msgctxt "AccountsDialog|"
 msgid "Remove and Sign In Again"
-msgstr ""
+msgstr "삭제 후 다시 로그인"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:921
 msgctxt "AccountsDialog|"
 msgid "This account doesn't own Minecraft yet. Without purchasing the game, you can only play the demo."
-msgstr ""
+msgstr "이 계정은 아직 마인크래프트를 소유하고 있지 않습니다. 게임을 구매하지 않고 데모만 플레이할 수 있습니다."
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:934
 msgctxt "AccountsDialog|"
@@ -396,24 +396,24 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:581
 msgctxt "AccountsDialog|"
 msgid "You can scan the QR code and complete the login process on a separate device, or you can open the link and login on this machine."
-msgstr ""
+msgstr "QR 코드를 스캔하여 별도의 기기에서 로그인 절차를 완료하거나, 링크를 열고 이 기기에서 로그인할 수 있습니다."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:708
 msgctxt "AccountsDialog|"
 msgid "Name is too short - must be between 3 and 16 characters long."
-msgstr ""
+msgstr "이름이 너무 짧습니다 - 3 자에서 16 자 사이여야 합니다."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:767
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "Minecraft profile with name %1 already exists."
-msgstr ""
+msgstr "이름이 %1인 마인크래프트 프로필이 이미 존재합니다."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:770
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "The name %1 is not allowed."
-msgstr ""
+msgstr "%1이라는 이름은 허용되지 않습니다."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:773
 #, qt-format
@@ -1130,7 +1130,7 @@ msgstr "Zip으로부터 읽어들이기"
 #: src/launcher/meta/Index.cpp:71
 msgctxt "Index|"
 msgid "Name"
-msgstr ""
+msgstr "이름"
 
 #: src/launcher/ui/widgets/InstanceCardWidget.ui:27
 msgctxt "InstanceCardWidget|"
@@ -1714,7 +1714,7 @@ msgstr "실행에 사용될 계정이 선택되지 않음."
 #: src/launcher/LaunchController.cpp:165
 msgctxt "LaunchController|"
 msgid "Account doesn't have a Minecraft profile"
-msgstr ""
+msgstr "계정에 마인크래프트 프로필이 없습니다"
 
 #: src/launcher/LaunchController.cpp:166
 msgctxt "LaunchController|"
@@ -1726,7 +1726,7 @@ msgstr ""
 #: src/launcher/LaunchController.cpp:168
 msgctxt "LaunchController|"
 msgid "Open Accounts"
-msgstr ""
+msgstr "계정 열기"
 
 #: src/launcher/LaunchController.cpp:169 src/launcher/LaunchController.cpp:195
 msgctxt "LaunchController|"
@@ -1765,7 +1765,7 @@ msgstr "오프라인으로 실행"
 #: src/launcher/LaunchController.cpp:234
 msgctxt "LaunchController|"
 msgid "The account has expired and needs to be logged into manually. Press OK to open the accounts window."
-msgstr ""
+msgstr "계정이 만료되었으므로 수동으로 로그인해야 합니다. 확인을 눌러 계정 창을 엽니다."
 
 #: src/launcher/LaunchController.cpp:237
 msgctxt "LaunchController|"
@@ -1909,7 +1909,7 @@ msgstr "폴더"
 #: src/launcher/ui/pages/global/LauncherPage.ui:107
 msgctxt "LauncherPage|"
 msgid "&Skins:"
-msgstr ""
+msgstr "&스킨:"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:117
 msgctxt "LauncherPage|"
@@ -1932,7 +1932,7 @@ msgstr "아이콘 (&I):"
 #: src/launcher/ui/pages/global/LauncherPage.ui:174
 msgctxt "LauncherPage|"
 msgid "Open"
-msgstr ""
+msgstr "열기"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:184
 msgctxt "LauncherPage|"
@@ -2087,7 +2087,7 @@ msgstr "모드 폴더"
 #: src/launcher/ui/pages/global/LauncherPage.cpp:160
 msgctxt "LauncherPage|"
 msgid "Skins Folder"
-msgstr ""
+msgstr "스킨 폴더"
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:377
 msgctxt "LauncherPage|"
@@ -2907,7 +2907,7 @@ msgstr "총 플레이 시간: 0초"
 #: src/launcher/ui/MainWindow.cpp:874 src/launcher/ui/MainWindow.cpp:1183
 msgctxt "MainWindow|"
 msgid "Accounts"
-msgstr ""
+msgstr "계정"
 
 #: src/launcher/ui/MainWindow.cpp:933
 msgctxt "MainWindow|"
@@ -2976,17 +2976,17 @@ msgstr "업데이트 다운로드를 위한 폴더를 생성하지 못하였습�
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:69
 msgctxt "MinecraftAccount|Account status"
 msgid "Unchecked"
-msgstr ""
+msgstr "체크 해제"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:72
 msgctxt "MinecraftAccount|Account status"
 msgid "Offline"
-msgstr ""
+msgstr "오프라인"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:75
 msgctxt "MinecraftAccount|Account status"
 msgid "Online"
-msgstr ""
+msgstr "온라인"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
@@ -3011,12 +3011,12 @@ msgstr ""
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:90
 msgctxt "MinecraftAccount|Account status"
 msgid "Must Migrate"
-msgstr ""
+msgstr "마이그레이션을 해야 합니다"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:93
 msgctxt "MinecraftAccount|Account status"
 msgid "Unknown"
-msgstr ""
+msgstr "알 수 없음"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
@@ -3177,7 +3177,7 @@ msgstr "마인크래프트 Java 프로필을 획득했습니다."
 #: src/launcher/minecraft/MinecraftUpdate.cpp:54
 msgctxt "MinecraftUpdate|"
 msgid "Failed to load version components - mmc-pack.json is probably corrupted."
-msgstr ""
+msgstr "버전 구성 요소를 로드하지 못했습니다 - mmc-pack.json이 손상되었을 가능성이 큽니다."
 
 #: src/launcher/minecraft/MinecraftUpdate.cpp:91
 msgctxt "MinecraftUpdate|"
@@ -3644,12 +3644,12 @@ msgstr "알 수 없는 인스턴스 유형"
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:18
 msgctxt "OfflineNameDialog|"
 msgid "Player name"
-msgstr ""
+msgstr "플레이어 이름"
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:24
 msgctxt "OfflineNameDialog|"
 msgid "Choose your offline mode player name."
-msgstr ""
+msgstr "오프라인 모드 플레이어 이름을 선택합니다."
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:29
 msgctxt "OfflineNameDialog|"
@@ -3925,7 +3925,7 @@ msgstr "건너뛰기"
 #: src/launcher/ui/pages/global/ProxyPage.ui:42
 msgctxt "ProxyPage|"
 msgid "This only applies to the launcher."
-msgstr ""
+msgstr "이것은 런처에만 적용됩니다."
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
@@ -4619,7 +4619,7 @@ msgstr ""
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:43
 msgctxt "SetSkinStep|"
 msgid "Uploading skin"
-msgstr ""
+msgstr "스킨 업로드 중"
 
 #: src/launcher/ui/setupwizard/SetupWizard.cpp:28
 msgctxt "SetupWizard|"
@@ -4959,7 +4959,7 @@ msgstr "바닐라"
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
 msgid "Minecraft 24w14a and above require the use of Java 21"
-msgstr ""
+msgstr "마인크래프트 24w14a 이상은 Java 21의 사용을 요구합니다."
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:51
 msgctxt "VerifyJavaInstall|"
@@ -5179,12 +5179,12 @@ msgstr "인스턴스의 로컬 라이브러리 폴더를 엽니다."
 #: src/launcher/ui/pages/instance/VersionPage.ui:276
 msgctxt "VersionPage|"
 msgid "Install NeoForge"
-msgstr ""
+msgstr "네오포지 설치"
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:279
 msgctxt "VersionPage|"
 msgid "Install the NeoForge package."
-msgstr ""
+msgstr "마인크래프트 네오포지 패키지를 설치합니다."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:156
 msgctxt "VersionPage|"
@@ -5294,17 +5294,17 @@ msgstr "포지 버전 목록을 불러오거나 다운로드하는 데에 실패
 #: src/launcher/ui/pages/instance/VersionPage.cpp:469
 msgctxt "VersionPage|"
 msgid "Select NeoForge version"
-msgstr ""
+msgstr "네오포지 로더 버전을 선택하세요"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:471
 msgctxt "VersionPage|"
 msgid "No NeoForge versions are currently available for Minecraft "
-msgstr ""
+msgstr "사용가능한 네오포지 버전이 없습니다. "
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:472
 msgctxt "VersionPage|"
 msgid "Couldn't load or download the NeoForge version lists!"
-msgstr ""
+msgstr "네오포지 버전 목록을 불러오거나 다운로드하는 데에 실패하였습니다!"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:498
 msgctxt "VersionPage|"
@@ -5723,12 +5723,13 @@ msgstr "XErr element가 %1 인증 오류 응답에서 누락되었습니다."
 msgctxt "XboxAuthorizationStep|"
 msgid "Your XBox Live account has been banned by Microsoft for violating the XBox Community Standards.\n"
 "This may happen if your account was shared or resold."
-msgstr ""
+msgstr "귀하의 XBox Live 계정은 XBox 커뮤니티 표준을 위반했다는 이유로 Microsoft에서 금지되었습니다.\n"
+"계정이 공유되었거나 재판매된 경우 이러한 일이 발생할 수 있습니다."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:130
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account is linked to a family and your parent or guardian has not given you permission to play online."
-msgstr ""
+msgstr "이 Microsoft 계정은 가족과 연결되어 있으며 부모 또는 보호자가 온라인 플레이 권한을 부여하지 않았습니다."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:137
 #, qt-format
@@ -5739,7 +5740,7 @@ msgstr "이 Microsoft 계정은 XBox Live 프로필을 가지고 있지 않습�
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:145
 msgctxt "XboxAuthorizationStep|"
 msgid "This account has not accepted the XBox Terms of Service. Please log in online and accept them."
-msgstr ""
+msgstr "이 계정은 XBox 서비스 약관을 수락하지 않았습니다. 온라인으로 로그인하여 수락해 주세요."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:153
 msgctxt "XboxAuthorizationStep|"
