@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2025-05-05 12:25\n"
+"PO-Revision-Date: 2025-07-07 23:31\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -227,7 +227,7 @@ msgstr "<p> אנו שומרים על קוד פתוח של MultiMC מכיוון �
 #: src/launcher/minecraft/auth/AccountList.cpp:354
 msgctxt "AccountList|"
 msgid "Add New Account"
-msgstr ""
+msgstr "הוסף חשבון חדש"
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:42
 msgctxt "AccountTask|"
@@ -278,12 +278,12 @@ msgstr "מצב חשבון לא מוכר: %1"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:35
 msgctxt "AccountsDialog|"
 msgid "Accounts"
-msgstr ""
+msgstr "חשבונות"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:118
 msgctxt "AccountsDialog|"
 msgid "Account / Profile Name Here"
-msgstr ""
+msgstr "שם חשבון / פרופיל כאן"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:138
 #: src/launcher/ui/dialogs/AccountsDialog.ui:573
@@ -308,12 +308,12 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
 msgid "Model"
-msgstr ""
+msgstr "מודל"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:215
 msgctxt "AccountsDialog|"
 msgid "Classic"
-msgstr ""
+msgstr "קלאסי"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:228
 msgctxt "AccountsDialog|"
@@ -323,7 +323,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:241
 msgctxt "AccountsDialog|"
 msgid "Reset Changes"
-msgstr ""
+msgstr "אפס שינויים"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:248
 msgctxt "AccountsDialog|"
@@ -338,7 +338,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:295
 msgctxt "AccountsDialog|"
 msgid "Skins"
-msgstr ""
+msgstr "סקינים"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:333
 msgctxt "AccountsDialog|"
@@ -350,18 +350,19 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:860
 msgctxt "AccountsDialog|"
 msgid "Account Name Here"
-msgstr ""
+msgstr "שם חשבון כאן"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:614
 msgctxt "AccountsDialog|"
 msgid "You just need to take one more step to be able to play Minecraft on this account.\n\n"
 "Choose your name carefully:"
-msgstr ""
+msgstr "רק עוד שלב אחד עד שתוכל לשחק מיינקראפט בחשבון הזה.\n\n"
+"בחר את שמך:"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:657
 msgctxt "AccountsDialog|"
 msgid "Create Profile"
-msgstr ""
+msgstr "צור פרופיל"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:779
 msgctxt "AccountsDialog|"
@@ -401,7 +402,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:708
 msgctxt "AccountsDialog|"
 msgid "Name is too short - must be between 3 and 16 characters long."
-msgstr ""
+msgstr "שם קצר מידי - חייב להיות בין 3 ל16 אותיות."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:767
 #, qt-format
@@ -582,7 +583,7 @@ msgstr "הפרופיילר נעצר"
 #: src/launcher/skins/CapesModel.cpp:34
 msgctxt "CapesModel|"
 msgid "Nothing"
-msgstr ""
+msgstr "שום דבר"
 
 #: src/launcher/minecraft/launch/ClaimAccount.cpp:30
 #, qt-format
@@ -1128,7 +1129,7 @@ msgstr "ייבא מzip"
 #: src/launcher/meta/Index.cpp:71
 msgctxt "Index|"
 msgid "Name"
-msgstr ""
+msgstr "שם"
 
 #: src/launcher/ui/widgets/InstanceCardWidget.ui:27
 msgctxt "InstanceCardWidget|"
@@ -1724,7 +1725,7 @@ msgstr ""
 #: src/launcher/LaunchController.cpp:168
 msgctxt "LaunchController|"
 msgid "Open Accounts"
-msgstr ""
+msgstr "פתח חשבון"
 
 #: src/launcher/LaunchController.cpp:169 src/launcher/LaunchController.cpp:195
 msgctxt "LaunchController|"
@@ -1930,7 +1931,7 @@ msgstr "צלמיות:"
 #: src/launcher/ui/pages/global/LauncherPage.ui:174
 msgctxt "LauncherPage|"
 msgid "Open"
-msgstr ""
+msgstr "פתח"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:184
 msgctxt "LauncherPage|"
@@ -2905,7 +2906,7 @@ msgstr "סך הכל זמן משחק: 0s"
 #: src/launcher/ui/MainWindow.cpp:874 src/launcher/ui/MainWindow.cpp:1183
 msgctxt "MainWindow|"
 msgid "Accounts"
-msgstr ""
+msgstr "חשבונות"
 
 #: src/launcher/ui/MainWindow.cpp:933
 msgctxt "MainWindow|"
@@ -2988,7 +2989,7 @@ msgstr ""
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
 msgid "Working"
-msgstr ""
+msgstr "עבד"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:81
 msgctxt "MinecraftAccount|Account status"
@@ -3013,7 +3014,7 @@ msgstr ""
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:93
 msgctxt "MinecraftAccount|Account status"
 msgid "Unknown"
-msgstr ""
+msgstr "לא ידוע"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
@@ -3144,7 +3145,7 @@ msgstr "Minecraft"
 #, qt-format
 msgctxt "MinecraftProfileCreateStep|"
 msgid "Creating the Minecraft profile '%1'."
-msgstr ""
+msgstr "יוצר את הפרופיל מיינקראפט \"%1\"."
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:17
 msgctxt "MinecraftProfileStep|"
