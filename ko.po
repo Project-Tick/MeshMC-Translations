@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-07-05 13:49\n"
+"PO-Revision-Date: 2025-07-12 07:09\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -356,7 +356,8 @@ msgstr "계정 이름"
 msgctxt "AccountsDialog|"
 msgid "You just need to take one more step to be able to play Minecraft on this account.\n\n"
 "Choose your name carefully:"
-msgstr ""
+msgstr "이 계정에서 마인크래프트를 플레이하려면 한 걸음만 더 나아가면 됩니다.\n\n"
+"이름을 신중하게 선택하세요:"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:657
 msgctxt "AccountsDialog|"
@@ -381,7 +382,7 @@ msgstr "이 계정은 아직 마인크래프트를 소유하고 있지 않습니
 #: src/launcher/ui/dialogs/AccountsDialog.ui:934
 msgctxt "AccountsDialog|"
 msgid "Get Minecraft"
-msgstr ""
+msgstr "Minecraft 구매하기"
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:52
 msgctxt "AccountsDialog|"
@@ -391,7 +392,7 @@ msgstr "마인크래프트 계정"
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:203
 msgctxt "AccountsDialog|"
 msgid "Failed to apply skin"
-msgstr ""
+msgstr "스킨 적용에 실패하였습니다"
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:581
 msgctxt "AccountsDialog|"
@@ -419,12 +420,12 @@ msgstr "%1이라는 이름은 허용되지 않습니다."
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "Unhandled profile name status: %1"
-msgstr ""
+msgstr "처리되지 않은 프로필 이름 상태: %1"
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:777
 msgctxt "AccountsDialog|"
 msgid "Failed to check name availability."
-msgstr ""
+msgstr "이름을 찾을 수 없습니다."
 
 #: src/launcher/Application.cpp:784
 msgctxt "Application|"
@@ -588,7 +589,7 @@ msgstr ""
 #, qt-format
 msgctxt "ClaimAccount|"
 msgid "Failed to claim account by profile: %1 was not found."
-msgstr ""
+msgstr "프로필로 계정을 요청하지 못했습니다: %1을 찾을 수 없습니다."
 
 #: src/launcher/minecraft/ComponentUpdateTask.cpp:270
 msgctxt "ComponentUpdateTask|"
@@ -1721,7 +1722,9 @@ msgctxt "LaunchController|"
 msgid "The account doesn't have a Minecraft profile yet.\n"
 "You need to create a profile first to play.\n\n"
 "Do you want to open the Accounts dialog?"
-msgstr ""
+msgstr "계정에 아직 마인크래프트 프로필이 없습니다.\n"
+"플레이하려면 먼저 프로필을 만들어야 합니다.\n\n"
+"계정 대화 상자를 열고 싶으신가요?"
 
 #: src/launcher/LaunchController.cpp:168
 msgctxt "LaunchController|"
@@ -3001,7 +3004,7 @@ msgstr ""
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:84
 msgctxt "MinecraftAccount|Account status"
 msgid "Expired"
-msgstr ""
+msgstr "만료됨"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:87
 msgctxt "MinecraftAccount|Account status"
@@ -3654,7 +3657,7 @@ msgstr "오프라인 모드 플레이어 이름을 선택합니다."
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:29
 msgctxt "OfflineNameDialog|"
 msgid "Retry Online"
-msgstr ""
+msgstr "온라인 재시도"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:42
 msgctxt "OtherLogsPage|"
@@ -4609,7 +4612,7 @@ msgstr "컨텍스트 메뉴"
 #: src/launcher/minecraft/auth/steps/SetCapeStep.cpp:23
 msgctxt "SetCapeStep|"
 msgid "Setting cape."
-msgstr ""
+msgstr "망토 설정하기."
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:39
 msgctxt "SetSkinStep|"
@@ -5751,7 +5754,7 @@ msgstr "해당 국가에서는 XBox Live를 사용할 수 없습니다. 당신�
 #, qt-format
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age."
-msgstr ""
+msgstr "이 Microsoft 계정을 사용하려면 나이 증명이 필요합니다. 나이 증명을 보려면 %1에 로그인하세요."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:168
 msgctxt "XboxAuthorizationStep|"
