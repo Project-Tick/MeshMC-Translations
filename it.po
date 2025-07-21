@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-03-27 11:19\n"
+"PO-Revision-Date: 2025-07-21 09:51\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -376,12 +376,12 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:921
 msgctxt "AccountsDialog|"
 msgid "This account doesn't own Minecraft yet. Without purchasing the game, you can only play the demo."
-msgstr ""
+msgstr "Questo account non possiede ancora Minecraft. Senza aver comprato il gioco puoi giocare solo alla demo."
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:934
 msgctxt "AccountsDialog|"
 msgid "Get Minecraft"
-msgstr ""
+msgstr "Compra Minecraft"
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:52
 msgctxt "AccountsDialog|"
