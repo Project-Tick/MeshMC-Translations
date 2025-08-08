@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-07-12 07:09\n"
+"PO-Revision-Date: 2025-08-08 00:48\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -583,7 +583,7 @@ msgstr "프로파일러 중단됨"
 #: src/launcher/skins/CapesModel.cpp:34
 msgctxt "CapesModel|"
 msgid "Nothing"
-msgstr ""
+msgstr "아무것도 없네요"
 
 #: src/launcher/minecraft/launch/ClaimAccount.cpp:30
 #, qt-format
@@ -2994,12 +2994,12 @@ msgstr "온라인"
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
 msgid "Working"
-msgstr ""
+msgstr "작업중"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:81
 msgctxt "MinecraftAccount|Account status"
 msgid "Errored"
-msgstr ""
+msgstr "오류 생김"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:84
 msgctxt "MinecraftAccount|Account status"
@@ -3009,7 +3009,7 @@ msgstr "만료됨"
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:87
 msgctxt "MinecraftAccount|Account status"
 msgid "Gone"
-msgstr ""
+msgstr "만료됨"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:90
 msgctxt "MinecraftAccount|Account status"
@@ -3150,7 +3150,7 @@ msgstr "마인크래프트"
 #, qt-format
 msgctxt "MinecraftProfileCreateStep|"
 msgid "Creating the Minecraft profile '%1'."
-msgstr ""
+msgstr "'%1'로 마인크래프트 프로필을 생성하고 있습니다."
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:17
 msgctxt "MinecraftProfileStep|"
@@ -4617,7 +4617,7 @@ msgstr "망토 설정하기."
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:39
 msgctxt "SetSkinStep|"
 msgid "Clearing skin"
-msgstr ""
+msgstr "스킨을 제거하고 있습니다"
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:43
 msgctxt "SetSkinStep|"
@@ -5759,7 +5759,7 @@ msgstr "이 Microsoft 계정을 사용하려면 나이 증명이 필요합니다
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:168
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account has reached its playtime limit and has been blocked from logging in."
-msgstr ""
+msgstr "이 마이크로소프트 계정은 플레이 타임 제한에 도달했고, 로그인이 제한되었습니다."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:175
 #, qt-format
