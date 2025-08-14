@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2025-07-07 23:31\n"
+"PO-Revision-Date: 2025-08-14 08:52\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -290,7 +290,7 @@ msgstr "שם חשבון / פרופיל כאן"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:880
 msgctxt "AccountsDialog|"
 msgid "Refresh Account"
-msgstr ""
+msgstr "רענן משתמש"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:145
 #: src/launcher/ui/dialogs/AccountsDialog.ui:580
@@ -298,12 +298,12 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:887
 msgctxt "AccountsDialog|"
 msgid "Sign Out"
-msgstr ""
+msgstr "התנתק"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:189
 msgctxt "AccountsDialog|"
 msgid "Open Skins Folder"
-msgstr ""
+msgstr "פתח תיקיית סקינים"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
@@ -318,7 +318,7 @@ msgstr "קלאסי"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:228
 msgctxt "AccountsDialog|"
 msgid "Slim"
-msgstr ""
+msgstr "רזה"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:241
 msgctxt "AccountsDialog|"
@@ -328,12 +328,12 @@ msgstr "אפס שינויים"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:248
 msgctxt "AccountsDialog|"
 msgid "Apply Changes"
-msgstr ""
+msgstr "החל שינויים"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:255
 msgctxt "AccountsDialog|"
 msgid "Save Skin To File"
-msgstr ""
+msgstr "שמור סקין לקובץ"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:295
 msgctxt "AccountsDialog|"
@@ -343,7 +343,7 @@ msgstr "סקינים"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:333
 msgctxt "AccountsDialog|"
 msgid "Capes"
-msgstr ""
+msgstr "גלימות"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:553
 #: src/launcher/ui/dialogs/AccountsDialog.ui:725
