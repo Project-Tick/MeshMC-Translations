@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2025-08-14 08:52\n"
+"PO-Revision-Date: 2025-08-14 10:49\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -64,7 +64,7 @@ msgstr "מוריד הגדרות..."
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:456
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Config download"
-msgstr "הגדר הורדה"
+msgstr "הורדת הגדרות"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:496
 msgctxt "ATLauncher::PackInstallTask|"
@@ -107,7 +107,7 @@ msgstr "סוג הורדה לא מוכר: %1"
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:674
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to extract mods..."
-msgstr "נכשל בחילוץ המודים..."
+msgstr "חילוץ המודים נכשל..."
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:685
 msgctxt "ATLauncher::PackInstallTask|"
@@ -367,7 +367,7 @@ msgstr "צור פרופיל"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:779
 msgctxt "AccountsDialog|"
 msgid "This account's authentication tokens have expired and it needs to be signed in into again."
-msgstr ""
+msgstr "אסימון האימון של חשבון זה פג תוקף, ויש להתחבר אליו שוב."
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:792
 msgctxt "AccountsDialog|"
@@ -397,7 +397,7 @@ msgstr "החלת הסקין נכשלה"
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:581
 msgctxt "AccountsDialog|"
 msgid "You can scan the QR code and complete the login process on a separate device, or you can open the link and login on this machine."
-msgstr ""
+msgstr "באפשרותך לסרוק את הברקוד ולהשלים את תהליך הכניסה במכשיר אחר, או לפתוח את הקישור ולהיכנס במכשיר זה."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:708
 msgctxt "AccountsDialog|"
@@ -408,13 +408,13 @@ msgstr "שם קצר מידי - חייב להיות בין 3 ל16 אותיות."
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "Minecraft profile with name %1 already exists."
-msgstr ""
+msgstr "פרופיל מיינקראפט עם השם %1 כבר קיים."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:770
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "The name %1 is not allowed."
-msgstr ""
+msgstr "השם %1 אסור בשימוש."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:773
 #, qt-format
@@ -425,7 +425,7 @@ msgstr "סטטוס שם פרופיל לא מטופל: %1"
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:777
 msgctxt "AccountsDialog|"
 msgid "Failed to check name availability."
-msgstr ""
+msgstr "בדיקת זמינות השם נכשלה."
 
 #: src/launcher/Application.cpp:784
 msgctxt "Application|"
@@ -1713,14 +1713,16 @@ msgstr "לא נבחר חשבון להפעלה."
 #: src/launcher/LaunchController.cpp:165
 msgctxt "LaunchController|"
 msgid "Account doesn't have a Minecraft profile"
-msgstr ""
+msgstr "אין לחשבון פרופיל מיינקראפט"
 
 #: src/launcher/LaunchController.cpp:166
 msgctxt "LaunchController|"
 msgid "The account doesn't have a Minecraft profile yet.\n"
 "You need to create a profile first to play.\n\n"
 "Do you want to open the Accounts dialog?"
-msgstr ""
+msgstr "לחשבון זה אין עדיין פרופיל מיינקראפט.\n"
+"עליך ליצור פרופיל לפני שתוכל לשחק.\n\n"
+"האם ברצונך לפתוח את חלון החשבונות?"
 
 #: src/launcher/LaunchController.cpp:168
 msgctxt "LaunchController|"
@@ -1764,7 +1766,7 @@ msgstr "שחק במצב לא מקוון"
 #: src/launcher/LaunchController.cpp:234
 msgctxt "LaunchController|"
 msgid "The account has expired and needs to be logged into manually. Press OK to open the accounts window."
-msgstr ""
+msgstr "חשבון זה פג תוקף ויש להתחבר אליו באופן ידני. לחץ OK כדי לפתוח את חלון החשבונות."
 
 #: src/launcher/LaunchController.cpp:237
 msgctxt "LaunchController|"
@@ -1908,7 +1910,7 @@ msgstr "תיקיות"
 #: src/launcher/ui/pages/global/LauncherPage.ui:107
 msgctxt "LauncherPage|"
 msgid "&Skins:"
-msgstr ""
+msgstr "&סקינים:"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:117
 msgctxt "LauncherPage|"
@@ -2086,7 +2088,7 @@ msgstr "תקיית מודים"
 #: src/launcher/ui/pages/global/LauncherPage.cpp:160
 msgctxt "LauncherPage|"
 msgid "Skins Folder"
-msgstr ""
+msgstr "תיקיית סקינים"
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:377
 msgctxt "LauncherPage|"
@@ -2999,7 +3001,7 @@ msgstr ""
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:84
 msgctxt "MinecraftAccount|Account status"
 msgid "Expired"
-msgstr ""
+msgstr "פג תוקף"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:87
 msgctxt "MinecraftAccount|Account status"
@@ -3642,12 +3644,12 @@ msgstr "סוג מופע לא ידוע"
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:18
 msgctxt "OfflineNameDialog|"
 msgid "Player name"
-msgstr ""
+msgstr "שם שחקן"
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:24
 msgctxt "OfflineNameDialog|"
 msgid "Choose your offline mode player name."
-msgstr ""
+msgstr "בחר שם שחקן למצב הלא מקוון."
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:29
 msgctxt "OfflineNameDialog|"
@@ -4618,7 +4620,7 @@ msgstr ""
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:43
 msgctxt "SetSkinStep|"
 msgid "Uploading skin"
-msgstr ""
+msgstr "מעלה סקין"
 
 #: src/launcher/ui/setupwizard/SetupWizard.cpp:28
 msgctxt "SetupWizard|"
@@ -4958,7 +4960,7 @@ msgstr "וונליה"
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
 msgid "Minecraft 24w14a and above require the use of Java 21"
-msgstr ""
+msgstr "מיינקראפט 24w14a ומעלה דורש גרסת Java 21"
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:51
 msgctxt "VerifyJavaInstall|"
@@ -5178,12 +5180,12 @@ msgstr "פתח את תיקיית הספריות המקומית של המופע."
 #: src/launcher/ui/pages/instance/VersionPage.ui:276
 msgctxt "VersionPage|"
 msgid "Install NeoForge"
-msgstr ""
+msgstr "התקן NeoForge"
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:279
 msgctxt "VersionPage|"
 msgid "Install the NeoForge package."
-msgstr ""
+msgstr "התקן את חבילת NeoForge."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:156
 msgctxt "VersionPage|"
@@ -5293,17 +5295,17 @@ msgstr "לא ניתן היה לטעון או להוריד את רשימות הג
 #: src/launcher/ui/pages/instance/VersionPage.cpp:469
 msgctxt "VersionPage|"
 msgid "Select NeoForge version"
-msgstr ""
+msgstr "בחר גרסת NeoForge"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:471
 msgctxt "VersionPage|"
 msgid "No NeoForge versions are currently available for Minecraft "
-msgstr ""
+msgstr "אין גרסאות NeoForge זמינות כרגע עבור מיינקראפט "
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:472
 msgctxt "VersionPage|"
 msgid "Couldn't load or download the NeoForge version lists!"
-msgstr ""
+msgstr "לא ניתן היה לטעון או להוריד את רשימת הגרסאות של NeoForge!"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:498
 msgctxt "VersionPage|"
