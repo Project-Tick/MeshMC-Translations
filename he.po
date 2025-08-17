@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2025-08-17 11:09\n"
+"PO-Revision-Date: 2025-08-17 12:18\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -5724,12 +5724,13 @@ msgstr "האלמנט XErr חסר מתגובת התקלה של האימות של 
 msgctxt "XboxAuthorizationStep|"
 msgid "Your XBox Live account has been banned by Microsoft for violating the XBox Community Standards.\n"
 "This may happen if your account was shared or resold."
-msgstr ""
+msgstr "חשבון ה XBox Live שלך נחסם על ידי מייקרוסופט על הפרת הסטנדרטים של קהילת XBox.\n"
+"דבר זה יכול לקרות אם חשבונך שותף או נמכר מחדש."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:130
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account is linked to a family and your parent or guardian has not given you permission to play online."
-msgstr ""
+msgstr "חשבון מייקרוסופט זה מקושר למשפחה וההורה או האפוטרופוס לא הביא לך גישה לשחק במצב מקוון."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:137
 #, qt-format
@@ -5740,7 +5741,7 @@ msgstr "אין לחשבון המיקרוסופט פרופיל Xbox Live. עלי�
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:145
 msgctxt "XboxAuthorizationStep|"
 msgid "This account has not accepted the XBox Terms of Service. Please log in online and accept them."
-msgstr ""
+msgstr "חשבון זה לא הסכים לתנאי השימוש של XBox. אנא התחבר במצב מקוון והסכם להם."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:153
 msgctxt "XboxAuthorizationStep|"
@@ -5751,7 +5752,7 @@ msgstr "‏Xbox Live לא זמין במדינה שלך. נחסמת."
 #, qt-format
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age."
-msgstr ""
+msgstr "חשבון מייקרוסופט זה דורש הוכחת גיל בכדי לשחק. אנא התחבר ל %1 כדי לספק הוכחת גיל."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:168
 msgctxt "XboxAuthorizationStep|"
