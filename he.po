@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2025-08-14 10:49\n"
+"PO-Revision-Date: 2025-08-17 11:09\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -372,7 +372,7 @@ msgstr "אסימון האימון של חשבון זה פג תוקף, ויש ל�
 #: src/launcher/ui/dialogs/AccountsDialog.ui:792
 msgctxt "AccountsDialog|"
 msgid "Remove and Sign In Again"
-msgstr ""
+msgstr "הסר וכנס מחדש"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:921
 msgctxt "AccountsDialog|"
@@ -589,7 +589,7 @@ msgstr "שום דבר"
 #, qt-format
 msgctxt "ClaimAccount|"
 msgid "Failed to claim account by profile: %1 was not found."
-msgstr ""
+msgstr "נכשלה לקיחת בעלות חשבון על פי פרופיל: %1 לא נמצא."
 
 #: src/launcher/minecraft/ComponentUpdateTask.cpp:270
 msgctxt "ComponentUpdateTask|"
@@ -2976,17 +2976,17 @@ msgstr "לא ניתן היה ליצור תיקיה להורדת עדכונים: 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:69
 msgctxt "MinecraftAccount|Account status"
 msgid "Unchecked"
-msgstr ""
+msgstr "לא נבדק"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:72
 msgctxt "MinecraftAccount|Account status"
 msgid "Offline"
-msgstr ""
+msgstr "לא מקוון"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:75
 msgctxt "MinecraftAccount|Account status"
 msgid "Online"
-msgstr ""
+msgstr "מקוון"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
@@ -2996,7 +2996,7 @@ msgstr "עבד"
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:81
 msgctxt "MinecraftAccount|Account status"
 msgid "Errored"
-msgstr ""
+msgstr "שגוי"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:84
 msgctxt "MinecraftAccount|Account status"
@@ -3006,12 +3006,12 @@ msgstr "פג תוקף"
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:87
 msgctxt "MinecraftAccount|Account status"
 msgid "Gone"
-msgstr ""
+msgstr "אבוד"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:90
 msgctxt "MinecraftAccount|Account status"
 msgid "Must Migrate"
-msgstr ""
+msgstr "חייב להעביר חשבון מוג'אנג למייקרוסופט"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:93
 msgctxt "MinecraftAccount|Account status"
@@ -3177,7 +3177,7 @@ msgstr "פרופיל ה-Java הושג בהצלחה."
 #: src/launcher/minecraft/MinecraftUpdate.cpp:54
 msgctxt "MinecraftUpdate|"
 msgid "Failed to load version components - mmc-pack.json is probably corrupted."
-msgstr ""
+msgstr "נכשלה טעינת רכיבי הגרסה - כנראה שקובץ mmc-pack.json פגום."
 
 #: src/launcher/minecraft/MinecraftUpdate.cpp:91
 msgctxt "MinecraftUpdate|"
@@ -3654,7 +3654,7 @@ msgstr "בחר שם שחקן למצב הלא מקוון."
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:29
 msgctxt "OfflineNameDialog|"
 msgid "Retry Online"
-msgstr ""
+msgstr "נסה מצב מקוון"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:42
 msgctxt "OtherLogsPage|"
@@ -3925,7 +3925,7 @@ msgstr "דלג"
 #: src/launcher/ui/pages/global/ProxyPage.ui:42
 msgctxt "ProxyPage|"
 msgid "This only applies to the launcher."
-msgstr ""
+msgstr "זה חל רק על המשגר."
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
@@ -4610,12 +4610,12 @@ msgstr "תפריט לחיצה ימנית"
 #: src/launcher/minecraft/auth/steps/SetCapeStep.cpp:23
 msgctxt "SetCapeStep|"
 msgid "Setting cape."
-msgstr ""
+msgstr "מגדיר גלימה."
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:39
 msgctxt "SetSkinStep|"
 msgid "Clearing skin"
-msgstr ""
+msgstr "מוחק סקין"
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:43
 msgctxt "SetSkinStep|"
@@ -5756,7 +5756,7 @@ msgstr ""
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:168
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account has reached its playtime limit and has been blocked from logging in."
-msgstr ""
+msgstr "חשבון מייקרוסופט זה הגיע למגבלת זמן המשחק שלו ונחסמה לו האפשרות להתחבר מחדש."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:175
 #, qt-format
