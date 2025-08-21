@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Slovenian\n"
 "Language: sl_SI\n"
-"PO-Revision-Date: 2025-06-06 10:52\n"
+"PO-Revision-Date: 2025-08-21 17:34\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -323,7 +323,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:241
 msgctxt "AccountsDialog|"
 msgid "Reset Changes"
-msgstr ""
+msgstr "Povrni spremembe"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:248
 msgctxt "AccountsDialog|"
@@ -361,12 +361,12 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:657
 msgctxt "AccountsDialog|"
 msgid "Create Profile"
-msgstr ""
+msgstr "Ustvari profil"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:779
 msgctxt "AccountsDialog|"
 msgid "This account's authentication tokens have expired and it needs to be signed in into again."
-msgstr ""
+msgstr "Overjanje na temu računu je preteklo, zato je potreben ponovni vpis."
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:792
 msgctxt "AccountsDialog|"
