@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2025-08-28 18:55\n"
+"PO-Revision-Date: 2025-08-28 20:02\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -5299,7 +5299,7 @@ msgstr "Pilih versi NeoForge"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:471
 msgctxt "VersionPage|"
 msgid "No NeoForge versions are currently available for Minecraft "
-msgstr ""
+msgstr "Tidak ada versi NeoForge yang saat ini tersedia untuk Minecraft "
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:472
 msgctxt "VersionPage|"
@@ -5723,12 +5723,13 @@ msgstr "Elemen XErr hilang dari respons kesalahan otorisasi %1."
 msgctxt "XboxAuthorizationStep|"
 msgid "Your XBox Live account has been banned by Microsoft for violating the XBox Community Standards.\n"
 "This may happen if your account was shared or resold."
-msgstr ""
+msgstr "Akun XBox Live anda telah diblokir oleh Microsoft karena anda melanggar Standar Komunitas XBox.\n"
+"Ini mungkin terjadi jika akun anda telah dibagikan atau dijual kembali."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:130
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account is linked to a family and your parent or guardian has not given you permission to play online."
-msgstr ""
+msgstr "Akun Microsoft ini terkait dengan keluarga dan orang tua/wali anda belum memberikan permisi untuk bermain online."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:137
 #, qt-format
