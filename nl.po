@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-07-08 14:46\n"
+"PO-Revision-Date: 2025-09-21 10:11\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -3927,7 +3927,7 @@ msgstr "Overslaan"
 #: src/launcher/ui/pages/global/ProxyPage.ui:42
 msgctxt "ProxyPage|"
 msgid "This only applies to the launcher."
-msgstr ""
+msgstr "Dit gaat alleen over de launcher."
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
@@ -4610,17 +4610,17 @@ msgstr "Contextmenu"
 #: src/launcher/minecraft/auth/steps/SetCapeStep.cpp:23
 msgctxt "SetCapeStep|"
 msgid "Setting cape."
-msgstr ""
+msgstr "Cape instellingen."
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:39
 msgctxt "SetSkinStep|"
 msgid "Clearing skin"
-msgstr ""
+msgstr "Skin verwijderen"
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:43
 msgctxt "SetSkinStep|"
 msgid "Uploading skin"
-msgstr ""
+msgstr "Skin uploaden"
 
 #: src/launcher/ui/setupwizard/SetupWizard.cpp:28
 msgctxt "SetupWizard|"
@@ -4960,7 +4960,7 @@ msgstr "Standaard"
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
 msgid "Minecraft 24w14a and above require the use of Java 21"
-msgstr ""
+msgstr "Minecraft 21w14a en hoger vereisen het gebruik van Java 21"
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:51
 msgctxt "VerifyJavaInstall|"
@@ -5180,12 +5180,12 @@ msgstr "Open de bij deze instantie behorende map met lokale bibliotheken."
 #: src/launcher/ui/pages/instance/VersionPage.ui:276
 msgctxt "VersionPage|"
 msgid "Install NeoForge"
-msgstr ""
+msgstr "Installeer NeoForge"
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:279
 msgctxt "VersionPage|"
 msgid "Install the NeoForge package."
-msgstr ""
+msgstr "Installeer het NeoForge pakket."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:156
 msgctxt "VersionPage|"
@@ -5295,17 +5295,17 @@ msgstr "Kon de Forge versielijsten niet laden of downloaden!"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:469
 msgctxt "VersionPage|"
 msgid "Select NeoForge version"
-msgstr ""
+msgstr "Selecteer Neoforge versie"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:471
 msgctxt "VersionPage|"
 msgid "No NeoForge versions are currently available for Minecraft "
-msgstr ""
+msgstr "Geen NeoForge versies zijn momenteel gevonden voor Minecraft "
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:472
 msgctxt "VersionPage|"
 msgid "Couldn't load or download the NeoForge version lists!"
-msgstr ""
+msgstr "Kon de NeoForge versie lijst niet laden/downloaden!"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:498
 msgctxt "VersionPage|"
@@ -5724,12 +5724,12 @@ msgstr "XErr element ontbreekt in %1 foutmelding bij toegangsverzoek."
 msgctxt "XboxAuthorizationStep|"
 msgid "Your XBox Live account has been banned by Microsoft for violating the XBox Community Standards.\n"
 "This may happen if your account was shared or resold."
-msgstr ""
+msgstr "Oei... Je XBox Live account is gebanned door Microsoft omdat je de Community Standards hebt geschonden. Dit kan gebeuren als je account gedeeld of herverkocht is."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:130
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account is linked to a family and your parent or guardian has not given you permission to play online."
-msgstr ""
+msgstr "Dit microsoft account is verbonden aan een familie en je ouder of voogd heeft je (nog) geen rechten gegeven om online te spelen."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:137
 #, qt-format
@@ -5740,7 +5740,7 @@ msgstr "Dit Microsoft-account heeft geen XBox Live-profiel. Koop eerst het spel 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:145
 msgctxt "XboxAuthorizationStep|"
 msgid "This account has not accepted the XBox Terms of Service. Please log in online and accept them."
-msgstr ""
+msgstr "Dit account heeft de XBox TOS (Terms Of Service) nog niet geaccepteerd. Log alsjeblieft online in en accepteer ze."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:153
 msgctxt "XboxAuthorizationStep|"
@@ -5751,12 +5751,12 @@ msgstr "XBox Live is niet beschikbaar in uw land. U bent geblokkeerd."
 #, qt-format
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age."
-msgstr ""
+msgstr "Dit Microsoft account moet zijn leeftijd verifiëren. Log alsjeblieft in op %1 om je leeftijd te verifiëren."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:168
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account has reached its playtime limit and has been blocked from logging in."
-msgstr ""
+msgstr "Dit Microsoft account heeft zijn tijdslimiet geraakt en is mag niet meer inloggen."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:175
 #, qt-format
