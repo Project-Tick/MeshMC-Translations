@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2025-10-13 12:53\n"
+"PO-Revision-Date: 2025-10-13 14:43\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -3006,17 +3006,17 @@ msgstr "Utgått"
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:87
 msgctxt "MinecraftAccount|Account status"
 msgid "Gone"
-msgstr ""
+msgstr "Borta"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:90
 msgctxt "MinecraftAccount|Account status"
 msgid "Must Migrate"
-msgstr ""
+msgstr "Måste migrera"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:93
 msgctxt "MinecraftAccount|Account status"
 msgid "Unknown"
-msgstr ""
+msgstr "Okänt"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
@@ -3147,7 +3147,7 @@ msgstr "Minecraft"
 #, qt-format
 msgctxt "MinecraftProfileCreateStep|"
 msgid "Creating the Minecraft profile '%1'."
-msgstr ""
+msgstr "Skapar Minecraft-profilen '%1'."
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:17
 msgctxt "MinecraftProfileStep|"
@@ -3177,7 +3177,7 @@ msgstr "Övertagande av Minecraft Java-profil lyckades."
 #: src/launcher/minecraft/MinecraftUpdate.cpp:54
 msgctxt "MinecraftUpdate|"
 msgid "Failed to load version components - mmc-pack.json is probably corrupted."
-msgstr ""
+msgstr "Misslyckades att ladda versionskomponenter - mmc-pack.json är förmodligen korrupt."
 
 #: src/launcher/minecraft/MinecraftUpdate.cpp:91
 msgctxt "MinecraftUpdate|"
@@ -3350,7 +3350,7 @@ msgstr "Kopierar filer till modpack..."
 #, qt-format
 msgctxt "Modrinth::InstanceExportTask|"
 msgid "Failed to copy file %1 to overrides"
-msgstr ""
+msgstr "Det gick inte att kopiera filen %1 till åsidosättningar"
 
 #: src/launcher/modplatform/modrinth/ModrinthInstanceExportTask.cpp:254
 msgctxt "Modrinth::InstanceExportTask|"
@@ -5539,7 +5539,7 @@ msgstr "Byt Namn"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:125
 msgctxt "WorldListPage|"
 msgid "Copy"
-msgstr "&Kopiera"
+msgstr "Kopiera"
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:130
 msgctxt "WorldListPage|"
