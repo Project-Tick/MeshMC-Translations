@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-02-21 16:11\n"
+"PO-Revision-Date: 2025-11-22 20:27\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -25,13 +25,13 @@ msgstr "无法解析整合包清单：\n"
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to get local metadata index for %1"
-msgstr "获取 %1 的本地元数据索引失败"
+msgstr "无法获取 %1 的本地元数据索引"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:113
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to get local metadata index for '%1' v%2"
-msgstr "获取 '%1' v%2 的本地元数据索引失败"
+msgstr "无法获取 '%1' v%2 的本地元数据索引"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:175
 #, qt-format
@@ -107,17 +107,17 @@ msgstr "未知的下载类型: %1"
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:674
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to extract mods..."
-msgstr "提取模组失败…"
+msgstr "解压模组失败……"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:685
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Extracting mods..."
-msgstr "正在解压缩模组...…"
+msgstr "正在解压模组……"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:758
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Installing modpack"
-msgstr "正在安装整合包......"
+msgstr "正在安装整合包"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:772
 msgctxt "ATLauncher::PackInstallTask|"
@@ -127,7 +127,7 @@ msgstr "创建库组件失败"
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:796
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Unknown loader type: "
-msgstr "未知的加载器类型： "
+msgstr "未知加载器类型： "
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:810
 msgctxt "ATLauncher::PackInstallTask|"
@@ -172,7 +172,7 @@ msgstr "制作人员"
 #: src/launcher/ui/dialogs/AboutDialog.ui:228
 msgctxt "AboutDialog|"
 msgid "License"
-msgstr "开源许可"
+msgstr "许可"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:256
 msgctxt "AboutDialog|"
@@ -609,7 +609,7 @@ msgstr "实例包含冲突的依赖项。"
 #: src/launcher/minecraft/ComponentUpdateTask.cpp:552
 msgctxt "ComponentUpdateTask|"
 msgid "Instance has unresolved dependencies while loading/checking for launch."
-msgstr "实例在运行时执行的加载/检查中发现了未解析的依赖项。"
+msgstr "实例在运行时执行的加载/检查中发现未解析的依赖项。"
 
 #: src/launcher/minecraft/ComponentUpdateTask.cpp:702
 #, qt-format
