@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2025-10-13 14:43\n"
+"PO-Revision-Date: 2026-01-06 12:43\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -3365,7 +3365,7 @@ msgstr "Det gick inte att skapa zipfilen"
 #: src/launcher/modplatform/modrinth/ModrinthInstanceExportTask.cpp:260
 msgctxt "Modrinth::InstanceExportTask|"
 msgid "Failed to create temporary directory"
-msgstr ""
+msgstr "Det gick inte att skapa temporär katalog"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:20
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:41
@@ -3396,12 +3396,12 @@ msgstr "Beskrivning"
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:107
 msgctxt "ModrinthExportDialog|"
 msgid "Export Options"
-msgstr ""
+msgstr "Exportera inställningar"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:127
 msgctxt "ModrinthExportDialog|"
 msgid "File"
-msgstr ""
+msgstr "Fil"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:137
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:205
@@ -3412,22 +3412,22 @@ msgstr "Bläddra..."
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:146
 msgctxt "ModrinthExportDialog|"
 msgid "Include Minecraft config"
-msgstr ""
+msgstr "Inkludera Minecraft konfiguration"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:156
 msgctxt "ModrinthExportDialog|"
 msgid "Include mod configs"
-msgstr ""
+msgstr "Inkludera mod konfiguration"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:166
 msgctxt "ModrinthExportDialog|"
 msgid "Include resource packs"
-msgstr ""
+msgstr "Inkludera resource packs"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:173
 msgctxt "ModrinthExportDialog|"
 msgid "Include shader packs"
-msgstr ""
+msgstr "Inkludera shader pack"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:180
 msgctxt "ModrinthExportDialog|"
@@ -3452,7 +3452,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/ModrinthExportDialog.cpp:45
 msgctxt "ModrinthExportDialog|"
 msgid "Select modpack file"
-msgstr ""
+msgstr "Välj modpack-fil"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.cpp:61
 msgctxt "ModrinthExportDialog|"
@@ -5290,7 +5290,7 @@ msgstr "Misslyckades att hämta eller läsa listorna över Forge-versioner!"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:469
 msgctxt "VersionPage|"
 msgid "Select NeoForge version"
-msgstr ""
+msgstr "Välj NeoForge version"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:471
 msgctxt "VersionPage|"
