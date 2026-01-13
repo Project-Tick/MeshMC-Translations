@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2026-01-06 12:43\n"
+"PO-Revision-Date: 2026-01-13 11:15\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -3432,22 +3432,22 @@ msgstr "Inkludera shader pack"
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:180
 msgctxt "ModrinthExportDialog|"
 msgid "If enabled, all mods, shaders and resource packs that are available on Modrinth will be treated as optional on both client and server. Files that are unavailable on Modrinth will simply retain the \".disabled\" extension as Modrinth packs don't support optional overrides."
-msgstr ""
+msgstr "Om aktiverad, kommer alla mods, shaders och resurspaket som finns tillgängliga på Modrinth att behandlas som tillval på både klient och server. Filer som inte är tillgängliga på Modrinth kommer helt enkelt att behålla tillägget \".inaktiverad\" eftersom Modrinth paket inte stöder valfria åsidosättningar."
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:183
 msgctxt "ModrinthExportDialog|"
 msgid "Treat disabled mods, shaders and resource packs as optional"
-msgstr ""
+msgstr "Behandla inaktiverade mods, shaders och resurspaket som tillval"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:192
 msgctxt "ModrinthExportDialog|"
 msgid "Use this if your modpack contains a mod which adds global datapacks."
-msgstr ""
+msgstr "Använd detta om ditt modpack innehåller ett mod som lägger till globala datapack."
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:195
 msgctxt "ModrinthExportDialog|"
 msgid "Include global datapacks folder:"
-msgstr ""
+msgstr "Inkludera globala datapack-mapp:"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.cpp:45
 msgctxt "ModrinthExportDialog|"
@@ -3457,7 +3457,7 @@ msgstr "Välj modpack-fil"
 #: src/launcher/ui/dialogs/ModrinthExportDialog.cpp:61
 msgctxt "ModrinthExportDialog|"
 msgid "Select global datapacks folder"
-msgstr ""
+msgstr "Välj global datapacks-mapp"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.cpp:98
 msgctxt "ModrinthExportDialog|"
@@ -3469,7 +3469,8 @@ msgstr "Varning"
 msgctxt "ModrinthExportDialog|"
 msgid "Instance contains a custom component: %1\n"
 "This cannot be exported to a Modrinth pack; the exported pack may not work correctly!"
-msgstr ""
+msgstr "Instansen innehåller en anpassad komponent: %1\n"
+"Detta kan inte exporteras till ett Modrinth paket; det exporterade paketet kanske inte fungerar korrekt!"
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.cpp:124
 msgctxt "ModrinthExportDialog|"
@@ -3484,7 +3485,7 @@ msgstr "Varningar"
 #: src/launcher/ui/dialogs/ModrinthExportDialog.cpp:135
 msgctxt "ModrinthExportDialog|"
 msgid "Abort"
-msgstr ""
+msgstr "Avbryt"
 
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui:19
 msgctxt "ModrinthPage|"
@@ -3583,7 +3584,7 @@ msgstr "&Grupp:"
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:72
 msgctxt "NewInstanceDialog|"
 msgid "Reset"
-msgstr ""
+msgstr "Återställ"
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:69
 msgctxt "NewInstanceDialog|"
@@ -3643,17 +3644,17 @@ msgstr "Okänd instanstyp"
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:18
 msgctxt "OfflineNameDialog|"
 msgid "Player name"
-msgstr ""
+msgstr "Spelarnamn"
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:24
 msgctxt "OfflineNameDialog|"
 msgid "Choose your offline mode player name."
-msgstr ""
+msgstr "Välj ditt spelarnamn för offline-läge."
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:29
 msgctxt "OfflineNameDialog|"
 msgid "Retry Online"
-msgstr ""
+msgstr "Försök Igen Online"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:42
 msgctxt "OtherLogsPage|"
@@ -3735,12 +3736,12 @@ msgstr "Filen (%1) är inte läsbar."
 #: src/launcher/ui/pages/instance/OtherLogsPage.cpp:185
 msgctxt "OtherLogsPage|"
 msgid "Log upload"
-msgstr ""
+msgstr "Logga uppladdning"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.cpp:186
 msgctxt "OtherLogsPage|"
 msgid "Are you sure you want to upload this log file?"
-msgstr ""
+msgstr "Är du säker på att du vill ladda upp denna loggfil?"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.cpp:211
 #, qt-format
@@ -3923,7 +3924,7 @@ msgstr "Hoppa över"
 #: src/launcher/ui/pages/global/ProxyPage.ui:42
 msgctxt "ProxyPage|"
 msgid "This only applies to the launcher."
-msgstr ""
+msgstr "Detta gäller endast launchern."
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
@@ -4190,7 +4191,7 @@ msgstr "Ursprunglig författare"
 #: src/launcher/ui/dialogs/AboutDialog.cpp:39
 msgctxt "QObject|About Credits"
 msgid "Maintainer"
-msgstr ""
+msgstr "Utvecklare"
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:54
 msgctxt "QObject|About Credits"
@@ -4200,7 +4201,7 @@ msgstr "Patrons"
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:111
 msgctxt "QObject|"
 msgid "<p>There are no code changes between your current version and the latest.</p>"
-msgstr ""
+msgstr "<p>Det finns inga kodändringar mellan din nuvarande version och den senaste.</p>"
 
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:115
 msgctxt "QObject|"
@@ -4459,13 +4460,13 @@ msgstr "Kontextmeny"
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:317
 msgctxt "ScreenshotsPage|"
 msgid "Upload screenshot to imgur.com?"
-msgstr ""
+msgstr "Ladda upp skärmdump till imgur.com?"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:319
 #, qt-format
 msgctxt "ScreenshotsPage|"
 msgid "Upload %1 screenshots to imgur.com?"
-msgstr ""
+msgstr "Ladda upp %1 skärmdumpar till imgur.com?"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:323
 msgctxt "ScreenshotsPage|"
@@ -4605,17 +4606,17 @@ msgstr "Kontextmeny"
 #: src/launcher/minecraft/auth/steps/SetCapeStep.cpp:23
 msgctxt "SetCapeStep|"
 msgid "Setting cape."
-msgstr ""
+msgstr "Sätter mantel."
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:39
 msgctxt "SetSkinStep|"
 msgid "Clearing skin"
-msgstr ""
+msgstr "Rensar utseende"
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:43
 msgctxt "SetSkinStep|"
 msgid "Uploading skin"
-msgstr ""
+msgstr "Laddar upp utseende"
 
 #: src/launcher/ui/setupwizard/SetupWizard.cpp:28
 msgctxt "SetupWizard|"
@@ -4702,7 +4703,7 @@ msgstr "Laddar ner modpack"
 #: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:79
 msgctxt "Technic::SolderPackInstallTask|"
 msgid "Could not understand pack manifest:\n"
-msgstr ""
+msgstr "Kunde ej förstå packmanifest:\n"
 
 #: src/launcher/modplatform/technic/SolderPackInstallTask.cpp:115
 msgctxt "Technic::SolderPackInstallTask|"
@@ -4884,12 +4885,12 @@ msgstr "Vänta med uppdatering"
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:16
 msgctxt "UpdateDialog|"
 msgid "A new update is available!"
-msgstr ""
+msgstr "En ny uppdatering är tillgänglig!"
 
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:20
 msgctxt "UpdateDialog|"
 msgid "No updates found. You are running the latest version."
-msgstr ""
+msgstr "Inga uppdateringar hittade. Du kör den senaste versionen."
 
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:22
 msgctxt "UpdateDialog|"
