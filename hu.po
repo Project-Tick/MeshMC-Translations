@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Hungarian\n"
 "Language: hu_HU\n"
-"PO-Revision-Date: 2025-04-25 14:47\n"
+"PO-Revision-Date: 2026-03-20 16:50\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -1131,7 +1131,7 @@ msgstr "Importálás zipből"
 #: src/launcher/meta/Index.cpp:71
 msgctxt "Index|"
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 #: src/launcher/ui/widgets/InstanceCardWidget.ui:27
 msgctxt "InstanceCardWidget|"
@@ -1715,7 +1715,7 @@ msgstr "Nincs kiválasztott fiók az indításhoz."
 #: src/launcher/LaunchController.cpp:165
 msgctxt "LaunchController|"
 msgid "Account doesn't have a Minecraft profile"
-msgstr ""
+msgstr "A fióknak nincs Minecraft profilja"
 
 #: src/launcher/LaunchController.cpp:166
 msgctxt "LaunchController|"
@@ -1727,7 +1727,7 @@ msgstr ""
 #: src/launcher/LaunchController.cpp:168
 msgctxt "LaunchController|"
 msgid "Open Accounts"
-msgstr ""
+msgstr "Nyitott számlák"
 
 #: src/launcher/LaunchController.cpp:169 src/launcher/LaunchController.cpp:195
 msgctxt "LaunchController|"
@@ -1766,7 +1766,7 @@ msgstr "Játszás offline"
 #: src/launcher/LaunchController.cpp:234
 msgctxt "LaunchController|"
 msgid "The account has expired and needs to be logged into manually. Press OK to open the accounts window."
-msgstr ""
+msgstr "Ez a fiók lejárt és manuálisan be kell jelentkezni. Nyomd meg hogy OK hogy újra bejelentkezz."
 
 #: src/launcher/LaunchController.cpp:237
 msgctxt "LaunchController|"
@@ -1910,7 +1910,7 @@ msgstr "Mappák"
 #: src/launcher/ui/pages/global/LauncherPage.ui:107
 msgctxt "LauncherPage|"
 msgid "&Skins:"
-msgstr ""
+msgstr "&Kinézetek:"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:117
 msgctxt "LauncherPage|"
@@ -1933,7 +1933,7 @@ msgstr "&Ikonok:"
 #: src/launcher/ui/pages/global/LauncherPage.ui:174
 msgctxt "LauncherPage|"
 msgid "Open"
-msgstr ""
+msgstr "Nyitott"
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:184
 msgctxt "LauncherPage|"
@@ -2088,7 +2088,7 @@ msgstr "Modok mappája"
 #: src/launcher/ui/pages/global/LauncherPage.cpp:160
 msgctxt "LauncherPage|"
 msgid "Skins Folder"
-msgstr ""
+msgstr "Kinézetek mappájának megnyitása"
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:377
 msgctxt "LauncherPage|"
@@ -2908,7 +2908,7 @@ msgstr "Teljes játékidő: 0 mp"
 #: src/launcher/ui/MainWindow.cpp:874 src/launcher/ui/MainWindow.cpp:1183
 msgctxt "MainWindow|"
 msgid "Accounts"
-msgstr ""
+msgstr "Fiókok"
 
 #: src/launcher/ui/MainWindow.cpp:933
 msgctxt "MainWindow|"
@@ -2977,47 +2977,47 @@ msgstr "Nem sikerült mappát létrehozni a frissítések letöltéséhez:\n"
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:69
 msgctxt "MinecraftAccount|Account status"
 msgid "Unchecked"
-msgstr ""
+msgstr "Nem ellenőrzött"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:72
 msgctxt "MinecraftAccount|Account status"
 msgid "Offline"
-msgstr ""
+msgstr "Offline"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:75
 msgctxt "MinecraftAccount|Account status"
 msgid "Online"
-msgstr ""
+msgstr "Online"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
 msgid "Working"
-msgstr ""
+msgstr "Működő"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:81
 msgctxt "MinecraftAccount|Account status"
 msgid "Errored"
-msgstr ""
+msgstr "Hiba"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:84
 msgctxt "MinecraftAccount|Account status"
 msgid "Expired"
-msgstr ""
+msgstr "Lejárt"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:87
 msgctxt "MinecraftAccount|Account status"
 msgid "Gone"
-msgstr ""
+msgstr "Eltűnt"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:90
 msgctxt "MinecraftAccount|Account status"
 msgid "Must Migrate"
-msgstr ""
+msgstr "Migrálás szükséges"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:93
 msgctxt "MinecraftAccount|Account status"
 msgid "Unknown"
-msgstr ""
+msgstr "Ismeretlen"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
@@ -3148,7 +3148,7 @@ msgstr "Minecraft"
 #, qt-format
 msgctxt "MinecraftProfileCreateStep|"
 msgid "Creating the Minecraft profile '%1'."
-msgstr ""
+msgstr "A Minecraft profil lekérése."
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:17
 msgctxt "MinecraftProfileStep|"
@@ -3645,12 +3645,12 @@ msgstr "Ismeretlen példánytípus"
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:18
 msgctxt "OfflineNameDialog|"
 msgid "Player name"
-msgstr ""
+msgstr "Játékos név"
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:24
 msgctxt "OfflineNameDialog|"
 msgid "Choose your offline mode player name."
-msgstr ""
+msgstr "Válaszd ki az offline módos játékos nevedet."
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:29
 msgctxt "OfflineNameDialog|"
