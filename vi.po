@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: multimc\n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
-"PO-Revision-Date: 2026-03-22 15:56\n"
+"PO-Revision-Date: 2026-03-22 16:56\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -854,7 +854,7 @@ msgstr "Phiên bản JProfiler có vẻ đã hoạt động đúng"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:127
 msgctxt "ExternalToolsPage|"
 msgid "JVisualVM Executable"
-msgstr "JVisualVM thực thi"
+msgstr "Chương trình JVisualVM"
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:135
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:150
@@ -4454,7 +4454,7 @@ msgstr "Sao chép ảnh"
 #: src/launcher/ui/pages/instance/ScreenshotsPage.ui:92
 msgctxt "ScreenshotsPage|"
 msgid "Copy File(s)"
-msgstr "Sao Chép Tập Tin"
+msgstr "Sao chép (nhiều) tập tin"
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:280
 msgctxt "ScreenshotsPage|"
@@ -4837,7 +4837,7 @@ msgid "%1:\n"
 "%4 total"
 msgstr "%1:\n"
 "%2 đã dịch\n"
-"%3 fuzzy\n"
+"%3 không chính xác\n"
 "%4 tổng cộng"
 
 #: src/launcher/translations/TranslationsModel.cpp:385
@@ -5525,7 +5525,7 @@ msgstr "Tham gia"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:107
 msgctxt "WorldListPage|"
 msgid "Launch the instance directly into the selected world"
-msgstr "Khời chạy phiên bản thẳng vào thế giới được chọn"
+msgstr "Khởi chạy phiên bản thẳng vào thế giới được chọn"
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:112
 msgctxt "WorldListPage|"
@@ -5764,7 +5764,7 @@ msgstr "Tài khoản Microsoft này đã đến giới hạn thời gian chơi v
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account is underaged and is not linked to a family.\n\n"
 "Please set up your account according to %1."
-msgstr "Tài khoản Microsoft này không được phân cấp và không được liên kết với một gia đình.\n\n"
+msgstr "Tài khoản Microsoft này chưa đủ tuổi và không được liên kết với một gia đình.\n\n"
 "Vui lòng thiết lập tài khoản của bạn theo %1."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:183
