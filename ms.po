@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: ms\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Malay\n"
 "Language: ms_MY\n"
-"PO-Revision-Date: 2025-06-06 10:52\n"
+"PO-Revision-Date: 2026-03-24 16:55\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -152,7 +152,7 @@ msgstr "Versi:"
 #: src/launcher/ui/dialogs/AboutDialog.ui:167
 msgctxt "AboutDialog|"
 msgid "Platform:"
-msgstr "Platform:"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:177
 msgctxt "AboutDialog|"
@@ -203,7 +203,7 @@ msgstr "Versi"
 #: src/launcher/ui/dialogs/AboutDialog.cpp:96
 msgctxt "AboutDialog|"
 msgid "Platform"
-msgstr "Platform"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:99
 msgctxt "AboutDialog|"
@@ -267,7 +267,7 @@ msgstr "Gagal untuk mengesahkan. Akaun itu sudah tidak lagi wujud."
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -536,7 +536,7 @@ msgstr "Cari dan tapis ..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -842,7 +842,7 @@ msgstr "Ralat ketika menyemak pemasangan JProfiler:\n"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
 msgctxt "ExternalToolsPage|"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
 msgctxt "ExternalToolsPage|"
@@ -1119,7 +1119,7 @@ msgstr "Pilih modpack"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1238,7 +1238,7 @@ msgstr "Memuat turun mod..."
 #, qt-format
 msgctxt "InstanceList|"
 msgid "%1 Instance"
-msgstr "%1 Instance"
+msgstr ""
 
 #: src/launcher/InstancePageProvider.h:40
 msgctxt "InstancePageProvider|"
@@ -1552,7 +1552,7 @@ msgstr "Bilangan ingatan tersedia untuk menyimpan kelas Java yang dimuat."
 #: src/launcher/ui/pages/global/JavaPage.ui:141
 msgctxt "JavaPage|"
 msgid "Java Runtime"
-msgstr "Java Runtime"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.ui:153
 msgctxt "JavaPage|"
@@ -1577,7 +1577,7 @@ msgstr "Cuba"
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1649,7 +1649,7 @@ msgstr ""
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -2267,7 +2267,7 @@ msgstr "Adakah anda pasti mahu mengalih keluar pek %1?"
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
 msgctxt "LegacyFTB::Page|"
 msgid "FTB Legacy"
-msgstr "FTB Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
 msgctxt "LegacyInstance|"
@@ -2620,7 +2620,7 @@ msgstr "Buka penjejak pepijat untuk melaporkan pepijat dengan %1."
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2631,7 +2631,7 @@ msgstr "Buka sembang suara discord %1."
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
@@ -2688,7 +2688,7 @@ msgstr "Buka halaman Patreon %1."
 #: src/launcher/ui/MainWindow.cpp:426
 msgctxt "MainWindow|"
 msgid "Meow"
-msgstr "Meow"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:427
 msgctxt "MainWindow|"
@@ -2922,12 +2922,12 @@ msgstr "Padam kumpulan '%1'"
 #: src/launcher/ui/MainWindow.cpp:979
 msgctxt "MainWindow|"
 msgid "Format"
-msgstr "Format"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:982
 msgctxt "MainWindow|"
 msgid "Modrinth (WIP)"
-msgstr "Modrinth (WIP)"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1037
 msgctxt "MainWindow|"
@@ -3046,7 +3046,7 @@ msgstr "rosak"
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
-msgstr "Minecraft %1 (%2)"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:817
 #, qt-format
@@ -3140,7 +3140,7 @@ msgstr "Tunjukkan masa yang dihabiskan untuk bermain dalam jam sahaja"
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
@@ -3186,7 +3186,7 @@ msgstr "Dibatalkan oleh pengguna."
 #: src/launcher/minecraft/mod/ModFolderModel.cpp:368
 msgctxt "ModFolderModel|"
 msgid "Folder"
-msgstr "Folder"
+msgstr ""
 
 #: src/launcher/minecraft/mod/ModFolderModel.cpp:370
 msgctxt "ModFolderModel|"
@@ -3375,7 +3375,7 @@ msgstr "Eksport modpack Modrinth"
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:54
 msgctxt "ModrinthExportDialog|"
 msgid "Metadata"
-msgstr "Metadata"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:71
 msgctxt "ModrinthExportDialog|"
@@ -3539,7 +3539,7 @@ msgstr "Memuat..."
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h:47
 msgctxt "ModrinthPage|"
 msgid "Modrinth"
-msgstr "Modrinth"
+msgstr ""
 
 #: src/launcher/net/NetJob.cpp:128
 #, qt-format
@@ -3561,7 +3561,7 @@ msgstr "Nama"
 #: src/launcher/ui/dialogs/NewComponentDialog.ui:37
 msgctxt "NewComponentDialog|"
 msgid "uid"
-msgstr "uid"
+msgstr ""
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:144
@@ -3945,12 +3945,12 @@ msgstr "Tiada"
 #: src/launcher/ui/pages/global/ProxyPage.ui:84
 msgctxt "ProxyPage|"
 msgid "SOC&KS5"
-msgstr "SOC&KS5"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:94
 msgctxt "ProxyPage|"
 msgid "H&TTP"
-msgstr "H&TTP"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:107
 msgctxt "ProxyPage|"
@@ -4188,7 +4188,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/AboutDialog.cpp:54
 msgctxt "QObject|About Credits"
 msgid "Patrons"
-msgstr "Patrons"
+msgstr ""
 
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:111
 msgctxt "QObject|"
@@ -4259,7 +4259,7 @@ msgstr "Pelayan Minecraft"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1m %2s"
-msgstr "%1m %2s"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:35
 #, qt-format
@@ -4788,7 +4788,7 @@ msgstr " oleh "
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -5357,7 +5357,7 @@ msgstr "Versi"
 #: src/launcher/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -5542,7 +5542,7 @@ msgstr "Alih Keluar"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"

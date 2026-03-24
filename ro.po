@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100>0 && n%100<20)) ? 1 : 2);\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: ro\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Romanian\n"
 "Language: ro_RO\n"
-"PO-Revision-Date: 2025-04-10 17:58\n"
+"PO-Revision-Date: 2026-03-24 16:28\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -267,7 +267,7 @@ msgstr "Autentificare eșuată. Contul nu mai există."
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -308,7 +308,7 @@ msgstr "Deschide folderul cu skin-uri"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
 msgid "Model"
-msgstr "Model"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:215
 msgctxt "AccountsDialog|"
@@ -536,7 +536,7 @@ msgstr "Căutare şi filtrare..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -843,7 +843,7 @@ msgstr "Eroare la verificarea instalării JProfiler:\n"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
 msgctxt "ExternalToolsPage|"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
 msgctxt "ExternalToolsPage|"
@@ -901,7 +901,7 @@ msgstr "Editor JSON"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:224
 msgctxt "ExternalToolsPage|"
 msgid "Invalid"
-msgstr "Invalid"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:225
 msgctxt "ExternalToolsPage|"
@@ -980,22 +980,22 @@ msgstr "Opțiunile jocului"
 #: src/launcher/minecraft/World.cpp:69
 msgctxt "GameType|"
 msgid "Survival"
-msgstr "Survival"
+msgstr ""
 
 #: src/launcher/minecraft/World.cpp:71
 msgctxt "GameType|"
 msgid "Creative"
-msgstr "Creative"
+msgstr ""
 
 #: src/launcher/minecraft/World.cpp:73
 msgctxt "GameType|"
 msgid "Adventure"
-msgstr "Adventure"
+msgstr ""
 
 #: src/launcher/minecraft/World.cpp:75
 msgctxt "GameType|"
 msgid "Spectator"
-msgstr "Spectator"
+msgstr ""
 
 #: src/launcher/minecraft/World.cpp:80
 #, qt-format
@@ -1120,7 +1120,7 @@ msgstr "Alege modpackul"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1270,7 +1270,7 @@ msgstr "Setarile de aici sunt suprapuneri pentru setarile globale."
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:55
 msgctxt "InstanceSettingsPage|"
 msgid "Java insta&llation"
-msgstr "Java insta&llation"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:70
 msgctxt "InstanceSettingsPage|"
@@ -1285,12 +1285,12 @@ msgstr "Răsfoiește..."
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:84
 msgctxt "InstanceSettingsPage|"
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:97
 msgctxt "InstanceSettingsPage|"
 msgid "Memor&y"
-msgstr "Memor&y"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:109
 msgctxt "InstanceSettingsPage|"
@@ -1325,7 +1325,7 @@ msgstr "Notă: Permgen este setat automat de Java 8 şi ulterior"
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:209
 msgctxt "InstanceSettingsPage|"
 msgid "Java argumen&ts"
-msgstr "Java argumen&ts"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:228
 msgctxt "InstanceSettingsPage|"
@@ -1355,7 +1355,7 @@ msgstr "Lățimea ferestrei:"
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:309
 msgctxt "InstanceSettingsPage|"
 msgid "Conso&le Settings"
-msgstr "Conso&le Settings"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:321
 msgctxt "InstanceSettingsPage|"
@@ -1553,12 +1553,12 @@ msgstr "Cantitatea de memorie valabila pentru a stoca clasele Java incarcate."
 #: src/launcher/ui/pages/global/JavaPage.ui:141
 msgctxt "JavaPage|"
 msgid "Java Runtime"
-msgstr "Java Runtime"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.ui:153
 msgctxt "JavaPage|"
 msgid "Java path:"
-msgstr "Java path:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.ui:195
 msgctxt "JavaPage|"
@@ -1573,12 +1573,12 @@ msgstr "Auto-detectează..."
 #: src/launcher/ui/pages/global/JavaPage.ui:221
 msgctxt "JavaPage|"
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1650,7 +1650,7 @@ msgstr "Răsfoiește"
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -2204,17 +2204,17 @@ msgstr "Nu s-a găsit nicio metodă de instalare!"
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:21
 msgctxt "LegacyFTB::Page|"
 msgid "Public"
-msgstr "Public"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:44
 msgctxt "LegacyFTB::Page|"
 msgid "3rd Party"
-msgstr "3rd Party"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:67
 msgctxt "LegacyFTB::Page|"
 msgid "Private"
-msgstr "Private"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.ui:86
 msgctxt "LegacyFTB::Page|"
@@ -2268,12 +2268,12 @@ msgstr "Esti sigur ca vrei sa stergi modpackul %1?"
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
 msgctxt "LegacyFTB::Page|"
 msgid "FTB Legacy"
-msgstr "FTB Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
 msgctxt "LegacyInstance|"
 msgid "Legacy"
-msgstr "Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:225
 msgctxt "LegacyInstance|"
@@ -2620,7 +2620,7 @@ msgstr "Deschide tracker-ul de erori pentru a raporta o eroare cu %1."
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2631,7 +2631,7 @@ msgstr "Deschide %1 chat-ul vocal de pe Discord."
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
@@ -2677,7 +2677,7 @@ msgstr "Verifică actualizări pentru %1."
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Support %1"
-msgstr "Support %1"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:417
 #, qt-format
@@ -2922,12 +2922,12 @@ msgstr "Șterge grupul '%1'"
 #: src/launcher/ui/MainWindow.cpp:979
 msgctxt "MainWindow|"
 msgid "Format"
-msgstr "Format"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:982
 msgctxt "MainWindow|"
 msgid "Modrinth (WIP)"
-msgstr "Modrinth (WIP)"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1037
 msgctxt "MainWindow|"
@@ -3035,7 +3035,7 @@ msgstr "<TOKENUL CLIENTULUI>"
 #: src/launcher/minecraft/MinecraftInstance.cpp:736
 msgctxt "MinecraftInstance|"
 msgid "<PROFILE ID>"
-msgstr "<PROFILE ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:808
 msgctxt "MinecraftInstance|"
@@ -3046,7 +3046,7 @@ msgstr "stricat"
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
-msgstr "Minecraft %1 (%2)"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:817
 #, qt-format
@@ -3140,7 +3140,7 @@ msgstr "Arată timpul petrecut jucând doar în ore"
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
@@ -3186,7 +3186,7 @@ msgstr "Întrerupt de către utilizator."
 #: src/launcher/minecraft/mod/ModFolderModel.cpp:368
 msgctxt "ModFolderModel|"
 msgid "Folder"
-msgstr "Folder"
+msgstr ""
 
 #: src/launcher/minecraft/mod/ModFolderModel.cpp:370
 msgctxt "ModFolderModel|"
@@ -3539,7 +3539,7 @@ msgstr "Încărcare..."
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h:47
 msgctxt "ModrinthPage|"
 msgid "Modrinth"
-msgstr "Modrinth"
+msgstr ""
 
 #: src/launcher/net/NetJob.cpp:128
 #, qt-format
@@ -3562,7 +3562,7 @@ msgstr "Nume"
 #: src/launcher/ui/dialogs/NewComponentDialog.ui:37
 msgctxt "NewComponentDialog|"
 msgid "uid"
-msgstr "uid"
+msgstr ""
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:144
@@ -3949,12 +3949,12 @@ msgstr "&Niciunul"
 #: src/launcher/ui/pages/global/ProxyPage.ui:84
 msgctxt "ProxyPage|"
 msgid "SOC&KS5"
-msgstr "SOC&KS5"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:94
 msgctxt "ProxyPage|"
 msgid "H&TTP"
-msgstr "H&TTP"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:107
 msgctxt "ProxyPage|"
@@ -3984,7 +3984,7 @@ msgstr "Notă: Numele de utilizator și parola de proxy sunt stocate în text si
 #: src/launcher/ui/pages/global/ProxyPage.h:39
 msgctxt "ProxyPage|"
 msgid "Proxy"
-msgstr "Proxy"
+msgstr ""
 
 #: src/launcher/minecraft/AssetsUtils.cpp:323
 #, qt-format
@@ -4268,19 +4268,19 @@ msgstr "Server de Minecraft"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1m %2s"
-msgstr "%1m %2s"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:35
 #, qt-format
 msgctxt "QObject|"
 msgid "%1h %2m"
-msgstr "%1h %2m"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:37
 #, qt-format
 msgctxt "QObject|"
 msgid "%1d %2h %3m"
-msgstr "%1d %2h %3m"
+msgstr ""
 
 #: src/launcher/tools/JVisualVM.cpp:92 src/launcher/tools/JProfiler.cpp:99
 msgctxt "QObject|"
@@ -4793,12 +4793,12 @@ msgstr "Caută"
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.cpp:198
 msgctxt "TechnicPage|"
 msgid " by "
-msgstr " by "
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -4932,12 +4932,12 @@ msgstr "Capturi Vechi"
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:84
 msgctxt "VanillaPage|"
 msgid "Betas"
-msgstr "Betas"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:94
 msgctxt "VanillaPage|"
 msgid "Alphas"
-msgstr "Alphas"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:104
 msgctxt "VanillaPage|"
@@ -4952,7 +4952,7 @@ msgstr "Reîncarcă"
 #: src/launcher/ui/pages/modplatform/VanillaPage.h:40
 msgctxt "VanillaPage|"
 msgid "Vanilla"
-msgstr "Vanilla"
+msgstr ""
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
@@ -5367,7 +5367,7 @@ msgstr "Versiune"
 #: src/launcher/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -5552,7 +5552,7 @@ msgstr "Eliminaţi"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"

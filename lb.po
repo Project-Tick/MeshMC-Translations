@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: lb\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Luxembourgish\n"
 "Language: lb_LU\n"
-"PO-Revision-Date: 2025-06-06 10:52\n"
+"PO-Revision-Date: 2026-03-24 16:55\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -536,7 +536,7 @@ msgstr "Sichen an Filtréiren ..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -775,7 +775,7 @@ msgstr "Export Instanz"
 #, qt-format
 msgctxt "ExportInstanceDialog|"
 msgid "Export %1"
-msgstr "Export %1"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:393
 msgctxt "ExportInstanceDialog|"
@@ -812,7 +812,7 @@ msgstr "Extern Redaktoren (eidel loossen fir den System Standart)"
 #: src/launcher/ui/pages/global/ExternalToolsPage.ui:159
 msgctxt "ExternalToolsPage|"
 msgid "Text Editor:"
-msgstr "Text Editor:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:90
 msgctxt "ExternalToolsPage|"
@@ -843,7 +843,7 @@ msgstr "Fehler beim Iwwerpréiwen vun der JProfiler Installatioun:\n"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
 msgctxt "ExternalToolsPage|"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
 msgctxt "ExternalToolsPage|"
@@ -1095,7 +1095,7 @@ msgstr "Icons wielen"
 #, qt-format
 msgctxt "IconPickerDialog|"
 msgid "Icons %1"
-msgstr "Icons %1"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/import_ftb/FTBAPage.h:41
 msgctxt "ImportFTB::FTBAPage|"
@@ -1284,7 +1284,7 @@ msgstr "Duerchsichen..."
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:84
 msgctxt "InstanceSettingsPage|"
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:97
 msgctxt "InstanceSettingsPage|"
@@ -1474,7 +1474,7 @@ msgstr ""
 #: src/launcher/ui/InstanceWindow.cpp:126
 msgctxt "InstanceWindow|"
 msgid "Kill"
-msgstr "Kill"
+msgstr ""
 
 #: src/launcher/ui/InstanceWindow.cpp:128
 msgctxt "InstanceWindow|"
@@ -2259,7 +2259,7 @@ msgstr ""
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
 msgctxt "LegacyFTB::Page|"
 msgid "FTB Legacy"
-msgstr "FTB Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
 msgctxt "LegacyInstance|"

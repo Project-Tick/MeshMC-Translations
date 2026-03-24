@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: da\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Danish\n"
 "Language: da_DK\n"
-"PO-Revision-Date: 2025-05-19 18:26\n"
+"PO-Revision-Date: 2026-03-24 16:54\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -147,12 +147,12 @@ msgstr "<html><head/><body><p>En brugerdefineret launcher, der gør det nemmere 
 #: src/launcher/ui/dialogs/AboutDialog.ui:157
 msgctxt "AboutDialog|"
 msgid "Version:"
-msgstr "Version:"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:167
 msgctxt "AboutDialog|"
 msgid "Platform:"
-msgstr "Platform:"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:177
 msgctxt "AboutDialog|"
@@ -198,12 +198,12 @@ msgstr "Om %1"
 #: src/launcher/ui/dialogs/AboutDialog.cpp:95
 msgctxt "AboutDialog|"
 msgid "Version"
-msgstr "Version"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:96
 msgctxt "AboutDialog|"
 msgid "Platform"
-msgstr "Platform"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:99
 msgctxt "AboutDialog|"
@@ -265,7 +265,7 @@ msgstr "Godkendelse mislykkedes. Kontoen eksisterer ikke længere."
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -306,7 +306,7 @@ msgstr "Åbn skins mappe"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
 msgid "Model"
-msgstr "Model"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:215
 msgctxt "AccountsDialog|"
@@ -336,7 +336,7 @@ msgstr "Gem skin til fil"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:295
 msgctxt "AccountsDialog|"
 msgid "Skins"
-msgstr "Skins"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:333
 msgctxt "AccountsDialog|"
@@ -534,7 +534,7 @@ msgstr "Søg og filtrer ..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -859,8 +859,7 @@ msgstr "JVisualVM-program"
 msgctxt "ExternalToolsPage|"
 msgid "Error while checking JVisualVM install:\n"
 "%1"
-msgstr "Error while checking JVisualVM install:\n"
-"%1"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:154
 msgctxt "ExternalToolsPage|"
@@ -1118,7 +1117,7 @@ msgstr "Vælg modpack"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1283,7 +1282,7 @@ msgstr "Gennemse..."
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:84
 msgctxt "InstanceSettingsPage|"
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:97
 msgctxt "InstanceSettingsPage|"
@@ -1551,7 +1550,7 @@ msgstr "Den tilgængelige mængde hukommelse til at lagre hentede Java-klasser."
 #: src/launcher/ui/pages/global/JavaPage.ui:141
 msgctxt "JavaPage|"
 msgid "Java Runtime"
-msgstr "Java Runtime"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.ui:153
 msgctxt "JavaPage|"
@@ -1571,12 +1570,12 @@ msgstr "Automatisk registrering..."
 #: src/launcher/ui/pages/global/JavaPage.ui:221
 msgctxt "JavaPage|"
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1645,7 +1644,7 @@ msgstr "Gennemse"
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -1904,7 +1903,7 @@ msgstr "Mapper"
 #: src/launcher/ui/pages/global/LauncherPage.ui:107
 msgctxt "LauncherPage|"
 msgid "&Skins:"
-msgstr "&Skins:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:117
 msgctxt "LauncherPage|"
@@ -2263,12 +2262,12 @@ msgstr "Er du sikker på du vil fjerne pakke %1?"
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
 msgctxt "LegacyFTB::Page|"
 msgid "FTB Legacy"
-msgstr "FTB Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
 msgctxt "LegacyInstance|"
 msgid "Legacy"
-msgstr "Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:225
 msgctxt "LegacyInstance|"
@@ -2393,7 +2392,7 @@ msgstr "Upload loggen til paste.ee - den forbliver online en måned"
 #: src/launcher/ui/pages/instance/LogPage.ui:106
 msgctxt "LogPage|"
 msgid "Upload"
-msgstr "Upload"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/LogPage.ui:113
 msgctxt "LogPage|"
@@ -2413,7 +2412,7 @@ msgstr "Søg:"
 #: src/launcher/ui/pages/instance/LogPage.ui:132
 msgctxt "LogPage|"
 msgid "Find"
-msgstr "Find"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/LogPage.ui:142
 msgctxt "LogPage|"
@@ -2433,7 +2432,7 @@ msgstr "Minecraft-log"
 #: src/launcher/ui/pages/instance/LogPage.cpp:244
 msgctxt "LogPage|"
 msgid "Log upload"
-msgstr "Log upload"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/LogPage.cpp:245
 msgctxt "LogPage|"
@@ -2616,7 +2615,7 @@ msgstr ""
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2627,7 +2626,7 @@ msgstr ""
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
@@ -2918,7 +2917,7 @@ msgstr "Slet gruppe %1"
 #: src/launcher/ui/MainWindow.cpp:979
 msgctxt "MainWindow|"
 msgid "Format"
-msgstr "Format"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:982
 msgctxt "MainWindow|"
@@ -2976,12 +2975,12 @@ msgstr ""
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:72
 msgctxt "MinecraftAccount|Account status"
 msgid "Offline"
-msgstr "Offline"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:75
 msgctxt "MinecraftAccount|Account status"
 msgid "Online"
-msgstr "Online"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
@@ -3016,22 +3015,22 @@ msgstr "Ukendt"
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
 msgid "<SESSION ID>"
-msgstr "<SESSION ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:732
 msgctxt "MinecraftInstance|"
 msgid "<ACCESS TOKEN>"
-msgstr "<ACCESS TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:734
 msgctxt "MinecraftInstance|"
 msgid "<CLIENT TOKEN>"
-msgstr "<CLIENT TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:736
 msgctxt "MinecraftInstance|"
 msgid "<PROFILE ID>"
-msgstr "<PROFILE ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:808
 msgctxt "MinecraftInstance|"
@@ -3042,7 +3041,7 @@ msgstr "defekt"
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
-msgstr "Minecraft %1 (%2)"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:817
 #, qt-format
@@ -3136,7 +3135,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
@@ -3197,7 +3196,7 @@ msgstr "Navn"
 #: src/launcher/minecraft/mod/ModFolderModel.cpp:466
 msgctxt "ModFolderModel|"
 msgid "Version"
-msgstr "Version"
+msgstr ""
 
 #: src/launcher/minecraft/mod/ModFolderModel.cpp:468
 msgctxt "ModFolderModel|"
@@ -3227,7 +3226,7 @@ msgstr "Dato og tid for dette mod blev senest ændret (eller tilføjet)."
 #: src/launcher/ui/pages/instance/ModFolderPage.ui:39
 msgctxt "ModFolderPage|"
 msgid "Filter:"
-msgstr "Filter:"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/ModFolderPage.ui:75
 msgctxt "ModFolderPage|"
@@ -3371,7 +3370,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:54
 msgctxt "ModrinthExportDialog|"
 msgid "Metadata"
-msgstr "Metadata"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:71
 msgctxt "ModrinthExportDialog|"
@@ -3381,7 +3380,7 @@ msgstr "Navn"
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:81
 msgctxt "ModrinthExportDialog|"
 msgid "Version"
-msgstr "Version"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:88
 msgctxt "ModrinthExportDialog|"
@@ -3556,7 +3555,7 @@ msgstr "Navn"
 #: src/launcher/ui/dialogs/NewComponentDialog.ui:37
 msgctxt "NewComponentDialog|"
 msgid "uid"
-msgstr "uid"
+msgstr ""
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:144
@@ -3651,7 +3650,7 @@ msgstr ""
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:42
 msgctxt "OtherLogsPage|"
 msgid "Find"
-msgstr "Find"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:67
 msgctxt "OtherLogsPage|"
@@ -3683,7 +3682,7 @@ msgstr "Upload loggen til paste.ee - den vil forblive online i en måned"
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:90
 msgctxt "OtherLogsPage|"
 msgid "Upload"
-msgstr "Upload"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:100
 msgctxt "OtherLogsPage|"
@@ -3789,7 +3788,7 @@ msgstr "Navn"
 #: src/launcher/minecraft/PackProfile.cpp:859
 msgctxt "PackProfile|"
 msgid "Version"
-msgstr "Version"
+msgstr ""
 
 #: src/launcher/ui/pages/global/PasteEEPage.ui:39
 msgctxt "PasteEEPage|"
@@ -3920,7 +3919,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
 msgid "Type"
-msgstr "Type"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:61
 msgctxt "ProxyPage|"
@@ -3940,12 +3939,12 @@ msgstr "&Ingen"
 #: src/launcher/ui/pages/global/ProxyPage.ui:84
 msgctxt "ProxyPage|"
 msgid "SOC&KS5"
-msgstr "SOC&KS5"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:94
 msgctxt "ProxyPage|"
 msgid "H&TTP"
-msgstr "H&TTP"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:107
 msgctxt "ProxyPage|"
@@ -3975,7 +3974,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/ProxyPage.h:39
 msgctxt "ProxyPage|"
 msgid "Proxy"
-msgstr "Proxy"
+msgstr ""
 
 #: src/launcher/minecraft/AssetsUtils.cpp:323
 #, qt-format
@@ -4168,7 +4167,7 @@ msgstr "Lys"
 #: src/launcher/ui/themes/SystemTheme.cpp:47
 msgctxt "QObject|"
 msgid "System"
-msgstr "System"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:36
 msgctxt "QObject|About Credits"
@@ -4183,7 +4182,7 @@ msgstr "Vedligeholder"
 #: src/launcher/ui/dialogs/AboutDialog.cpp:54
 msgctxt "QObject|About Credits"
 msgid "Patrons"
-msgstr "Patrons"
+msgstr ""
 
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:111
 msgctxt "QObject|"
@@ -4254,19 +4253,19 @@ msgstr "Minecraft Servere"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1m %2s"
-msgstr "%1m %2s"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:35
 #, qt-format
 msgctxt "QObject|"
 msgid "%1h %2m"
-msgstr "%1h %2m"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:37
 #, qt-format
 msgctxt "QObject|"
 msgid "%1d %2h %3m"
-msgstr "%1d %2h %3m"
+msgstr ""
 
 #: src/launcher/tools/JVisualVM.cpp:92 src/launcher/tools/JProfiler.cpp:99
 msgctxt "QObject|"
@@ -4407,7 +4406,7 @@ msgstr "Handlinger"
 #: src/launcher/ui/pages/instance/ScreenshotsPage.ui:61
 msgctxt "ScreenshotsPage|"
 msgid "Upload"
-msgstr "Upload"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.ui:66
 msgctxt "ScreenshotsPage|"
@@ -4455,7 +4454,7 @@ msgstr ""
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:323
 msgctxt "ScreenshotsPage|"
 msgid "Upload?"
-msgstr "Upload?"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:345
 #: src/launcher/ui/pages/instance/ScreenshotsPage.cpp:385
@@ -4779,7 +4778,7 @@ msgstr " af "
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -4890,7 +4889,7 @@ msgstr ""
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:41
 msgctxt "VanillaPage|"
 msgid "Filter"
-msgstr "Filter"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:51
 msgctxt "VanillaPage|"
@@ -5528,7 +5527,7 @@ msgstr "Fjern"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"

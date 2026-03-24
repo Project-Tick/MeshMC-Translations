@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: nl\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-01-24 17:00\n"
+"PO-Revision-Date: 2026-03-24 16:55\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -90,7 +90,7 @@ msgstr "Mods downloaden..."
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:540
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Mod download"
-msgstr "Mod download"
+msgstr ""
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:554
 #, qt-format
@@ -152,7 +152,7 @@ msgstr "Versie:"
 #: src/launcher/ui/dialogs/AboutDialog.ui:167
 msgctxt "AboutDialog|"
 msgid "Platform:"
-msgstr "Platform:"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:177
 msgctxt "AboutDialog|"
@@ -203,7 +203,7 @@ msgstr "Versie"
 #: src/launcher/ui/dialogs/AboutDialog.cpp:96
 msgctxt "AboutDialog|"
 msgid "Platform"
-msgstr "Platform"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:99
 msgctxt "AboutDialog|"
@@ -267,7 +267,7 @@ msgstr "Authenticatie mislukt. Het account bestaat niet meer."
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -536,7 +536,7 @@ msgstr "Zoeken en filteren..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -843,7 +843,7 @@ msgstr "Error bij het controleren van de JProfiler installatie:\n"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
 msgctxt "ExternalToolsPage|"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
 msgctxt "ExternalToolsPage|"
@@ -1120,7 +1120,7 @@ msgstr "Kies modpack"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1175,7 +1175,7 @@ msgstr "Downloaden van modpack:\n"
 #: src/launcher/InstanceImportTask.cpp:61
 msgctxt "InstanceImportTask|"
 msgid "Modpack download"
-msgstr "Modpack download"
+msgstr ""
 
 #: src/launcher/InstanceImportTask.cpp:91
 msgctxt "InstanceImportTask|"
@@ -1228,7 +1228,7 @@ msgstr "De overrides-map kon niet worden samengevoegd:\n"
 #: src/launcher/InstanceImportTask.cpp:464
 msgctxt "InstanceImportTask|"
 msgid "Mod download"
-msgstr "Mod download"
+msgstr ""
 
 #: src/launcher/InstanceImportTask.cpp:487
 msgctxt "InstanceImportTask|"
@@ -1285,7 +1285,7 @@ msgstr "Bladeren..."
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:84
 msgctxt "InstanceSettingsPage|"
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:97
 msgctxt "InstanceSettingsPage|"
@@ -1380,7 +1380,7 @@ msgstr "Aangepaste opdrachten"
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:369
 msgctxt "InstanceSettingsPage|"
 msgid "Workarounds"
-msgstr "Workarounds"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:378
 msgctxt "InstanceSettingsPage|"
@@ -1460,7 +1460,7 @@ msgstr "Consolescherm van "
 #: src/launcher/ui/InstanceWindow.cpp:64
 msgctxt "InstanceWindow|"
 msgid "Help"
-msgstr "Help"
+msgstr ""
 
 #: src/launcher/ui/InstanceWindow.cpp:77
 msgctxt "InstanceWindow|"
@@ -1573,12 +1573,12 @@ msgstr "Auto-detectie..."
 #: src/launcher/ui/pages/global/JavaPage.ui:221
 msgctxt "JavaPage|"
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1650,7 +1650,7 @@ msgstr "Bladeren"
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -1913,7 +1913,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/LauncherPage.ui:117
 msgctxt "LauncherPage|"
 msgid "&Mods:"
-msgstr "&Mods:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:130
 msgctxt "LauncherPage|"
@@ -2016,7 +2016,7 @@ msgstr "Kleuren"
 #: src/launcher/ui/pages/global/LauncherPage.ui:376
 msgctxt "LauncherPage|"
 msgid "Console"
-msgstr "Console"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:382
 msgctxt "LauncherPage|"
@@ -2267,7 +2267,7 @@ msgstr "Weet u zeker dat u pack %1 wilt verwijderen?"
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
 msgctxt "LegacyFTB::Page|"
 msgid "FTB Legacy"
-msgstr "FTB Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
 msgctxt "LegacyInstance|"
@@ -2620,7 +2620,7 @@ msgstr "Open de probleemrapportage om een probleem aan %1 door te geven."
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2631,13 +2631,13 @@ msgstr "Open %1 Discord spraakchat."
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Open %1 subreddit."
-msgstr "Open %1 subreddit."
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:380
 #, qt-format
@@ -2654,7 +2654,7 @@ msgstr "Toon informatie over %1."
 #: src/launcher/ui/MainWindow.cpp:386 src/launcher/ui/MainWindow.cpp:697
 msgctxt "MainWindow|"
 msgid "Help"
-msgstr "Help"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:387
 #, qt-format
@@ -2927,12 +2927,12 @@ msgstr "Indeling"
 #: src/launcher/ui/MainWindow.cpp:982
 msgctxt "MainWindow|"
 msgid "Modrinth (WIP)"
-msgstr "Modrinth (WIP)"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1037
 msgctxt "MainWindow|"
 msgid "Profilers"
-msgstr "Profilers"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1049
 msgctxt "MainWindow|"
@@ -3020,22 +3020,22 @@ msgstr ""
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
 msgid "<SESSION ID>"
-msgstr "<SESSION ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:732
 msgctxt "MinecraftInstance|"
 msgid "<ACCESS TOKEN>"
-msgstr "<ACCESS TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:734
 msgctxt "MinecraftInstance|"
 msgid "<CLIENT TOKEN>"
-msgstr "<CLIENT TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:736
 msgctxt "MinecraftInstance|"
 msgid "<PROFILE ID>"
-msgstr "<PROFILE ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:808
 msgctxt "MinecraftInstance|"
@@ -3046,7 +3046,7 @@ msgstr "defect"
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
-msgstr "Minecraft %1 (%2)"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:817
 #, qt-format
@@ -3140,7 +3140,7 @@ msgstr "Toon de speeltijd alleen in uren"
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
@@ -3231,7 +3231,7 @@ msgstr "De datum en tijd waarop deze mod voor het laatst is gewijzigd (of toegev
 #: src/launcher/ui/pages/instance/ModFolderPage.ui:39
 msgctxt "ModFolderPage|"
 msgid "Filter:"
-msgstr "Filter:"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/ModFolderPage.ui:75
 msgctxt "ModFolderPage|"
@@ -3375,7 +3375,7 @@ msgstr "Modrinth modpack exporteren"
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:54
 msgctxt "ModrinthExportDialog|"
 msgid "Metadata"
-msgstr "Metadata"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:71
 msgctxt "ModrinthExportDialog|"
@@ -3539,7 +3539,7 @@ msgstr "Bezig met laden..."
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h:47
 msgctxt "ModrinthPage|"
 msgid "Modrinth"
-msgstr "Modrinth"
+msgstr ""
 
 #: src/launcher/net/NetJob.cpp:128
 #, qt-format
@@ -3929,7 +3929,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
 msgid "Type"
-msgstr "Type"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:61
 msgctxt "ProxyPage|"
@@ -3949,12 +3949,12 @@ msgstr "Gee&n"
 #: src/launcher/ui/pages/global/ProxyPage.ui:84
 msgctxt "ProxyPage|"
 msgid "SOC&KS5"
-msgstr "SOC&KS5"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:94
 msgctxt "ProxyPage|"
 msgid "H&TTP"
-msgstr "H&TTP"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:107
 msgctxt "ProxyPage|"
@@ -3984,7 +3984,7 @@ msgstr "Opmerking: Proxy-gebruikersnaam en wachtwoord worden als platte tekst in
 #: src/launcher/ui/pages/global/ProxyPage.h:39
 msgctxt "ProxyPage|"
 msgid "Proxy"
-msgstr "Proxy"
+msgstr ""
 
 #: src/launcher/minecraft/AssetsUtils.cpp:323
 #, qt-format
@@ -4197,7 +4197,7 @@ msgstr "Beheerder"
 #: src/launcher/ui/dialogs/AboutDialog.cpp:54
 msgctxt "QObject|About Credits"
 msgid "Patrons"
-msgstr "Patrons"
+msgstr ""
 
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:111
 msgctxt "QObject|"
@@ -4268,7 +4268,7 @@ msgstr "Minecraft server"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1m %2s"
-msgstr "%1m %2s"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:35
 #, qt-format
@@ -4597,7 +4597,7 @@ msgstr "Deelnemen"
 #: src/launcher/ui/pages/instance/ServersPage.h:46
 msgctxt "ServersPage|"
 msgid "Servers"
-msgstr "Servers"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/ServersPage.cpp:605
 msgctxt "ServersPage|"
@@ -4661,7 +4661,7 @@ msgstr "Downloaden van modpack:\n"
 #: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:47
 msgctxt "Technic::SingleZipPackInstallTask|"
 msgid "Modpack download"
-msgstr "Modpack download"
+msgstr ""
 
 #: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:61
 msgctxt "Technic::SingleZipPackInstallTask|"
@@ -4798,7 +4798,7 @@ msgstr " door "
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -4912,7 +4912,7 @@ msgstr "<p align=\"center\" <span style=\"font-size:22pt;\">De wijzigingslijst k
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:41
 msgctxt "VanillaPage|"
 msgid "Filter"
-msgstr "Filter"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:51
 msgctxt "VanillaPage|"
@@ -4982,7 +4982,7 @@ msgstr "Er zijn momenteel geen versies beschikbaar."
 #: src/launcher/ui/pages/instance/VersionPage.ui:60
 msgctxt "VersionPage|"
 msgid "Filter:"
-msgstr "Filter:"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:82
 msgctxt "VersionPage|"
@@ -5239,7 +5239,7 @@ msgstr "Jar mods selecteren"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:307
 msgctxt "VersionPage|"
 msgid "Minecraft.jar mods (*.zip *.jar)"
-msgstr "Minecraft.jar mods (*.zip *.jar)"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:317
 msgctxt "VersionPage|"
@@ -5367,7 +5367,7 @@ msgstr "Versie"
 #: src/launcher/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -5377,7 +5377,7 @@ msgstr "Aftakking"
 #: src/launcher/VersionProxyModel.cpp:82
 msgctxt "VersionProxyModel|"
 msgid "Type"
-msgstr "Type"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:84
 msgctxt "VersionProxyModel|"
@@ -5552,7 +5552,7 @@ msgstr "Verwijderen"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"
@@ -5582,7 +5582,7 @@ msgstr "Verwijder het wereldpictogram zodat de volgende keer dat het spel wordt 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:163
 msgctxt "WorldListPage|"
 msgid "Datapacks"
-msgstr "Datapacks"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:166
 msgctxt "WorldListPage|"
