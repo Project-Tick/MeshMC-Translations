@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: projtlauncher\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
-"PO-Revision-Date: 2026-03-24 16:54\n"
+"PO-Revision-Date: 2026-03-24 18:22\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -3589,7 +3589,7 @@ msgstr "&Група:"
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:72
 msgctxt "NewInstanceDialog|"
 msgid "Reset"
-msgstr ""
+msgstr "Нулирай"
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:69
 msgctxt "NewInstanceDialog|"
