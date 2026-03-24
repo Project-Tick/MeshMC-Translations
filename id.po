@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: id\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
-"PO-Revision-Date: 2025-08-28 20:02\n"
+"PO-Revision-Date: 2026-03-24 16:55\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -152,7 +152,7 @@ msgstr "Versi:"
 #: src/launcher/ui/dialogs/AboutDialog.ui:167
 msgctxt "AboutDialog|"
 msgid "Platform:"
-msgstr "Platform:"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:177
 msgctxt "AboutDialog|"
@@ -203,7 +203,7 @@ msgstr "Versi"
 #: src/launcher/ui/dialogs/AboutDialog.cpp:96
 msgctxt "AboutDialog|"
 msgid "Platform"
-msgstr "Platform"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:99
 msgctxt "AboutDialog|"
@@ -267,7 +267,7 @@ msgstr "Gagal autentikasi. Akun tersebuk tidak ada lagi."
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -308,7 +308,7 @@ msgstr "Buka Folder Skin"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
 msgid "Model"
-msgstr "Model"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:215
 msgctxt "AccountsDialog|"
@@ -537,7 +537,7 @@ msgstr "Pencarian dan filter ..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -791,7 +791,7 @@ msgstr "File ini sudah ada. Apakah anda mau menimpa ulang file ini?"
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
 msgctxt "ExportInstanceDialog|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
 msgctxt "ExportInstanceDialog|"
@@ -828,7 +828,7 @@ msgstr "Folder JProfiler"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:191
 msgctxt "ExternalToolsPage|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:98
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:113
@@ -844,7 +844,7 @@ msgstr "Error disaat memeriksa Jalur instal JProfiler: \n"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
 msgctxt "ExternalToolsPage|"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
 msgctxt "ExternalToolsPage|"
@@ -966,7 +966,7 @@ msgstr "Gagal membuat folder untuk binari minecraft."
 #: src/launcher/minecraft/gameoptions/GameOptions.cpp:82
 msgctxt "GameOptions|"
 msgid "Key"
-msgstr "Key"
+msgstr ""
 
 #: src/launcher/minecraft/gameoptions/GameOptions.cpp:84
 msgctxt "GameOptions|"
@@ -1121,7 +1121,7 @@ msgstr "Pilih modpack"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1579,7 +1579,7 @@ msgstr "Uji coba"
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1651,7 +1651,7 @@ msgstr "Telusuri"
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -1803,7 +1803,7 @@ msgstr "Gagal menjalankan."
 #: src/launcher/LaunchController.cpp:290 src/launcher/LaunchController.cpp:362
 msgctxt "LaunchController|"
 msgid "Error!"
-msgstr "Error!"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:290 src/launcher/LaunchController.cpp:291
 msgctxt "LaunchController|"
@@ -1848,7 +1848,7 @@ msgstr "Tidak dapat memulai profiler: %1"
 #: src/launcher/LaunchController.cpp:385
 msgctxt "LaunchController|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:413
 msgctxt "LaunchController|"
@@ -2300,7 +2300,7 @@ msgstr "Perbarui"
 #: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:27
 msgctxt "LegacyUpgradePage|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:30
 msgctxt "LegacyUpgradePage|"
@@ -2623,7 +2623,7 @@ msgstr "Buka pelacak bug untuk melaporkan bug dalam %1."
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2634,7 +2634,7 @@ msgstr "Buka voice chat discord %1."
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
@@ -2925,12 +2925,12 @@ msgstr "Hapus grup '%1'"
 #: src/launcher/ui/MainWindow.cpp:979
 msgctxt "MainWindow|"
 msgid "Format"
-msgstr "Format"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:982
 msgctxt "MainWindow|"
 msgid "Modrinth (WIP)"
-msgstr "Modrinth (Sedang Dikerjakan)"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1037
 msgctxt "MainWindow|"
@@ -2965,7 +2965,7 @@ msgstr "Tidak ada berita baru."
 #: src/launcher/ui/MainWindow.cpp:1331 src/launcher/ui/MainWindow.cpp:1348
 msgctxt "MainWindow|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1331
 #, qt-format
@@ -2993,7 +2993,7 @@ msgstr ""
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
 msgid "Working"
-msgstr "Sedang Bekerja"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:81
 msgctxt "MinecraftAccount|Account status"
@@ -3003,7 +3003,7 @@ msgstr ""
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:84
 msgctxt "MinecraftAccount|Account status"
 msgid "Expired"
-msgstr "Masa berlaku telah habis"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:87
 msgctxt "MinecraftAccount|Account status"
@@ -3018,27 +3018,27 @@ msgstr ""
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:93
 msgctxt "MinecraftAccount|Account status"
 msgid "Unknown"
-msgstr "Tidak Diketahui"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
 msgid "<SESSION ID>"
-msgstr "<SESSION ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:732
 msgctxt "MinecraftInstance|"
 msgid "<ACCESS TOKEN>"
-msgstr "<ACCESS TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:734
 msgctxt "MinecraftInstance|"
 msgid "<CLIENT TOKEN>"
-msgstr "<CLIENT TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:736
 msgctxt "MinecraftInstance|"
 msgid "<PROFILE ID>"
-msgstr "<PROFILE ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:808
 msgctxt "MinecraftInstance|"
@@ -3049,7 +3049,7 @@ msgstr "rusak"
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
-msgstr "Minecraft %1 (%2)"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:817
 #, qt-format
@@ -3138,18 +3138,18 @@ msgstr "Merekan waktu memain instans"
 #: src/launcher/ui/pages/global/MinecraftPage.ui:167
 msgctxt "MinecraftPage|"
 msgid "Show time spent playing in hours only"
-msgstr "Tunjukkan waktu bermain hanya dengan jam"
+msgstr ""
 
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
 msgctxt "MinecraftProfileCreateStep|"
 msgid "Creating the Minecraft profile '%1'."
-msgstr "Membuat profil Minecraft '%1'."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:17
 msgctxt "MinecraftProfileStep|"
@@ -3189,12 +3189,12 @@ msgstr "Dibatalkan oleh pengguna."
 #: src/launcher/minecraft/mod/ModFolderModel.cpp:368
 msgctxt "ModFolderModel|"
 msgid "Folder"
-msgstr "Folder"
+msgstr ""
 
 #: src/launcher/minecraft/mod/ModFolderModel.cpp:370
 msgctxt "ModFolderModel|"
 msgid "File"
-msgstr "File"
+msgstr ""
 
 #: src/launcher/minecraft/mod/ModFolderModel.cpp:464
 msgctxt "ModFolderModel|"
@@ -3362,12 +3362,12 @@ msgstr ""
 #: src/launcher/modplatform/modrinth/ModrinthInstanceExportTask.cpp:256
 msgctxt "Modrinth::InstanceExportTask|"
 msgid "Failed to create zip file"
-msgstr "Gagal membuat zip file"
+msgstr ""
 
 #: src/launcher/modplatform/modrinth/ModrinthInstanceExportTask.cpp:260
 msgctxt "Modrinth::InstanceExportTask|"
 msgid "Failed to create temporary directory"
-msgstr "Gagal membuat direktori sementara"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:20
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:41
@@ -3378,7 +3378,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:54
 msgctxt "ModrinthExportDialog|"
 msgid "Metadata"
-msgstr "Metadata"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:71
 msgctxt "ModrinthExportDialog|"
@@ -3403,7 +3403,7 @@ msgstr "Opsi Ekspor"
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:127
 msgctxt "ModrinthExportDialog|"
 msgid "File"
-msgstr "File"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:137
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:205
@@ -3439,7 +3439,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:183
 msgctxt "ModrinthExportDialog|"
 msgid "Treat disabled mods, shaders and resource packs as optional"
-msgstr "Perlakukan mods, shaders, dan texture packs yang dimatikan sebagai fitur opsional"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:192
 msgctxt "ModrinthExportDialog|"
@@ -3464,7 +3464,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/ModrinthExportDialog.cpp:98
 msgctxt "ModrinthExportDialog|"
 msgid "Warning"
-msgstr "Peringatan"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.cpp:99
 #, qt-format
@@ -3481,7 +3481,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/ModrinthExportDialog.cpp:131
 msgctxt "ModrinthExportDialog|"
 msgid "Warnings"
-msgstr "Peringatan"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.cpp:135
 msgctxt "ModrinthExportDialog|"
@@ -3541,7 +3541,7 @@ msgstr "Memuat..."
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h:47
 msgctxt "ModrinthPage|"
 msgid "Modrinth"
-msgstr "Modrinth"
+msgstr ""
 
 #: src/launcher/net/NetJob.cpp:128
 #, qt-format
@@ -3564,7 +3564,7 @@ msgstr "Nama"
 #: src/launcher/ui/dialogs/NewComponentDialog.ui:37
 msgctxt "NewComponentDialog|"
 msgid "uid"
-msgstr "uid"
+msgstr ""
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:144
@@ -3645,12 +3645,12 @@ msgstr "Tipe instansi tidak diketahui"
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:18
 msgctxt "OfflineNameDialog|"
 msgid "Player name"
-msgstr "Nama Pemain"
+msgstr ""
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:24
 msgctxt "OfflineNameDialog|"
 msgid "Choose your offline mode player name."
-msgstr "Pilih nama pemain offline anda."
+msgstr ""
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:29
 msgctxt "OfflineNameDialog|"
@@ -3714,7 +3714,7 @@ msgstr "Cari:"
 #: src/launcher/ui/pages/instance/OtherLogsPage.cpp:266
 msgctxt "OtherLogsPage|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.cpp:127
 #, qt-format
@@ -3737,7 +3737,7 @@ msgstr "File (%1) tidak dapat dibaca."
 #: src/launcher/ui/pages/instance/OtherLogsPage.cpp:185
 msgctxt "OtherLogsPage|"
 msgid "Log upload"
-msgstr "Unggah Riwayat"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.cpp:186
 msgctxt "OtherLogsPage|"
@@ -3926,7 +3926,7 @@ msgstr "Lewati"
 #: src/launcher/ui/pages/global/ProxyPage.ui:42
 msgctxt "ProxyPage|"
 msgid "This only applies to the launcher."
-msgstr "Ini hanya berlaku kepada launcher."
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
@@ -3951,12 +3951,12 @@ msgstr "&Kosong"
 #: src/launcher/ui/pages/global/ProxyPage.ui:84
 msgctxt "ProxyPage|"
 msgid "SOC&KS5"
-msgstr "SOC&KS5"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:94
 msgctxt "ProxyPage|"
 msgid "H&TTP"
-msgstr "H&TTP"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:107
 msgctxt "ProxyPage|"
@@ -3976,7 +3976,7 @@ msgstr "Nama pengguna:"
 #: src/launcher/ui/pages/global/ProxyPage.ui:155
 msgctxt "ProxyPage|"
 msgid "Password:"
-msgstr "Password:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:169
 msgctxt "ProxyPage|"
@@ -4199,7 +4199,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/AboutDialog.cpp:54
 msgctxt "QObject|About Credits"
 msgid "Patrons"
-msgstr "Patrons"
+msgstr ""
 
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:111
 msgctxt "QObject|"
@@ -4619,7 +4619,7 @@ msgstr ""
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:43
 msgctxt "SetSkinStep|"
 msgid "Uploading skin"
-msgstr "Mengunggah skin"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/SetupWizard.cpp:28
 msgctxt "SetupWizard|"
@@ -4800,7 +4800,7 @@ msgstr " oleh "
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -4954,12 +4954,12 @@ msgstr "Segarakn Ulang"
 #: src/launcher/ui/pages/modplatform/VanillaPage.h:40
 msgctxt "VanillaPage|"
 msgid "Vanilla"
-msgstr "Vanilla"
+msgstr ""
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
 msgid "Minecraft 24w14a and above require the use of Java 21"
-msgstr "Minecraft 24w14a dan keatas membutuhkan Java 21"
+msgstr ""
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:51
 msgctxt "VerifyJavaInstall|"
@@ -4984,7 +4984,7 @@ msgstr "Tidak ada versi yang tersedia saat ini."
 #: src/launcher/ui/pages/instance/VersionPage.ui:60
 msgctxt "VersionPage|"
 msgid "Filter:"
-msgstr "Filter:"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:82
 msgctxt "VersionPage|"
@@ -5074,7 +5074,7 @@ msgstr "Instal paket Forge Minecraft."
 #: src/launcher/ui/pages/instance/VersionPage.ui:191
 msgctxt "VersionPage|"
 msgid "Install Fabric"
-msgstr "Install Fabric"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:194
 msgctxt "VersionPage|"
@@ -5206,7 +5206,7 @@ msgstr "%1 terdapat isu!"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:191
 msgctxt "VersionPage|"
 msgid "Error: "
-msgstr "Error: "
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:195
 msgctxt "VersionPage|"
@@ -5221,7 +5221,7 @@ msgstr "Peringatan: "
 #: src/launcher/ui/pages/instance/VersionPage.cpp:413
 msgctxt "VersionPage|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:271
 msgctxt "VersionPage|"
@@ -5294,12 +5294,12 @@ msgstr "Tidak dapat memuat atau mengunduh daftar versi Forge!"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:469
 msgctxt "VersionPage|"
 msgid "Select NeoForge version"
-msgstr "Pilih versi NeoForge"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:471
 msgctxt "VersionPage|"
 msgid "No NeoForge versions are currently available for Minecraft "
-msgstr "Tidak ada versi NeoForge yang saat ini tersedia untuk Minecraft "
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:472
 msgctxt "VersionPage|"
@@ -5369,7 +5369,7 @@ msgstr "Versi"
 #: src/launcher/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -5466,7 +5466,7 @@ msgstr "&Segarkan"
 #: src/launcher/ui/widgets/VersionSelectWidget.cpp:128
 msgctxt "VersionSelectWidget|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/widgets/VersionSelectWidget.cpp:128
 #, qt-format
@@ -5554,7 +5554,7 @@ msgstr "Hapus"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"
@@ -5584,7 +5584,7 @@ msgstr "Hapus ikon world untuk membuat game membuatnya kembali pada pemuatan ber
 #: src/launcher/ui/pages/instance/WorldListPage.ui:163
 msgctxt "WorldListPage|"
 msgid "Datapacks"
-msgstr "Datapacks"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:166
 msgctxt "WorldListPage|"
@@ -5647,7 +5647,7 @@ msgstr "Pilih dunia Minecraft yang berbentuk zip"
 #: src/launcher/ui/pages/instance/WorldListPage.cpp:348
 msgctxt "WorldListPage|"
 msgid "Minecraft World Zip File (*.zip)"
-msgstr "Minecraft World Zip File (*.zip)"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.cpp:369
 msgctxt "WorldListPage|"
@@ -5723,13 +5723,12 @@ msgstr "Elemen XErr hilang dari respons kesalahan otorisasi %1."
 msgctxt "XboxAuthorizationStep|"
 msgid "Your XBox Live account has been banned by Microsoft for violating the XBox Community Standards.\n"
 "This may happen if your account was shared or resold."
-msgstr "Akun XBox Live anda telah diblokir oleh Microsoft karena anda melanggar Standar Komunitas XBox.\n"
-"Ini mungkin terjadi jika akun anda telah dibagikan atau dijual kembali."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:130
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account is linked to a family and your parent or guardian has not given you permission to play online."
-msgstr "Akun Microsoft ini terkait dengan keluarga dan orang tua/wali anda belum memberikan permisi untuk bermain online."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:137
 #, qt-format
@@ -5751,12 +5750,12 @@ msgstr "XBox Live tidak tersedia di negara anda. Anda telah diblokir."
 #, qt-format
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age."
-msgstr "Akun Microsoft ini memerlukan bukti umur untuk bermain. Silakan login ke '%1' untuk menyerahkan bukti umur."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:168
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account has reached its playtime limit and has been blocked from logging in."
-msgstr "Akun Microsoft ini telah mencapai batas waktu bermain dan telah diblok dari login."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:175
 #, qt-format
