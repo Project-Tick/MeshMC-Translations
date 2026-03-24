@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 3;\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: sk\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Slovak\n"
 "Language: sk_SK\n"
-"PO-Revision-Date: 2025-08-09 12:06\n"
+"PO-Revision-Date: 2026-03-24 16:55\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -228,7 +228,7 @@ msgstr "<p>Udržiavame MultiMC open source, pretože si myslíme, že je dôlež
 #: src/launcher/minecraft/auth/AccountList.cpp:354
 msgctxt "AccountList|"
 msgid "Add New Account"
-msgstr "Pridajte Nový Účet"
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:42
 msgctxt "AccountTask|"
@@ -268,7 +268,7 @@ msgstr "Nepodarilo sa prihlásiť. Účet už neexistuje."
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -279,19 +279,19 @@ msgstr "Neznámy stav účtu: %1"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:35
 msgctxt "AccountsDialog|"
 msgid "Accounts"
-msgstr "Účty"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:118
 msgctxt "AccountsDialog|"
 msgid "Account / Profile Name Here"
-msgstr "Meno Účtu/Profilu"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:138
 #: src/launcher/ui/dialogs/AccountsDialog.ui:573
 #: src/launcher/ui/dialogs/AccountsDialog.ui:880
 msgctxt "AccountsDialog|"
 msgid "Refresh Account"
-msgstr "Obnoviť Účet"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:145
 #: src/launcher/ui/dialogs/AccountsDialog.ui:580
@@ -299,134 +299,133 @@ msgstr "Obnoviť Účet"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:887
 msgctxt "AccountsDialog|"
 msgid "Sign Out"
-msgstr "Odhlásiť sa"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:189
 msgctxt "AccountsDialog|"
 msgid "Open Skins Folder"
-msgstr "Otvoriť Priečinok so Skinmi"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
 msgid "Model"
-msgstr "Model"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:215
 msgctxt "AccountsDialog|"
 msgid "Classic"
-msgstr "Klasický"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:228
 msgctxt "AccountsDialog|"
 msgid "Slim"
-msgstr "Štíhly"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:241
 msgctxt "AccountsDialog|"
 msgid "Reset Changes"
-msgstr "Zrušiť zmeny"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:248
 msgctxt "AccountsDialog|"
 msgid "Apply Changes"
-msgstr "Použiť zmeny"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:255
 msgctxt "AccountsDialog|"
 msgid "Save Skin To File"
-msgstr "Uložiť Skin na súbor"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:295
 msgctxt "AccountsDialog|"
 msgid "Skins"
-msgstr "Skiny"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:333
 msgctxt "AccountsDialog|"
 msgid "Capes"
-msgstr "Plášte"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:553
 #: src/launcher/ui/dialogs/AccountsDialog.ui:725
 #: src/launcher/ui/dialogs/AccountsDialog.ui:860
 msgctxt "AccountsDialog|"
 msgid "Account Name Here"
-msgstr "Meno Účtu"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:614
 msgctxt "AccountsDialog|"
 msgid "You just need to take one more step to be able to play Minecraft on this account.\n\n"
 "Choose your name carefully:"
-msgstr "Je potrebný ešte jeden krok aby ste mohli hrať Minecraft na tomto účte.\n\n"
-"Pozorne si vyberte meno:"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:657
 msgctxt "AccountsDialog|"
 msgid "Create Profile"
-msgstr "Vytvoriť profil"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:779
 msgctxt "AccountsDialog|"
 msgid "This account's authentication tokens have expired and it needs to be signed in into again."
-msgstr "Autentifikačné tokeny tohto účtu už vypršali a bude potrebné sa doňho znovu prihlásiť."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:792
 msgctxt "AccountsDialog|"
 msgid "Remove and Sign In Again"
-msgstr "Odstrániť a znovu sa prihlásiť"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:921
 msgctxt "AccountsDialog|"
 msgid "This account doesn't own Minecraft yet. Without purchasing the game, you can only play the demo."
-msgstr "Tento účet ešte nevlastní Minecraft. Bez zakúpenia hry, je možné hrať iba demo."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:934
 msgctxt "AccountsDialog|"
 msgid "Get Minecraft"
-msgstr "Získať Minecraft"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:52
 msgctxt "AccountsDialog|"
 msgid "Minecraft Accounts"
-msgstr "Účty Minecraft"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:203
 msgctxt "AccountsDialog|"
 msgid "Failed to apply skin"
-msgstr "Nepodarilo sa aplikovať skin"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:581
 msgctxt "AccountsDialog|"
 msgid "You can scan the QR code and complete the login process on a separate device, or you can open the link and login on this machine."
-msgstr "Môžete naskenovať QR kód a dokončiť prihlasovací proces na inom zariadení, alebo môžete otvoriť link a prihlásiť na tomto zariadení."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:708
 msgctxt "AccountsDialog|"
 msgid "Name is too short - must be between 3 and 16 characters long."
-msgstr "Meno je príliš krátke – musí mať 3-16 znakov."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:767
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "Minecraft profile with name %1 already exists."
-msgstr "Profil Minecraft s menom %1 už existuje."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:770
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "The name %1 is not allowed."
-msgstr "Meno %1 nie je povolené."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:773
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "Unhandled profile name status: %1"
-msgstr "Nespracovaný stav názvu profilu: %1"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:777
 msgctxt "AccountsDialog|"
 msgid "Failed to check name availability."
-msgstr "Nepodarilo sa skontrolovať dostupnosť mena."
+msgstr ""
 
 #: src/launcher/Application.cpp:784
 msgctxt "Application|"
@@ -538,7 +537,7 @@ msgstr "Hľadanie a filtrovanie ..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -584,13 +583,13 @@ msgstr "Profiler prerušený"
 #: src/launcher/skins/CapesModel.cpp:34
 msgctxt "CapesModel|"
 msgid "Nothing"
-msgstr "Nič"
+msgstr ""
 
 #: src/launcher/minecraft/launch/ClaimAccount.cpp:30
 #, qt-format
 msgctxt "ClaimAccount|"
 msgid "Failed to claim account by profile: %1 was not found."
-msgstr "Nepodarilo sa získať účet podľa profilu: %1 sa nenašiel."
+msgstr ""
 
 #: src/launcher/minecraft/ComponentUpdateTask.cpp:270
 msgctxt "ComponentUpdateTask|"
@@ -777,7 +776,7 @@ msgstr "Exportovať inštanciu"
 #, qt-format
 msgctxt "ExportInstanceDialog|"
 msgid "Export %1"
-msgstr "Export %1"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:393
 msgctxt "ExportInstanceDialog|"
@@ -845,7 +844,7 @@ msgstr "Chyba pri kontrole inštalácie JProfilera:\n"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
 msgctxt "ExternalToolsPage|"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
 msgctxt "ExternalToolsPage|"
@@ -898,7 +897,7 @@ msgstr "Nastavenie MCEdit vyzerá byť v poriadku"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:202
 msgctxt "ExternalToolsPage|"
 msgid "JSON Editor"
-msgstr "JSON Editor"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:224
 msgctxt "ExternalToolsPage|"
@@ -1122,7 +1121,7 @@ msgstr "Zvoliť modpack"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1132,7 +1131,7 @@ msgstr "Importovať zo zipu"
 #: src/launcher/meta/Index.cpp:71
 msgctxt "Index|"
 msgid "Name"
-msgstr "Meno"
+msgstr ""
 
 #: src/launcher/ui/widgets/InstanceCardWidget.ui:27
 msgctxt "InstanceCardWidget|"
@@ -1287,7 +1286,7 @@ msgstr "Prehľadať..."
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:84
 msgctxt "InstanceSettingsPage|"
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:97
 msgctxt "InstanceSettingsPage|"
@@ -1555,7 +1554,7 @@ msgstr "Veľkosť použiteľnej pamäte na ukladanie Java tried."
 #: src/launcher/ui/pages/global/JavaPage.ui:141
 msgctxt "JavaPage|"
 msgid "Java Runtime"
-msgstr "Java Runtime"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.ui:153
 msgctxt "JavaPage|"
@@ -1575,12 +1574,12 @@ msgstr "Auto-detekcia..."
 #: src/launcher/ui/pages/global/JavaPage.ui:221
 msgctxt "JavaPage|"
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1652,7 +1651,7 @@ msgstr "Prehľadať"
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -1716,21 +1715,19 @@ msgstr "Nie je zvolený účet pre spustenie."
 #: src/launcher/LaunchController.cpp:165
 msgctxt "LaunchController|"
 msgid "Account doesn't have a Minecraft profile"
-msgstr "Účet nemá žiaden Minecraftový profil"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:166
 msgctxt "LaunchController|"
 msgid "The account doesn't have a Minecraft profile yet.\n"
 "You need to create a profile first to play.\n\n"
 "Do you want to open the Accounts dialog?"
-msgstr "Tento účet ešte nemá Minecraftový profil.\n"
-"Najprv musíte vytvoriť profil aby ste mohli hrať.\n\n"
-"Prajete si otvoriť okienko s účtami?"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:168
 msgctxt "LaunchController|"
 msgid "Open Accounts"
-msgstr "Otvorené účty"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:169 src/launcher/LaunchController.cpp:195
 msgctxt "LaunchController|"
@@ -1769,7 +1766,7 @@ msgstr "Spustiť offline"
 #: src/launcher/LaunchController.cpp:234
 msgctxt "LaunchController|"
 msgid "The account has expired and needs to be logged into manually. Press OK to open the accounts window."
-msgstr "Platnosť konta vypršala a je potrebné sa doň prihlásiť manuálne. Stlačením tlačidla OK sa otvoríte okienko s účtami."
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:237
 msgctxt "LaunchController|"
@@ -1913,7 +1910,7 @@ msgstr "Priečinky"
 #: src/launcher/ui/pages/global/LauncherPage.ui:107
 msgctxt "LauncherPage|"
 msgid "&Skins:"
-msgstr "&Skiny:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:117
 msgctxt "LauncherPage|"
@@ -1936,7 +1933,7 @@ msgstr "&Ikony:"
 #: src/launcher/ui/pages/global/LauncherPage.ui:174
 msgctxt "LauncherPage|"
 msgid "Open"
-msgstr "Otvoriť"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:184
 msgctxt "LauncherPage|"
@@ -2091,7 +2088,7 @@ msgstr "Priečinok módov"
 #: src/launcher/ui/pages/global/LauncherPage.cpp:160
 msgctxt "LauncherPage|"
 msgid "Skins Folder"
-msgstr "Priečinok Skinov"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:377
 msgctxt "LauncherPage|"
@@ -2272,7 +2269,7 @@ msgstr "Naozaj chcete vymazať balíček %1?"
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
 msgctxt "LegacyFTB::Page|"
 msgid "FTB Legacy"
-msgstr "FTB Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
 msgctxt "LegacyInstance|"
@@ -2625,7 +2622,7 @@ msgstr "Otvoriť bug tracker na nahlásenie chyby s %1."
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2636,7 +2633,7 @@ msgstr "Otvoriť %1 discord hlasový čet."
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
@@ -2911,7 +2908,7 @@ msgstr "Celkový čas hrania: 0s"
 #: src/launcher/ui/MainWindow.cpp:874 src/launcher/ui/MainWindow.cpp:1183
 msgctxt "MainWindow|"
 msgid "Accounts"
-msgstr "Účty"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:933
 msgctxt "MainWindow|"
@@ -2932,7 +2929,7 @@ msgstr "Formát"
 #: src/launcher/ui/MainWindow.cpp:982
 msgctxt "MainWindow|"
 msgid "Modrinth (WIP)"
-msgstr "Modrinth (WIP)"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1037
 msgctxt "MainWindow|"
@@ -2980,67 +2977,67 @@ msgstr "Nepodarilo sa vytvoriť adresár pre sťahovanie vylepšenia:\n"
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:69
 msgctxt "MinecraftAccount|Account status"
 msgid "Unchecked"
-msgstr "Nezačiarknuté"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:72
 msgctxt "MinecraftAccount|Account status"
 msgid "Offline"
-msgstr "Offline"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:75
 msgctxt "MinecraftAccount|Account status"
 msgid "Online"
-msgstr "Online"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
 msgid "Working"
-msgstr "Prebieha spracovanie"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:81
 msgctxt "MinecraftAccount|Account status"
 msgid "Errored"
-msgstr "Chybný"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:84
 msgctxt "MinecraftAccount|Account status"
 msgid "Expired"
-msgstr "Vypršaný"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:87
 msgctxt "MinecraftAccount|Account status"
 msgid "Gone"
-msgstr "Preč"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:90
 msgctxt "MinecraftAccount|Account status"
 msgid "Must Migrate"
-msgstr "Musíte migrovať"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:93
 msgctxt "MinecraftAccount|Account status"
 msgid "Unknown"
-msgstr "Neznáme"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
 msgid "<SESSION ID>"
-msgstr "<SESSION ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:732
 msgctxt "MinecraftInstance|"
 msgid "<ACCESS TOKEN>"
-msgstr "<ACCESS TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:734
 msgctxt "MinecraftInstance|"
 msgid "<CLIENT TOKEN>"
-msgstr "<CLIENT TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:736
 msgctxt "MinecraftInstance|"
 msgid "<PROFILE ID>"
-msgstr "<PROFILE ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:808
 msgctxt "MinecraftInstance|"
@@ -3051,7 +3048,7 @@ msgstr "poškodené"
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
-msgstr "Minecraft %1 (%2)"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:817
 #, qt-format
@@ -3145,13 +3142,13 @@ msgstr "Zobraziť čas strávený hraním len v hodinách"
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
 msgctxt "MinecraftProfileCreateStep|"
 msgid "Creating the Minecraft profile '%1'."
-msgstr "Vytvára sa Minecraft profil '%1'."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:17
 msgctxt "MinecraftProfileStep|"
@@ -3181,7 +3178,7 @@ msgstr "Získanie profilu Minecraft Java sa podarilo."
 #: src/launcher/minecraft/MinecraftUpdate.cpp:54
 msgctxt "MinecraftUpdate|"
 msgid "Failed to load version components - mmc-pack.json is probably corrupted."
-msgstr "Nepodarilo sa načítať komponenty verzie - mmc-pack.json je pravdepodobne skorumpovaný."
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftUpdate.cpp:91
 msgctxt "MinecraftUpdate|"
@@ -3236,7 +3233,7 @@ msgstr "Dátum a čas, kedy bol mód naposledy zmenený (alebo pridaný)."
 #: src/launcher/ui/pages/instance/ModFolderPage.ui:39
 msgctxt "ModFolderPage|"
 msgid "Filter:"
-msgstr "Filter:"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/ModFolderPage.ui:75
 msgctxt "ModFolderPage|"
@@ -3544,7 +3541,7 @@ msgstr "Načítava sa..."
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h:47
 msgctxt "ModrinthPage|"
 msgid "Modrinth"
-msgstr "Modrinth"
+msgstr ""
 
 #: src/launcher/net/NetJob.cpp:128
 #, qt-format
@@ -3567,7 +3564,7 @@ msgstr "Názov"
 #: src/launcher/ui/dialogs/NewComponentDialog.ui:37
 msgctxt "NewComponentDialog|"
 msgid "uid"
-msgstr "uid"
+msgstr ""
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:144
@@ -3648,17 +3645,17 @@ msgstr "Neznámy typ inštancie"
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:18
 msgctxt "OfflineNameDialog|"
 msgid "Player name"
-msgstr "Meno hráča"
+msgstr ""
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:24
 msgctxt "OfflineNameDialog|"
 msgid "Choose your offline mode player name."
-msgstr "Zvoľte si meno hráča počas hry bez pripojenia na internet."
+msgstr ""
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:29
 msgctxt "OfflineNameDialog|"
 msgid "Retry Online"
-msgstr "Pokúsiť znovu s pripojením na internet."
+msgstr ""
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:42
 msgctxt "OtherLogsPage|"
@@ -3929,7 +3926,7 @@ msgstr "Prekočiť"
 #: src/launcher/ui/pages/global/ProxyPage.ui:42
 msgctxt "ProxyPage|"
 msgid "This only applies to the launcher."
-msgstr "Toto platí iba pre Launcher."
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
@@ -3954,12 +3951,12 @@ msgstr "&Nič"
 #: src/launcher/ui/pages/global/ProxyPage.ui:84
 msgctxt "ProxyPage|"
 msgid "SOC&KS5"
-msgstr "SOC&KS5"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:94
 msgctxt "ProxyPage|"
 msgid "H&TTP"
-msgstr "H&TTP"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:107
 msgctxt "ProxyPage|"
@@ -3989,7 +3986,7 @@ msgstr "Upozornenie: Prihlasovacie meno a heslo Proxy sú uložené v nezašifro
 #: src/launcher/ui/pages/global/ProxyPage.h:39
 msgctxt "ProxyPage|"
 msgid "Proxy"
-msgstr "Proxy"
+msgstr ""
 
 #: src/launcher/minecraft/AssetsUtils.cpp:323
 #, qt-format
@@ -4273,19 +4270,19 @@ msgstr "Server Minecraft"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1m %2s"
-msgstr "%1m %2s"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:35
 #, qt-format
 msgctxt "QObject|"
 msgid "%1h %2m"
-msgstr "%1h %2m"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:37
 #, qt-format
 msgctxt "QObject|"
 msgid "%1d %2h %3m"
-msgstr "%1d %2h %3m"
+msgstr ""
 
 #: src/launcher/tools/JVisualVM.cpp:92 src/launcher/tools/JProfiler.cpp:99
 msgctxt "QObject|"
@@ -4612,17 +4609,17 @@ msgstr "Kontextové menu"
 #: src/launcher/minecraft/auth/steps/SetCapeStep.cpp:23
 msgctxt "SetCapeStep|"
 msgid "Setting cape."
-msgstr "Nastavuje sa plášť."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:39
 msgctxt "SetSkinStep|"
 msgid "Clearing skin"
-msgstr "Maže sa Skin"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:43
 msgctxt "SetSkinStep|"
 msgid "Uploading skin"
-msgstr "Nahrávanie skinu"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/SetupWizard.cpp:28
 msgctxt "SetupWizard|"
@@ -4803,7 +4800,7 @@ msgstr " od "
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -4917,7 +4914,7 @@ msgstr "<p align=\"center\" <span style=\"font-size:22pt;\">Nepodarilo sa nahra�
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:41
 msgctxt "VanillaPage|"
 msgid "Filter"
-msgstr "Filter"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:51
 msgctxt "VanillaPage|"
@@ -4957,12 +4954,12 @@ msgstr "Obnoviť"
 #: src/launcher/ui/pages/modplatform/VanillaPage.h:40
 msgctxt "VanillaPage|"
 msgid "Vanilla"
-msgstr "Vanilla"
+msgstr ""
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
 msgid "Minecraft 24w14a and above require the use of Java 21"
-msgstr "Minecraft verzia 24w14a a vyššie vyžaduje Java 21"
+msgstr ""
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:51
 msgctxt "VerifyJavaInstall|"
@@ -5182,12 +5179,12 @@ msgstr "Otvoriť súbor miestnych knižníc inštancie."
 #: src/launcher/ui/pages/instance/VersionPage.ui:276
 msgctxt "VersionPage|"
 msgid "Install NeoForge"
-msgstr "Inštalovať NeoForge"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:279
 msgctxt "VersionPage|"
 msgid "Install the NeoForge package."
-msgstr "Inštalovať NeoForge balíček."
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:156
 msgctxt "VersionPage|"
@@ -5297,17 +5294,17 @@ msgstr "Nie je možné nahrať alebo stiahnuť zoznam verzií Forge!"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:469
 msgctxt "VersionPage|"
 msgid "Select NeoForge version"
-msgstr "Zvoľte verziu NeoForge"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:471
 msgctxt "VersionPage|"
 msgid "No NeoForge versions are currently available for Minecraft "
-msgstr "Pre Minecraft momentálne nie je k doispozícii žiadna verzia LiteLoader"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:472
 msgctxt "VersionPage|"
 msgid "Couldn't load or download the NeoForge version lists!"
-msgstr "Nie je možné nahrať alebo stiahnuť zoznam verzií NeoForge!"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:498
 msgctxt "VersionPage|"
@@ -5372,7 +5369,7 @@ msgstr "Verzia"
 #: src/launcher/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -5557,7 +5554,7 @@ msgstr "Vymazať"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"
@@ -5726,13 +5723,12 @@ msgstr "V odpovedi na chybu autorizácie %1 chýba prvok XErr."
 msgctxt "XboxAuthorizationStep|"
 msgid "Your XBox Live account has been banned by Microsoft for violating the XBox Community Standards.\n"
 "This may happen if your account was shared or resold."
-msgstr "Váš účet Xbox Live bol spoločnosťou Microsoft zablokovaný z dôvodu porušenia štandardov komunity Xbox.\n"
-"Môže k tomu dôjsť, ak bol váš účet zdieľaný alebo ďalej predaný."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:130
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account is linked to a family and your parent or guardian has not given you permission to play online."
-msgstr "Tento účet Microsoft je pripojený ku rodine a váš rodič alebo zástupca vám neudelil povolenie hrať online."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:137
 #, qt-format
@@ -5743,8 +5739,7 @@ msgstr "Toto Microsoft konto nemá profil XBox Live. Najskôr si hru zakúpte na
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:145
 msgctxt "XboxAuthorizationStep|"
 msgid "This account has not accepted the XBox Terms of Service. Please log in online and accept them."
-msgstr "Tento účet neprijal podmienky služby XBox.\n"
-"Prosím prihláste sa a prijmite ich."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:153
 msgctxt "XboxAuthorizationStep|"
@@ -5755,12 +5750,12 @@ msgstr "Xbox Live nie je dostupný v tvojej krajine. Boli si zablokovaný."
 #, qt-format
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age."
-msgstr "Na hranie tohto účtu Microsoft je potrebný doklad o veku. Prihláste sa do %1 a preukážte vek."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:168
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account has reached its playtime limit and has been blocked from logging in."
-msgstr "Tento účet Microsoft dosiahol limit hracieho času a prihlásenie doň bolo zablokované."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:175
 #, qt-format
