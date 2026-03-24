@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: nl\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2025-09-21 10:11\n"
+"PO-Revision-Date: 2026-03-24 16:55\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -90,7 +90,7 @@ msgstr "Mods downloaden..."
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:540
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Mod download"
-msgstr "Mod download"
+msgstr ""
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:554
 #, qt-format
@@ -152,7 +152,7 @@ msgstr "Versie:"
 #: src/launcher/ui/dialogs/AboutDialog.ui:167
 msgctxt "AboutDialog|"
 msgid "Platform:"
-msgstr "Platform:"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:177
 msgctxt "AboutDialog|"
@@ -203,7 +203,7 @@ msgstr "Versie"
 #: src/launcher/ui/dialogs/AboutDialog.cpp:96
 msgctxt "AboutDialog|"
 msgid "Platform"
-msgstr "Platform"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:99
 msgctxt "AboutDialog|"
@@ -267,7 +267,7 @@ msgstr "Authenticatie mislukt. Het account bestaat niet meer."
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -278,19 +278,19 @@ msgstr "Onbekende account taak status: %1"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:35
 msgctxt "AccountsDialog|"
 msgid "Accounts"
-msgstr "Accounts"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:118
 msgctxt "AccountsDialog|"
 msgid "Account / Profile Name Here"
-msgstr "Accounts / Profielnaam Hier"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:138
 #: src/launcher/ui/dialogs/AccountsDialog.ui:573
 #: src/launcher/ui/dialogs/AccountsDialog.ui:880
 msgctxt "AccountsDialog|"
 msgid "Refresh Account"
-msgstr "Ververs Account"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:145
 #: src/launcher/ui/dialogs/AccountsDialog.ui:580
@@ -298,111 +298,110 @@ msgstr "Ververs Account"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:887
 msgctxt "AccountsDialog|"
 msgid "Sign Out"
-msgstr "Afmelden"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:189
 msgctxt "AccountsDialog|"
 msgid "Open Skins Folder"
-msgstr "Open Skins Map"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
 msgid "Model"
-msgstr "Model"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:215
 msgctxt "AccountsDialog|"
 msgid "Classic"
-msgstr "Klassiek"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:228
 msgctxt "AccountsDialog|"
 msgid "Slim"
-msgstr "Nauw"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:241
 msgctxt "AccountsDialog|"
 msgid "Reset Changes"
-msgstr "Reset Veranderingen"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:248
 msgctxt "AccountsDialog|"
 msgid "Apply Changes"
-msgstr "Pas Veranderingen Toe"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:255
 msgctxt "AccountsDialog|"
 msgid "Save Skin To File"
-msgstr "Sla Skin Op Tot Bestand"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:295
 msgctxt "AccountsDialog|"
 msgid "Skins"
-msgstr "Skins"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:333
 msgctxt "AccountsDialog|"
 msgid "Capes"
-msgstr "Mantels"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:553
 #: src/launcher/ui/dialogs/AccountsDialog.ui:725
 #: src/launcher/ui/dialogs/AccountsDialog.ui:860
 msgctxt "AccountsDialog|"
 msgid "Account Name Here"
-msgstr "Accountnaam Hier"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:614
 msgctxt "AccountsDialog|"
 msgid "You just need to take one more step to be able to play Minecraft on this account.\n\n"
 "Choose your name carefully:"
-msgstr "Je hoeft nog maar één stap te ondernemen om Minecraft op dit account te spelen.\n\n"
-"Kies voorzichtig je naam:"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:657
 msgctxt "AccountsDialog|"
 msgid "Create Profile"
-msgstr "Creëer Profiel"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:779
 msgctxt "AccountsDialog|"
 msgid "This account's authentication tokens have expired and it needs to be signed in into again."
-msgstr "De authenticatietokens van dit account zijn verlopen en er moet opnieuw op ingelogd worden."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:792
 msgctxt "AccountsDialog|"
 msgid "Remove and Sign In Again"
-msgstr "Verwijder en Meld Opnieuw Aan"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:921
 msgctxt "AccountsDialog|"
 msgid "This account doesn't own Minecraft yet. Without purchasing the game, you can only play the demo."
-msgstr "Dit account bezit nog geen Minecraft. Zonder het spel te verkrijgen kan alleen de demo gespeeld worden."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:934
 msgctxt "AccountsDialog|"
 msgid "Get Minecraft"
-msgstr "Krijg Minercraft"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:52
 msgctxt "AccountsDialog|"
 msgid "Minecraft Accounts"
-msgstr "Minecraft Accounts"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:203
 msgctxt "AccountsDialog|"
 msgid "Failed to apply skin"
-msgstr "Gefaald om skin toe te passen"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:581
 msgctxt "AccountsDialog|"
 msgid "You can scan the QR code and complete the login process on a separate device, or you can open the link and login on this machine."
-msgstr "Je kunt of de QR-code scannen om in te loggen op een ander apparaat, of je kunt de link openen en op dit apparaat inloggen."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:708
 msgctxt "AccountsDialog|"
 msgid "Name is too short - must be between 3 and 16 characters long."
-msgstr "Naam is te kort - moet tussen de 3 en 16 karakters lang zijn."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:767
 #, qt-format
@@ -420,12 +419,12 @@ msgstr "De naam %1 is niet toegestaan."
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "Unhandled profile name status: %1"
-msgstr "Onbehandelde profielnaam status: 1%"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:777
 msgctxt "AccountsDialog|"
 msgid "Failed to check name availability."
-msgstr "Gefaald om verkrijgbaarheid van naam te bevestigen."
+msgstr ""
 
 #: src/launcher/Application.cpp:784
 msgctxt "Application|"
@@ -537,7 +536,7 @@ msgstr "Zoeken en filteren..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -583,13 +582,13 @@ msgstr "Profiler onderbroken"
 #: src/launcher/skins/CapesModel.cpp:34
 msgctxt "CapesModel|"
 msgid "Nothing"
-msgstr "Niets"
+msgstr ""
 
 #: src/launcher/minecraft/launch/ClaimAccount.cpp:30
 #, qt-format
 msgctxt "ClaimAccount|"
 msgid "Failed to claim account by profile: %1 was not found."
-msgstr "Gefaald om account te claimen door middel van profiel: 1% niet gevonden."
+msgstr ""
 
 #: src/launcher/minecraft/ComponentUpdateTask.cpp:270
 msgctxt "ComponentUpdateTask|"
@@ -844,7 +843,7 @@ msgstr "Error bij het controleren van de JProfiler installatie:\n"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
 msgctxt "ExternalToolsPage|"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
 msgctxt "ExternalToolsPage|"
@@ -1121,7 +1120,7 @@ msgstr "Kies modpack"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1131,7 +1130,7 @@ msgstr "Importeren van zip"
 #: src/launcher/meta/Index.cpp:71
 msgctxt "Index|"
 msgid "Name"
-msgstr "Naam"
+msgstr ""
 
 #: src/launcher/ui/widgets/InstanceCardWidget.ui:27
 msgctxt "InstanceCardWidget|"
@@ -1176,7 +1175,7 @@ msgstr "Downloaden van modpack:\n"
 #: src/launcher/InstanceImportTask.cpp:61
 msgctxt "InstanceImportTask|"
 msgid "Modpack download"
-msgstr "Modpack download"
+msgstr ""
 
 #: src/launcher/InstanceImportTask.cpp:91
 msgctxt "InstanceImportTask|"
@@ -1229,7 +1228,7 @@ msgstr "De overrides-map kon niet worden samengevoegd:\n"
 #: src/launcher/InstanceImportTask.cpp:464
 msgctxt "InstanceImportTask|"
 msgid "Mod download"
-msgstr "Mod download"
+msgstr ""
 
 #: src/launcher/InstanceImportTask.cpp:487
 msgctxt "InstanceImportTask|"
@@ -1286,7 +1285,7 @@ msgstr "Bladeren..."
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:84
 msgctxt "InstanceSettingsPage|"
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:97
 msgctxt "InstanceSettingsPage|"
@@ -1381,7 +1380,7 @@ msgstr "Aangepaste opdrachten"
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:369
 msgctxt "InstanceSettingsPage|"
 msgid "Workarounds"
-msgstr "Workarounds"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/InstanceSettingsPage.ui:378
 msgctxt "InstanceSettingsPage|"
@@ -1461,7 +1460,7 @@ msgstr "Consolescherm van "
 #: src/launcher/ui/InstanceWindow.cpp:64
 msgctxt "InstanceWindow|"
 msgid "Help"
-msgstr "Help"
+msgstr ""
 
 #: src/launcher/ui/InstanceWindow.cpp:77
 msgctxt "InstanceWindow|"
@@ -1574,12 +1573,12 @@ msgstr "Auto-detectie..."
 #: src/launcher/ui/pages/global/JavaPage.ui:221
 msgctxt "JavaPage|"
 msgid "Test"
-msgstr "Test"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1651,7 +1650,7 @@ msgstr "Bladeren"
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -1715,21 +1714,19 @@ msgstr "Geen account gekozen om mee op te starten."
 #: src/launcher/LaunchController.cpp:165
 msgctxt "LaunchController|"
 msgid "Account doesn't have a Minecraft profile"
-msgstr "Account heeft geen Minecraft profiel"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:166
 msgctxt "LaunchController|"
 msgid "The account doesn't have a Minecraft profile yet.\n"
 "You need to create a profile first to play.\n\n"
 "Do you want to open the Accounts dialog?"
-msgstr "The account heeft nog geen Minecraft profiel.\n"
-"Je moet eerst een profiel aanmaken om te spelen.\n\n"
-"Wil je het accountmenu openen?"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:168
 msgctxt "LaunchController|"
 msgid "Open Accounts"
-msgstr "Open Accounts"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:169 src/launcher/LaunchController.cpp:195
 msgctxt "LaunchController|"
@@ -1767,7 +1764,7 @@ msgstr "Speel offline"
 #: src/launcher/LaunchController.cpp:234
 msgctxt "LaunchController|"
 msgid "The account has expired and needs to be logged into manually. Press OK to open the accounts window."
-msgstr "Het termijn van het account is verstreken en er moet handmatig ingelogd worden. Druk op OK om het accountsvenster te openen."
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:237
 msgctxt "LaunchController|"
@@ -1911,12 +1908,12 @@ msgstr "Mappen"
 #: src/launcher/ui/pages/global/LauncherPage.ui:107
 msgctxt "LauncherPage|"
 msgid "&Skins:"
-msgstr "&Skins:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:117
 msgctxt "LauncherPage|"
 msgid "&Mods:"
-msgstr "&Mods:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:130
 msgctxt "LauncherPage|"
@@ -1934,7 +1931,7 @@ msgstr "P&ictogrammen:"
 #: src/launcher/ui/pages/global/LauncherPage.ui:174
 msgctxt "LauncherPage|"
 msgid "Open"
-msgstr "Open"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:184
 msgctxt "LauncherPage|"
@@ -2019,7 +2016,7 @@ msgstr "Kleuren"
 #: src/launcher/ui/pages/global/LauncherPage.ui:376
 msgctxt "LauncherPage|"
 msgid "Console"
-msgstr "Console"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:382
 msgctxt "LauncherPage|"
@@ -2089,7 +2086,7 @@ msgstr "Mods-map"
 #: src/launcher/ui/pages/global/LauncherPage.cpp:160
 msgctxt "LauncherPage|"
 msgid "Skins Folder"
-msgstr "Skins Map"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:377
 msgctxt "LauncherPage|"
@@ -2270,7 +2267,7 @@ msgstr "Weet u zeker dat u pack %1 wilt verwijderen?"
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
 msgctxt "LegacyFTB::Page|"
 msgid "FTB Legacy"
-msgstr "FTB Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
 msgctxt "LegacyInstance|"
@@ -2623,7 +2620,7 @@ msgstr "Open de probleemrapportage om een probleem aan %1 door te geven."
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2634,13 +2631,13 @@ msgstr "Open %1 Discord spraakchat."
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
 msgctxt "MainWindow|"
 msgid "Open %1 subreddit."
-msgstr "Open %1 subreddit."
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:380
 #, qt-format
@@ -2657,7 +2654,7 @@ msgstr "Toon informatie over %1."
 #: src/launcher/ui/MainWindow.cpp:386 src/launcher/ui/MainWindow.cpp:697
 msgctxt "MainWindow|"
 msgid "Help"
-msgstr "Help"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:387
 #, qt-format
@@ -2909,7 +2906,7 @@ msgstr "Totale speeltijd: 0s"
 #: src/launcher/ui/MainWindow.cpp:874 src/launcher/ui/MainWindow.cpp:1183
 msgctxt "MainWindow|"
 msgid "Accounts"
-msgstr "Accounts"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:933
 msgctxt "MainWindow|"
@@ -2930,12 +2927,12 @@ msgstr "Indeling"
 #: src/launcher/ui/MainWindow.cpp:982
 msgctxt "MainWindow|"
 msgid "Modrinth (WIP)"
-msgstr "Modrinth (WIP)"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1037
 msgctxt "MainWindow|"
 msgid "Profilers"
-msgstr "Profilers"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1049
 msgctxt "MainWindow|"
@@ -2978,67 +2975,67 @@ msgstr "De map voor het downloaden van updates kon niet worden aangemaakt:\n"
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:69
 msgctxt "MinecraftAccount|Account status"
 msgid "Unchecked"
-msgstr "Onbevestigd"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:72
 msgctxt "MinecraftAccount|Account status"
 msgid "Offline"
-msgstr "Offline"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:75
 msgctxt "MinecraftAccount|Account status"
 msgid "Online"
-msgstr "Online"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
 msgid "Working"
-msgstr "Werkend"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:81
 msgctxt "MinecraftAccount|Account status"
 msgid "Errored"
-msgstr "Errorgevend"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:84
 msgctxt "MinecraftAccount|Account status"
 msgid "Expired"
-msgstr "Verlopen"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:87
 msgctxt "MinecraftAccount|Account status"
 msgid "Gone"
-msgstr "Weg"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:90
 msgctxt "MinecraftAccount|Account status"
 msgid "Must Migrate"
-msgstr "Moet Migreren"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:93
 msgctxt "MinecraftAccount|Account status"
 msgid "Unknown"
-msgstr "Onbekend"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
 msgid "<SESSION ID>"
-msgstr "<SESSION ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:732
 msgctxt "MinecraftInstance|"
 msgid "<ACCESS TOKEN>"
-msgstr "<ACCESS TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:734
 msgctxt "MinecraftInstance|"
 msgid "<CLIENT TOKEN>"
-msgstr "<CLIENT TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:736
 msgctxt "MinecraftInstance|"
 msgid "<PROFILE ID>"
-msgstr "<PROFILE ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:808
 msgctxt "MinecraftInstance|"
@@ -3049,7 +3046,7 @@ msgstr "defect"
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
-msgstr "Minecraft %1 (%2)"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:817
 #, qt-format
@@ -3143,7 +3140,7 @@ msgstr "Toon de speeltijd alleen in uren"
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
@@ -3179,7 +3176,7 @@ msgstr "Ophalen Minecraft Java-profiel is geslaagd."
 #: src/launcher/minecraft/MinecraftUpdate.cpp:54
 msgctxt "MinecraftUpdate|"
 msgid "Failed to load version components - mmc-pack.json is probably corrupted."
-msgstr "Gefaald om visiecomponenten in te laden - mcc.pack.json is hoogstwaarschijnlijk gecorrumpeerd."
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftUpdate.cpp:91
 msgctxt "MinecraftUpdate|"
@@ -3234,7 +3231,7 @@ msgstr "De datum en tijd waarop deze mod voor het laatst is gewijzigd (of toegev
 #: src/launcher/ui/pages/instance/ModFolderPage.ui:39
 msgctxt "ModFolderPage|"
 msgid "Filter:"
-msgstr "Filter:"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/ModFolderPage.ui:75
 msgctxt "ModFolderPage|"
@@ -3378,7 +3375,7 @@ msgstr "Modrinth modpack exporteren"
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:54
 msgctxt "ModrinthExportDialog|"
 msgid "Metadata"
-msgstr "Metadata"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:71
 msgctxt "ModrinthExportDialog|"
@@ -3542,7 +3539,7 @@ msgstr "Bezig met laden..."
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h:47
 msgctxt "ModrinthPage|"
 msgid "Modrinth"
-msgstr "Modrinth"
+msgstr ""
 
 #: src/launcher/net/NetJob.cpp:128
 #, qt-format
@@ -3646,17 +3643,17 @@ msgstr "Onbekend instantietype"
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:18
 msgctxt "OfflineNameDialog|"
 msgid "Player name"
-msgstr "Speler Naam"
+msgstr ""
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:24
 msgctxt "OfflineNameDialog|"
 msgid "Choose your offline mode player name."
-msgstr "Kies je naam voor de offline modus."
+msgstr ""
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:29
 msgctxt "OfflineNameDialog|"
 msgid "Retry Online"
-msgstr "Probeer Opnieuw Online"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:42
 msgctxt "OtherLogsPage|"
@@ -3927,12 +3924,12 @@ msgstr "Overslaan"
 #: src/launcher/ui/pages/global/ProxyPage.ui:42
 msgctxt "ProxyPage|"
 msgid "This only applies to the launcher."
-msgstr "Dit gaat alleen over de launcher."
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
 msgid "Type"
-msgstr "Type"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:61
 msgctxt "ProxyPage|"
@@ -3952,12 +3949,12 @@ msgstr "Gee&n"
 #: src/launcher/ui/pages/global/ProxyPage.ui:84
 msgctxt "ProxyPage|"
 msgid "SOC&KS5"
-msgstr "SOC&KS5"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:94
 msgctxt "ProxyPage|"
 msgid "H&TTP"
-msgstr "H&TTP"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:107
 msgctxt "ProxyPage|"
@@ -3987,7 +3984,7 @@ msgstr "Opmerking: Proxy-gebruikersnaam en wachtwoord worden als platte tekst in
 #: src/launcher/ui/pages/global/ProxyPage.h:39
 msgctxt "ProxyPage|"
 msgid "Proxy"
-msgstr "Proxy"
+msgstr ""
 
 #: src/launcher/minecraft/AssetsUtils.cpp:323
 #, qt-format
@@ -4200,7 +4197,7 @@ msgstr "Beheerder"
 #: src/launcher/ui/dialogs/AboutDialog.cpp:54
 msgctxt "QObject|About Credits"
 msgid "Patrons"
-msgstr "Patrons"
+msgstr ""
 
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:111
 msgctxt "QObject|"
@@ -4271,7 +4268,7 @@ msgstr "Minecraft server"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1m %2s"
-msgstr "%1m %2s"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:35
 #, qt-format
@@ -4600,7 +4597,7 @@ msgstr "Deelnemen"
 #: src/launcher/ui/pages/instance/ServersPage.h:46
 msgctxt "ServersPage|"
 msgid "Servers"
-msgstr "Servers"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/ServersPage.cpp:605
 msgctxt "ServersPage|"
@@ -4610,17 +4607,17 @@ msgstr "Contextmenu"
 #: src/launcher/minecraft/auth/steps/SetCapeStep.cpp:23
 msgctxt "SetCapeStep|"
 msgid "Setting cape."
-msgstr "Cape instellingen."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:39
 msgctxt "SetSkinStep|"
 msgid "Clearing skin"
-msgstr "Skin verwijderen"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:43
 msgctxt "SetSkinStep|"
 msgid "Uploading skin"
-msgstr "Skin uploaden"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/SetupWizard.cpp:28
 msgctxt "SetupWizard|"
@@ -4664,7 +4661,7 @@ msgstr "Downloaden van modpack:\n"
 #: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:47
 msgctxt "Technic::SingleZipPackInstallTask|"
 msgid "Modpack download"
-msgstr "Modpack download"
+msgstr ""
 
 #: src/launcher/modplatform/technic/SingleZipPackInstallTask.cpp:61
 msgctxt "Technic::SingleZipPackInstallTask|"
@@ -4801,7 +4798,7 @@ msgstr " door "
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -4915,7 +4912,7 @@ msgstr "<p align=\"center\" <span style=\"font-size:22pt;\">De wijzigingslijst k
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:41
 msgctxt "VanillaPage|"
 msgid "Filter"
-msgstr "Filter"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:51
 msgctxt "VanillaPage|"
@@ -4960,7 +4957,7 @@ msgstr "Standaard"
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
 msgid "Minecraft 24w14a and above require the use of Java 21"
-msgstr "Minecraft 21w14a en hoger vereisen het gebruik van Java 21"
+msgstr ""
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:51
 msgctxt "VerifyJavaInstall|"
@@ -4985,7 +4982,7 @@ msgstr "Er zijn momenteel geen versies beschikbaar."
 #: src/launcher/ui/pages/instance/VersionPage.ui:60
 msgctxt "VersionPage|"
 msgid "Filter:"
-msgstr "Filter:"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:82
 msgctxt "VersionPage|"
@@ -5180,12 +5177,12 @@ msgstr "Open de bij deze instantie behorende map met lokale bibliotheken."
 #: src/launcher/ui/pages/instance/VersionPage.ui:276
 msgctxt "VersionPage|"
 msgid "Install NeoForge"
-msgstr "Installeer NeoForge"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:279
 msgctxt "VersionPage|"
 msgid "Install the NeoForge package."
-msgstr "Installeer het NeoForge pakket."
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:156
 msgctxt "VersionPage|"
@@ -5242,7 +5239,7 @@ msgstr "Jar mods selecteren"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:307
 msgctxt "VersionPage|"
 msgid "Minecraft.jar mods (*.zip *.jar)"
-msgstr "Minecraft.jar mods (*.zip *.jar)"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:317
 msgctxt "VersionPage|"
@@ -5295,17 +5292,17 @@ msgstr "Kon de Forge versielijsten niet laden of downloaden!"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:469
 msgctxt "VersionPage|"
 msgid "Select NeoForge version"
-msgstr "Selecteer Neoforge versie"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:471
 msgctxt "VersionPage|"
 msgid "No NeoForge versions are currently available for Minecraft "
-msgstr "Geen NeoForge versies zijn momenteel gevonden voor Minecraft "
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:472
 msgctxt "VersionPage|"
 msgid "Couldn't load or download the NeoForge version lists!"
-msgstr "Kon de NeoForge versie lijst niet laden/downloaden!"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:498
 msgctxt "VersionPage|"
@@ -5370,7 +5367,7 @@ msgstr "Versie"
 #: src/launcher/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -5380,7 +5377,7 @@ msgstr "Aftakking"
 #: src/launcher/VersionProxyModel.cpp:82
 msgctxt "VersionProxyModel|"
 msgid "Type"
-msgstr "Type"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:84
 msgctxt "VersionProxyModel|"
@@ -5555,7 +5552,7 @@ msgstr "Verwijderen"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"
@@ -5585,7 +5582,7 @@ msgstr "Verwijder het wereldpictogram zodat de volgende keer dat het spel wordt 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:163
 msgctxt "WorldListPage|"
 msgid "Datapacks"
-msgstr "Datapacks"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:166
 msgctxt "WorldListPage|"
@@ -5724,12 +5721,12 @@ msgstr "XErr element ontbreekt in %1 foutmelding bij toegangsverzoek."
 msgctxt "XboxAuthorizationStep|"
 msgid "Your XBox Live account has been banned by Microsoft for violating the XBox Community Standards.\n"
 "This may happen if your account was shared or resold."
-msgstr "Oei... Je XBox Live account is gebanned door Microsoft omdat je de Community Standards hebt geschonden. Dit kan gebeuren als je account gedeeld of herverkocht is."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:130
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account is linked to a family and your parent or guardian has not given you permission to play online."
-msgstr "Dit microsoft account is verbonden aan een familie en je ouder of voogd heeft je (nog) geen rechten gegeven om online te spelen."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:137
 #, qt-format
@@ -5740,7 +5737,7 @@ msgstr "Dit Microsoft-account heeft geen XBox Live-profiel. Koop eerst het spel 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:145
 msgctxt "XboxAuthorizationStep|"
 msgid "This account has not accepted the XBox Terms of Service. Please log in online and accept them."
-msgstr "Dit account heeft de XBox TOS (Terms Of Service) nog niet geaccepteerd. Log alsjeblieft online in en accepteer ze."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:153
 msgctxt "XboxAuthorizationStep|"
@@ -5751,12 +5748,12 @@ msgstr "XBox Live is niet beschikbaar in uw land. U bent geblokkeerd."
 #, qt-format
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age."
-msgstr "Dit Microsoft account moet zijn leeftijd verifiëren. Log alsjeblieft in op %1 om je leeftijd te verifiëren."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:168
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account has reached its playtime limit and has been blocked from logging in."
-msgstr "Dit Microsoft account heeft zijn tijdslimiet geraakt en is mag niet meer inloggen."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:175
 #, qt-format
