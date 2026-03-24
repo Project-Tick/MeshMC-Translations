@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && (n%100>19 || n%100<11) ? 0 : (n%10>=2 && n%10<=9) && (n%100>19 || n%100<11) ? 1 : n%1!=0 ? 2: 3);\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: lt\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Lithuanian\n"
 "Language: lt_LT\n"
-"PO-Revision-Date: 2025-01-26 16:20\n"
+"PO-Revision-Date: 2026-03-24 16:55\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -266,7 +266,7 @@ msgstr "Nepavyko autentifikuoti. Paskyra nebeegzistuoja."
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -535,7 +535,7 @@ msgstr "Paieška ir filtravimas..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -1118,7 +1118,7 @@ msgstr "Pasirinkti modpack"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1575,7 +1575,7 @@ msgstr "Testuoti"
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1645,7 +1645,7 @@ msgstr "Naršyti"
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -2261,7 +2261,7 @@ msgstr "Ar tikrai norite ištrinti %1?"
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
 msgctxt "LegacyFTB::Page|"
 msgid "FTB Legacy"
-msgstr "FTB Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
 msgctxt "LegacyInstance|"
@@ -2609,7 +2609,7 @@ msgstr ""
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2620,7 +2620,7 @@ msgstr "Atidaryti %1 Discord garso kanalą."
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
@@ -2916,7 +2916,7 @@ msgstr "Formatas"
 #: src/launcher/ui/MainWindow.cpp:982
 msgctxt "MainWindow|"
 msgid "Modrinth (WIP)"
-msgstr "Modrinth (WIP)"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1037
 msgctxt "MainWindow|"
@@ -3034,7 +3034,7 @@ msgstr "sugedusi"
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
-msgstr "Minecraft %1 (%2)"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:817
 #, qt-format
@@ -3128,7 +3128,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
@@ -3526,7 +3526,7 @@ msgstr "Kraunama..."
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h:47
 msgctxt "ModrinthPage|"
 msgid "Modrinth"
-msgstr "Modrinth"
+msgstr ""
 
 #: src/launcher/net/NetJob.cpp:128
 #, qt-format
@@ -3548,7 +3548,7 @@ msgstr "Pavadinimas"
 #: src/launcher/ui/dialogs/NewComponentDialog.ui:37
 msgctxt "NewComponentDialog|"
 msgid "uid"
-msgstr "uid"
+msgstr ""
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:144
@@ -4771,7 +4771,7 @@ msgstr ""
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -4922,7 +4922,7 @@ msgstr "Atnaujinti"
 #: src/launcher/ui/pages/modplatform/VanillaPage.h:40
 msgctxt "VanillaPage|"
 msgid "Vanilla"
-msgstr "Vanilla"
+msgstr ""
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
@@ -5336,7 +5336,7 @@ msgstr "Versija"
 #: src/launcher/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -5521,7 +5521,7 @@ msgstr "Ištrinti"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"
