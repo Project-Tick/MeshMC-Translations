@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3;\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: he\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Hebrew\n"
 "Language: he_IL\n"
-"PO-Revision-Date: 2025-08-17 12:18\n"
+"PO-Revision-Date: 2026-03-24 16:54\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -64,7 +64,7 @@ msgstr "מוריד הגדרות..."
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:456
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Config download"
-msgstr "הורדת הגדרות"
+msgstr "הגדר הורדה"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:496
 msgctxt "ATLauncher::PackInstallTask|"
@@ -107,7 +107,7 @@ msgstr "סוג הורדה לא מוכר: %1"
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:674
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to extract mods..."
-msgstr "חילוץ המודים נכשל..."
+msgstr "נכשל בחילוץ המודים..."
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:685
 msgctxt "ATLauncher::PackInstallTask|"
@@ -227,7 +227,7 @@ msgstr "<p> אנו שומרים על קוד פתוח של MultiMC מכיוון �
 #: src/launcher/minecraft/auth/AccountList.cpp:354
 msgctxt "AccountList|"
 msgid "Add New Account"
-msgstr "הוסף חשבון חדש"
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:42
 msgctxt "AccountTask|"
@@ -267,7 +267,7 @@ msgstr "האימות נכשל. החשבון לא קיים יותר."
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -278,19 +278,19 @@ msgstr "מצב חשבון לא מוכר: %1"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:35
 msgctxt "AccountsDialog|"
 msgid "Accounts"
-msgstr "חשבונות"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:118
 msgctxt "AccountsDialog|"
 msgid "Account / Profile Name Here"
-msgstr "שם חשבון / פרופיל כאן"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:138
 #: src/launcher/ui/dialogs/AccountsDialog.ui:573
 #: src/launcher/ui/dialogs/AccountsDialog.ui:880
 msgctxt "AccountsDialog|"
 msgid "Refresh Account"
-msgstr "רענן משתמש"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:145
 #: src/launcher/ui/dialogs/AccountsDialog.ui:580
@@ -298,81 +298,80 @@ msgstr "רענן משתמש"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:887
 msgctxt "AccountsDialog|"
 msgid "Sign Out"
-msgstr "התנתק"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:189
 msgctxt "AccountsDialog|"
 msgid "Open Skins Folder"
-msgstr "פתח תיקיית סקינים"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
 msgid "Model"
-msgstr "מודל"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:215
 msgctxt "AccountsDialog|"
 msgid "Classic"
-msgstr "קלאסי"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:228
 msgctxt "AccountsDialog|"
 msgid "Slim"
-msgstr "רזה"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:241
 msgctxt "AccountsDialog|"
 msgid "Reset Changes"
-msgstr "אפס שינויים"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:248
 msgctxt "AccountsDialog|"
 msgid "Apply Changes"
-msgstr "החל שינויים"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:255
 msgctxt "AccountsDialog|"
 msgid "Save Skin To File"
-msgstr "שמור סקין לקובץ"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:295
 msgctxt "AccountsDialog|"
 msgid "Skins"
-msgstr "סקינים"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:333
 msgctxt "AccountsDialog|"
 msgid "Capes"
-msgstr "גלימות"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:553
 #: src/launcher/ui/dialogs/AccountsDialog.ui:725
 #: src/launcher/ui/dialogs/AccountsDialog.ui:860
 msgctxt "AccountsDialog|"
 msgid "Account Name Here"
-msgstr "שם חשבון כאן"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:614
 msgctxt "AccountsDialog|"
 msgid "You just need to take one more step to be able to play Minecraft on this account.\n\n"
 "Choose your name carefully:"
-msgstr "רק עוד שלב אחד עד שתוכל לשחק מיינקראפט בחשבון הזה.\n\n"
-"בחר את שמך:"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:657
 msgctxt "AccountsDialog|"
 msgid "Create Profile"
-msgstr "צור פרופיל"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:779
 msgctxt "AccountsDialog|"
 msgid "This account's authentication tokens have expired and it needs to be signed in into again."
-msgstr "אסימון האימון של חשבון זה פג תוקף, ויש להתחבר אליו שוב."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:792
 msgctxt "AccountsDialog|"
 msgid "Remove and Sign In Again"
-msgstr "הסר וכנס מחדש"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:921
 msgctxt "AccountsDialog|"
@@ -397,24 +396,24 @@ msgstr "החלת הסקין נכשלה"
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:581
 msgctxt "AccountsDialog|"
 msgid "You can scan the QR code and complete the login process on a separate device, or you can open the link and login on this machine."
-msgstr "באפשרותך לסרוק את הברקוד ולהשלים את תהליך הכניסה במכשיר אחר, או לפתוח את הקישור ולהיכנס במכשיר זה."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:708
 msgctxt "AccountsDialog|"
 msgid "Name is too short - must be between 3 and 16 characters long."
-msgstr "שם קצר מידי - חייב להיות בין 3 ל16 אותיות."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:767
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "Minecraft profile with name %1 already exists."
-msgstr "פרופיל מיינקראפט עם השם %1 כבר קיים."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:770
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "The name %1 is not allowed."
-msgstr "השם %1 אסור בשימוש."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:773
 #, qt-format
@@ -425,7 +424,7 @@ msgstr "סטטוס שם פרופיל לא מטופל: %1"
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:777
 msgctxt "AccountsDialog|"
 msgid "Failed to check name availability."
-msgstr "בדיקת זמינות השם נכשלה."
+msgstr ""
 
 #: src/launcher/Application.cpp:784
 msgctxt "Application|"
@@ -537,7 +536,7 @@ msgstr "חפש וסנן..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -583,13 +582,13 @@ msgstr "הפרופיילר נעצר"
 #: src/launcher/skins/CapesModel.cpp:34
 msgctxt "CapesModel|"
 msgid "Nothing"
-msgstr "שום דבר"
+msgstr ""
 
 #: src/launcher/minecraft/launch/ClaimAccount.cpp:30
 #, qt-format
 msgctxt "ClaimAccount|"
 msgid "Failed to claim account by profile: %1 was not found."
-msgstr "נכשלה לקיחת בעלות חשבון על פי פרופיל: %1 לא נמצא."
+msgstr ""
 
 #: src/launcher/minecraft/ComponentUpdateTask.cpp:270
 msgctxt "ComponentUpdateTask|"
@@ -1119,7 +1118,7 @@ msgstr "בחר מודפאק"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1129,7 +1128,7 @@ msgstr "ייבא מzip"
 #: src/launcher/meta/Index.cpp:71
 msgctxt "Index|"
 msgid "Name"
-msgstr "שם"
+msgstr ""
 
 #: src/launcher/ui/widgets/InstanceCardWidget.ui:27
 msgctxt "InstanceCardWidget|"
@@ -1577,7 +1576,7 @@ msgstr "בדוק"
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1649,7 +1648,7 @@ msgstr "עיון"
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -1713,21 +1712,19 @@ msgstr "לא נבחר חשבון להפעלה."
 #: src/launcher/LaunchController.cpp:165
 msgctxt "LaunchController|"
 msgid "Account doesn't have a Minecraft profile"
-msgstr "אין לחשבון פרופיל מיינקראפט"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:166
 msgctxt "LaunchController|"
 msgid "The account doesn't have a Minecraft profile yet.\n"
 "You need to create a profile first to play.\n\n"
 "Do you want to open the Accounts dialog?"
-msgstr "לחשבון זה אין עדיין פרופיל מיינקראפט.\n"
-"עליך ליצור פרופיל לפני שתוכל לשחק.\n\n"
-"האם ברצונך לפתוח את חלון החשבונות?"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:168
 msgctxt "LaunchController|"
 msgid "Open Accounts"
-msgstr "פתח חשבון"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:169 src/launcher/LaunchController.cpp:195
 msgctxt "LaunchController|"
@@ -1766,7 +1763,7 @@ msgstr "שחק במצב לא מקוון"
 #: src/launcher/LaunchController.cpp:234
 msgctxt "LaunchController|"
 msgid "The account has expired and needs to be logged into manually. Press OK to open the accounts window."
-msgstr "חשבון זה פג תוקף ויש להתחבר אליו באופן ידני. לחץ OK כדי לפתוח את חלון החשבונות."
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:237
 msgctxt "LaunchController|"
@@ -1910,7 +1907,7 @@ msgstr "תיקיות"
 #: src/launcher/ui/pages/global/LauncherPage.ui:107
 msgctxt "LauncherPage|"
 msgid "&Skins:"
-msgstr "&סקינים:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:117
 msgctxt "LauncherPage|"
@@ -1933,7 +1930,7 @@ msgstr "צלמיות:"
 #: src/launcher/ui/pages/global/LauncherPage.ui:174
 msgctxt "LauncherPage|"
 msgid "Open"
-msgstr "פתח"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:184
 msgctxt "LauncherPage|"
@@ -2088,7 +2085,7 @@ msgstr "תקיית מודים"
 #: src/launcher/ui/pages/global/LauncherPage.cpp:160
 msgctxt "LauncherPage|"
 msgid "Skins Folder"
-msgstr "תיקיית סקינים"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:377
 msgctxt "LauncherPage|"
@@ -2269,7 +2266,7 @@ msgstr "האם אתה בטוח שברצונך למחוק את חבילה %1?"
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
 msgctxt "LegacyFTB::Page|"
 msgid "FTB Legacy"
-msgstr "FTB Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
 msgctxt "LegacyInstance|"
@@ -2622,7 +2619,7 @@ msgstr "פתח את מעקב אחר באגים כדי לדווח על באג ע�
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2633,7 +2630,7 @@ msgstr "פתח את שרת הדיסקורד של %1."
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
@@ -2908,7 +2905,7 @@ msgstr "סך הכל זמן משחק: 0s"
 #: src/launcher/ui/MainWindow.cpp:874 src/launcher/ui/MainWindow.cpp:1183
 msgctxt "MainWindow|"
 msgid "Accounts"
-msgstr "חשבונות"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:933
 msgctxt "MainWindow|"
@@ -2976,67 +2973,67 @@ msgstr "לא ניתן היה ליצור תיקיה להורדת עדכונים: 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:69
 msgctxt "MinecraftAccount|Account status"
 msgid "Unchecked"
-msgstr "לא נבדק"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:72
 msgctxt "MinecraftAccount|Account status"
 msgid "Offline"
-msgstr "לא מקוון"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:75
 msgctxt "MinecraftAccount|Account status"
 msgid "Online"
-msgstr "מקוון"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
 msgid "Working"
-msgstr "עבד"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:81
 msgctxt "MinecraftAccount|Account status"
 msgid "Errored"
-msgstr "שגוי"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:84
 msgctxt "MinecraftAccount|Account status"
 msgid "Expired"
-msgstr "פג תוקף"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:87
 msgctxt "MinecraftAccount|Account status"
 msgid "Gone"
-msgstr "אבוד"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:90
 msgctxt "MinecraftAccount|Account status"
 msgid "Must Migrate"
-msgstr "חייב להעביר חשבון מוג'אנג למייקרוסופט"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:93
 msgctxt "MinecraftAccount|Account status"
 msgid "Unknown"
-msgstr "לא ידוע"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
 msgid "<SESSION ID>"
-msgstr "<SESSION ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:732
 msgctxt "MinecraftInstance|"
 msgid "<ACCESS TOKEN>"
-msgstr "<ACCESS TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:734
 msgctxt "MinecraftInstance|"
 msgid "<CLIENT TOKEN>"
-msgstr "<CLIENT TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:736
 msgctxt "MinecraftInstance|"
 msgid "<PROFILE ID>"
-msgstr "<PROFILE ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:808
 msgctxt "MinecraftInstance|"
@@ -3141,13 +3138,13 @@ msgstr "הצג את הזמן ששוחק בשעות בלבד"
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
 msgctxt "MinecraftProfileCreateStep|"
 msgid "Creating the Minecraft profile '%1'."
-msgstr "יוצר את הפרופיל מיינקראפט \"%1\"."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileStep.cpp:17
 msgctxt "MinecraftProfileStep|"
@@ -3177,7 +3174,7 @@ msgstr "פרופיל ה-Java הושג בהצלחה."
 #: src/launcher/minecraft/MinecraftUpdate.cpp:54
 msgctxt "MinecraftUpdate|"
 msgid "Failed to load version components - mmc-pack.json is probably corrupted."
-msgstr "נכשלה טעינת רכיבי הגרסה - כנראה שקובץ mmc-pack.json פגום."
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftUpdate.cpp:91
 msgctxt "MinecraftUpdate|"
@@ -3540,7 +3537,7 @@ msgstr "טוען..."
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h:47
 msgctxt "ModrinthPage|"
 msgid "Modrinth"
-msgstr "Modrinth"
+msgstr ""
 
 #: src/launcher/net/NetJob.cpp:128
 #, qt-format
@@ -3563,7 +3560,7 @@ msgstr "שם"
 #: src/launcher/ui/dialogs/NewComponentDialog.ui:37
 msgctxt "NewComponentDialog|"
 msgid "uid"
-msgstr "uid"
+msgstr ""
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:144
@@ -3644,17 +3641,17 @@ msgstr "סוג מופע לא ידוע"
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:18
 msgctxt "OfflineNameDialog|"
 msgid "Player name"
-msgstr "שם שחקן"
+msgstr ""
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:24
 msgctxt "OfflineNameDialog|"
 msgid "Choose your offline mode player name."
-msgstr "בחר שם שחקן למצב הלא מקוון."
+msgstr ""
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:29
 msgctxt "OfflineNameDialog|"
 msgid "Retry Online"
-msgstr "נסה מצב מקוון"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:42
 msgctxt "OtherLogsPage|"
@@ -3925,7 +3922,7 @@ msgstr "דלג"
 #: src/launcher/ui/pages/global/ProxyPage.ui:42
 msgctxt "ProxyPage|"
 msgid "This only applies to the launcher."
-msgstr "זה חל רק על המשגר."
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
@@ -3950,7 +3947,7 @@ msgstr "כלום"
 #: src/launcher/ui/pages/global/ProxyPage.ui:84
 msgctxt "ProxyPage|"
 msgid "SOC&KS5"
-msgstr "SOC&KS5"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:94
 msgctxt "ProxyPage|"
@@ -3985,7 +3982,7 @@ msgstr "הערה: שם המשתמש והסיסמה של הפרוקסי נשמר�
 #: src/launcher/ui/pages/global/ProxyPage.h:39
 msgctxt "ProxyPage|"
 msgid "Proxy"
-msgstr "Proxy"
+msgstr ""
 
 #: src/launcher/minecraft/AssetsUtils.cpp:323
 #, qt-format
@@ -4200,7 +4197,7 @@ msgstr "מתחזק"
 #: src/launcher/ui/dialogs/AboutDialog.cpp:54
 msgctxt "QObject|About Credits"
 msgid "Patrons"
-msgstr "Patrons"
+msgstr ""
 
 #: src/launcher/ui/dialogs/UpdateDialog.cpp:111
 msgctxt "QObject|"
@@ -4610,17 +4607,17 @@ msgstr "תפריט לחיצה ימנית"
 #: src/launcher/minecraft/auth/steps/SetCapeStep.cpp:23
 msgctxt "SetCapeStep|"
 msgid "Setting cape."
-msgstr "מגדיר גלימה."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:39
 msgctxt "SetSkinStep|"
 msgid "Clearing skin"
-msgstr "מוחק סקין"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:43
 msgctxt "SetSkinStep|"
 msgid "Uploading skin"
-msgstr "מעלה סקין"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/SetupWizard.cpp:28
 msgctxt "SetupWizard|"
@@ -4801,7 +4798,7 @@ msgstr " מאת "
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -4960,7 +4957,7 @@ msgstr "וונליה"
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
 msgid "Minecraft 24w14a and above require the use of Java 21"
-msgstr "מיינקראפט 24w14a ומעלה דורש גרסת Java 21"
+msgstr ""
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:51
 msgctxt "VerifyJavaInstall|"
@@ -5180,12 +5177,12 @@ msgstr "פתח את תיקיית הספריות המקומית של המופע."
 #: src/launcher/ui/pages/instance/VersionPage.ui:276
 msgctxt "VersionPage|"
 msgid "Install NeoForge"
-msgstr "התקן NeoForge"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:279
 msgctxt "VersionPage|"
 msgid "Install the NeoForge package."
-msgstr "התקן את חבילת NeoForge."
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:156
 msgctxt "VersionPage|"
@@ -5295,17 +5292,17 @@ msgstr "לא ניתן היה לטעון או להוריד את רשימות הג
 #: src/launcher/ui/pages/instance/VersionPage.cpp:469
 msgctxt "VersionPage|"
 msgid "Select NeoForge version"
-msgstr "בחר גרסת NeoForge"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:471
 msgctxt "VersionPage|"
 msgid "No NeoForge versions are currently available for Minecraft "
-msgstr "אין גרסאות NeoForge זמינות כרגע עבור מיינקראפט "
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:472
 msgctxt "VersionPage|"
 msgid "Couldn't load or download the NeoForge version lists!"
-msgstr "לא ניתן היה לטעון או להוריד את רשימת הגרסאות של NeoForge!"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:498
 msgctxt "VersionPage|"
@@ -5370,7 +5367,7 @@ msgstr "גרסא"
 #: src/launcher/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -5555,7 +5552,7 @@ msgstr "הסר"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"
@@ -5724,13 +5721,12 @@ msgstr "האלמנט XErr חסר מתגובת התקלה של האימות של 
 msgctxt "XboxAuthorizationStep|"
 msgid "Your XBox Live account has been banned by Microsoft for violating the XBox Community Standards.\n"
 "This may happen if your account was shared or resold."
-msgstr "חשבון ה XBox Live שלך נחסם על ידי מייקרוסופט על הפרת הסטנדרטים של קהילת XBox.\n"
-"דבר זה יכול לקרות אם חשבונך שותף או נמכר מחדש."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:130
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account is linked to a family and your parent or guardian has not given you permission to play online."
-msgstr "חשבון מייקרוסופט זה מקושר למשפחה וההורה או האפוטרופוס לא הביא לך גישה לשחק במצב מקוון."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:137
 #, qt-format
@@ -5741,7 +5737,7 @@ msgstr "אין לחשבון המיקרוסופט פרופיל Xbox Live. עלי�
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:145
 msgctxt "XboxAuthorizationStep|"
 msgid "This account has not accepted the XBox Terms of Service. Please log in online and accept them."
-msgstr "חשבון זה לא הסכים לתנאי השימוש של XBox. אנא התחבר במצב מקוון והסכם להם."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:153
 msgctxt "XboxAuthorizationStep|"
@@ -5752,12 +5748,12 @@ msgstr "‏Xbox Live לא זמין במדינה שלך. נחסמת."
 #, qt-format
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age."
-msgstr "חשבון מייקרוסופט זה דורש הוכחת גיל בכדי לשחק. אנא התחבר ל %1 כדי לספק הוכחת גיל."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:168
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account has reached its playtime limit and has been blocked from logging in."
-msgstr "חשבון מייקרוסופט זה הגיע למגבלת זמן המשחק שלו ונחסמה לו האפשרות להתחבר מחדש."
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:175
 #, qt-format
