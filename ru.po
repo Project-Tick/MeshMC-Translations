@@ -5,27 +5,27 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: ru\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-05-04 00:19\n"
+"PO-Revision-Date: 2026-03-24 16:55\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Could not understand pack manifest:\n"
-msgstr "Could not understand pack manifest:\n"
+msgstr ""
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:107
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:188
 #, qt-format
 msgctxt "ATLauncher::PackInstallTask|"
 msgid "Failed to get local metadata index for %1"
-msgstr "Failed to get local metadata index for %1"
+msgstr ""
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:113
 #, qt-format
@@ -267,7 +267,7 @@ msgstr "Ошибка аутентификации. Учетная запись �
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -537,7 +537,7 @@ msgstr "Поиск и фильтрация..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -1121,7 +1121,7 @@ msgstr "Выберите мод-пак"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1579,7 +1579,7 @@ msgstr "Проверить"
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1651,7 +1651,7 @@ msgstr "Обзор"
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -2622,7 +2622,7 @@ msgstr "Открыть баг-трекер и сообщить об ошибке
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2633,7 +2633,7 @@ msgstr "Открыть голосовой чат %1 в Discord."
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
@@ -2929,7 +2929,7 @@ msgstr "Формат"
 #: src/launcher/ui/MainWindow.cpp:982
 msgctxt "MainWindow|"
 msgid "Modrinth (WIP)"
-msgstr "Modrinth (WIP)"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1037
 msgctxt "MainWindow|"
@@ -3048,7 +3048,7 @@ msgstr "повреждённый"
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
-msgstr "Minecraft %1 (%2)"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:817
 #, qt-format
@@ -3142,7 +3142,7 @@ msgstr "Округлять наиграное время до кол-ва час
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
@@ -3541,7 +3541,7 @@ msgstr "Загрузка..."
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h:47
 msgctxt "ModrinthPage|"
 msgid "Modrinth"
-msgstr "Modrinth"
+msgstr ""
 
 #: src/launcher/net/NetJob.cpp:128
 #, qt-format
@@ -3564,7 +3564,7 @@ msgstr "Название"
 #: src/launcher/ui/dialogs/NewComponentDialog.ui:37
 msgctxt "NewComponentDialog|"
 msgid "uid"
-msgstr "uid"
+msgstr ""
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:144
@@ -4799,7 +4799,7 @@ msgstr " от "
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -5368,7 +5368,7 @@ msgstr "Версия"
 #: src/launcher/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -5553,7 +5553,7 @@ msgstr "Удалить"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"
