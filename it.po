@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: it\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-12-07 18:29\n"
+"PO-Revision-Date: 2026-03-24 16:55\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -267,7 +267,7 @@ msgstr "Autenticazione non riuscita. L'account non è più esistente."
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -283,14 +283,14 @@ msgstr "Account"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:118
 msgctxt "AccountsDialog|"
 msgid "Account / Profile Name Here"
-msgstr "Nome Account / Profilo Qui"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:138
 #: src/launcher/ui/dialogs/AccountsDialog.ui:573
 #: src/launcher/ui/dialogs/AccountsDialog.ui:880
 msgctxt "AccountsDialog|"
 msgid "Refresh Account"
-msgstr "Ricarica Account"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:145
 #: src/launcher/ui/dialogs/AccountsDialog.ui:580
@@ -298,91 +298,90 @@ msgstr "Ricarica Account"
 #: src/launcher/ui/dialogs/AccountsDialog.ui:887
 msgctxt "AccountsDialog|"
 msgid "Sign Out"
-msgstr "Esci"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:189
 msgctxt "AccountsDialog|"
 msgid "Open Skins Folder"
-msgstr "Apri Cartella Skin"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
 msgid "Model"
-msgstr "Modello"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:215
 msgctxt "AccountsDialog|"
 msgid "Classic"
-msgstr "Classico/a"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:228
 msgctxt "AccountsDialog|"
 msgid "Slim"
-msgstr "Slim"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:241
 msgctxt "AccountsDialog|"
 msgid "Reset Changes"
-msgstr "Ripristina Modifiche"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:248
 msgctxt "AccountsDialog|"
 msgid "Apply Changes"
-msgstr "Applica le modifiche"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:255
 msgctxt "AccountsDialog|"
 msgid "Save Skin To File"
-msgstr "Salva Skin su File"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:295
 msgctxt "AccountsDialog|"
 msgid "Skins"
-msgstr "Skin"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:333
 msgctxt "AccountsDialog|"
 msgid "Capes"
-msgstr "Mantelli"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:553
 #: src/launcher/ui/dialogs/AccountsDialog.ui:725
 #: src/launcher/ui/dialogs/AccountsDialog.ui:860
 msgctxt "AccountsDialog|"
 msgid "Account Name Here"
-msgstr "Nome Account Qui"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:614
 msgctxt "AccountsDialog|"
 msgid "You just need to take one more step to be able to play Minecraft on this account.\n\n"
 "Choose your name carefully:"
-msgstr "Devi solo fare un ulteriore passo per poter giocare a Minecraft su questo account.\n\n"
-"Scegli attentamente il tuo nome:"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:657
 msgctxt "AccountsDialog|"
 msgid "Create Profile"
-msgstr "Crea Profilo"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:779
 msgctxt "AccountsDialog|"
 msgid "This account's authentication tokens have expired and it needs to be signed in into again."
-msgstr "I token di autenticazione di questo account sono scaduti e devono essere nuovamente eseguiti."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:792
 msgctxt "AccountsDialog|"
 msgid "Remove and Sign In Again"
-msgstr "Rimuovi e accedi di nuovo"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:921
 msgctxt "AccountsDialog|"
 msgid "This account doesn't own Minecraft yet. Without purchasing the game, you can only play the demo."
-msgstr "Questo account non possiede ancora Minecraft. Senza aver comprato il gioco puoi giocare solo alla demo."
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:934
 msgctxt "AccountsDialog|"
 msgid "Get Minecraft"
-msgstr "Compra Minecraft"
+msgstr ""
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:52
 msgctxt "AccountsDialog|"
@@ -537,7 +536,7 @@ msgstr "Cerca e filtra ..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -844,7 +843,7 @@ msgstr "Errore durante la verifica dell'installazione di JProfiler:\n"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:195
 msgctxt "ExternalToolsPage|"
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:117
 msgctxt "ExternalToolsPage|"
@@ -1121,7 +1120,7 @@ msgstr "Scegli modpack"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1579,7 +1578,7 @@ msgstr "Verifica"
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1651,7 +1650,7 @@ msgstr "Sfoglia"
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -1917,7 +1916,7 @@ msgstr "&Skin:"
 #: src/launcher/ui/pages/global/LauncherPage.ui:117
 msgctxt "LauncherPage|"
 msgid "&Mods:"
-msgstr "&Mods:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:130
 msgctxt "LauncherPage|"
@@ -2020,7 +2019,7 @@ msgstr "Colori"
 #: src/launcher/ui/pages/global/LauncherPage.ui:376
 msgctxt "LauncherPage|"
 msgid "Console"
-msgstr "Console"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:382
 msgctxt "LauncherPage|"
@@ -2271,12 +2270,12 @@ msgstr "Vuoi veramente cancellare il modpack %1?"
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
 msgctxt "LegacyFTB::Page|"
 msgid "FTB Legacy"
-msgstr "FTB Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
 msgctxt "LegacyInstance|"
 msgid "Legacy"
-msgstr "Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:225
 msgctxt "LegacyInstance|"
@@ -2624,7 +2623,7 @@ msgstr "Apri il bug tracker per segnalare un bug a %1."
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2635,7 +2634,7 @@ msgstr "Apri la chat vocale discord di %1."
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
@@ -2931,7 +2930,7 @@ msgstr "Formato"
 #: src/launcher/ui/MainWindow.cpp:982
 msgctxt "MainWindow|"
 msgid "Modrinth (WIP)"
-msgstr "Modrinth (WIP)"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1037
 msgctxt "MainWindow|"
@@ -2984,12 +2983,12 @@ msgstr "Non Selezionato"
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:72
 msgctxt "MinecraftAccount|Account status"
 msgid "Offline"
-msgstr "Offline"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:75
 msgctxt "MinecraftAccount|Account status"
 msgid "Online"
-msgstr "Online"
+msgstr ""
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
@@ -3050,7 +3049,7 @@ msgstr "malfunzionante"
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
-msgstr "Minecraft %1 (%2)"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:817
 #, qt-format
@@ -3144,7 +3143,7 @@ msgstr "Mostra il tempo di gioco solo in ore"
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
@@ -3195,7 +3194,7 @@ msgstr "Cartella"
 #: src/launcher/minecraft/mod/ModFolderModel.cpp:370
 msgctxt "ModFolderModel|"
 msgid "File"
-msgstr "File"
+msgstr ""
 
 #: src/launcher/minecraft/mod/ModFolderModel.cpp:464
 msgctxt "ModFolderModel|"
@@ -3404,7 +3403,7 @@ msgstr "Opzioni di esportazione"
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:127
 msgctxt "ModrinthExportDialog|"
 msgid "File"
-msgstr "File"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:137
 #: src/launcher/ui/dialogs/ModrinthExportDialog.ui:205
@@ -3543,7 +3542,7 @@ msgstr "Caricamento..."
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h:47
 msgctxt "ModrinthPage|"
 msgid "Modrinth"
-msgstr "Modrinth"
+msgstr ""
 
 #: src/launcher/net/NetJob.cpp:128
 #, qt-format
@@ -3566,7 +3565,7 @@ msgstr "Nome"
 #: src/launcher/ui/dialogs/NewComponentDialog.ui:37
 msgctxt "NewComponentDialog|"
 msgid "uid"
-msgstr "uid"
+msgstr ""
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:144
@@ -3953,12 +3952,12 @@ msgstr "&Nessuno"
 #: src/launcher/ui/pages/global/ProxyPage.ui:84
 msgctxt "ProxyPage|"
 msgid "SOC&KS5"
-msgstr "SOC&KS5"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:94
 msgctxt "ProxyPage|"
 msgid "H&TTP"
-msgstr "H&TTP"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:107
 msgctxt "ProxyPage|"
@@ -3973,12 +3972,12 @@ msgstr "Autenticazione"
 #: src/launcher/ui/pages/global/ProxyPage.ui:148
 msgctxt "ProxyPage|"
 msgid "Username:"
-msgstr "Username:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:155
 msgctxt "ProxyPage|"
 msgid "Password:"
-msgstr "Password:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:169
 msgctxt "ProxyPage|"
@@ -3988,7 +3987,7 @@ msgstr "Nota: L'username e la password del proxy sono memorizzati in chiaro nel 
 #: src/launcher/ui/pages/global/ProxyPage.h:39
 msgctxt "ProxyPage|"
 msgid "Proxy"
-msgstr "Proxy"
+msgstr ""
 
 #: src/launcher/minecraft/AssetsUtils.cpp:323
 #, qt-format
@@ -4272,7 +4271,7 @@ msgstr "Server di Minecraft"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1m %2s"
-msgstr "%1m %2s"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:35
 #, qt-format
@@ -4802,7 +4801,7 @@ msgstr " da "
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -4956,7 +4955,7 @@ msgstr "Aggiorna"
 #: src/launcher/ui/pages/modplatform/VanillaPage.h:40
 msgctxt "VanillaPage|"
 msgid "Vanilla"
-msgstr "Vanilla"
+msgstr ""
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
@@ -5371,7 +5370,7 @@ msgstr "Versione"
 #: src/launcher/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -5556,7 +5555,7 @@ msgstr "Elimina"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"
