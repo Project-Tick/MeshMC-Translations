@@ -5,15 +5,15 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Qt-Contexts: true\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Crowdin-Project: multimc\n"
-"X-Crowdin-Project-ID: 373791\n"
+"X-Crowdin-Project: projtlauncher\n"
+"X-Crowdin-Project-ID: 863014\n"
 "X-Crowdin-Language: ca\n"
-"X-Crowdin-File: /master/template.pot\n"
-"X-Crowdin-File-ID: 4\n"
-"Project-Id-Version: multimc\n"
+"X-Crowdin-File: /[Project-Tick.MeshMC-Translations] master/template.pot\n"
+"X-Crowdin-File-ID: 80\n"
+"Project-Id-Version: projtlauncher\n"
 "Language-Team: Catalan\n"
 "Language: ca_ES\n"
-"PO-Revision-Date: 2026-01-13 22:54\n"
+"PO-Revision-Date: 2026-03-24 16:54\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -227,7 +227,7 @@ msgstr "Mantenim el codi obert de MultiMC perquè creiem que és important poder
 #: src/launcher/minecraft/auth/AccountList.cpp:354
 msgctxt "AccountList|"
 msgid "Add New Account"
-msgstr "Afegir un nou compte"
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:42
 msgctxt "AccountTask|"
@@ -267,7 +267,7 @@ msgstr "Error en l'autenticació. El compte ja no existeix."
 #: src/launcher/minecraft/auth/AccountTask.cpp:56
 msgctxt "AccountTask|"
 msgid "..."
-msgstr "..."
+msgstr ""
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:109
 #, qt-format
@@ -534,7 +534,7 @@ msgstr "Cerca i filtra..."
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.h:45
 msgctxt "AtlPage|"
 msgid "ATLauncher"
-msgstr "ATLauncher"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/atlauncher/AtlPage.cpp:160
 #, qt-format
@@ -787,7 +787,7 @@ msgstr "El fitxer ja existeix. Voleu sobreescriure'l?"
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
 msgctxt "ExportInstanceDialog|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/dialogs/ExportInstanceDialog.cpp:408
 msgctxt "ExportInstanceDialog|"
@@ -824,7 +824,7 @@ msgstr "Carpeta JProfiler"
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:191
 msgctxt "ExternalToolsPage|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:98
 #: src/launcher/ui/pages/global/ExternalToolsPage.cpp:113
@@ -1117,7 +1117,7 @@ msgstr "Tria el paquet de mods"
 #: src/launcher/ui/pages/modplatform/ImportPage.cpp:107
 msgctxt "ImportPage|"
 msgid "Zip (*.zip *.mrpack)"
-msgstr "Zip (*.zip *.mrpack)"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/ImportPage.h:40
 msgctxt "ImportPage|"
@@ -1575,7 +1575,7 @@ msgstr "Provar"
 #: src/launcher/ui/pages/global/JavaPage.h:42
 msgctxt "JavaPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/pages/global/JavaPage.cpp:107
 msgctxt "JavaPage|"
@@ -1647,7 +1647,7 @@ msgstr "Cerca"
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:94
 msgctxt "JavaWizardPage|"
 msgid "Java"
-msgstr "Java"
+msgstr ""
 
 #: src/launcher/ui/setupwizard/JavaWizardPage.cpp:95
 msgctxt "JavaWizardPage|"
@@ -1797,7 +1797,7 @@ msgstr "Error en iniciar."
 #: src/launcher/LaunchController.cpp:290 src/launcher/LaunchController.cpp:362
 msgctxt "LaunchController|"
 msgid "Error!"
-msgstr "Error!"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:290 src/launcher/LaunchController.cpp:291
 msgctxt "LaunchController|"
@@ -1842,7 +1842,7 @@ msgstr "No es pot iniciar l'analitzador: %1"
 #: src/launcher/LaunchController.cpp:385
 msgctxt "LaunchController|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/LaunchController.cpp:413
 msgctxt "LaunchController|"
@@ -1911,7 +1911,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/LauncherPage.ui:117
 msgctxt "LauncherPage|"
 msgid "&Mods:"
-msgstr "&Mods:"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:130
 msgctxt "LauncherPage|"
@@ -2009,7 +2009,7 @@ msgstr "Personalitzades"
 #: src/launcher/ui/pages/global/LauncherPage.ui:349
 msgctxt "LauncherPage|"
 msgid "Colors"
-msgstr "Colors"
+msgstr ""
 
 #: src/launcher/ui/pages/global/LauncherPage.ui:376
 msgctxt "LauncherPage|"
@@ -2265,7 +2265,7 @@ msgstr "Estàs segur de que vols eliminar el modpack %1?"
 #: src/launcher/ui/pages/modplatform/legacy_ftb/Page.h:53
 msgctxt "LegacyFTB::Page|"
 msgid "FTB Legacy"
-msgstr "FTB Legacy"
+msgstr ""
 
 #: src/launcher/minecraft/legacy/LegacyInstance.cpp:220
 msgctxt "LegacyInstance|"
@@ -2295,7 +2295,7 @@ msgstr "Actualitzar"
 #: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:27
 msgctxt "LegacyUpgradePage|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/LegacyUpgradePage.cpp:30
 msgctxt "LegacyUpgradePage|"
@@ -2618,7 +2618,7 @@ msgstr "Obriu el seguidor d'errors per a informar d'un error amb %1."
 #: src/launcher/ui/MainWindow.cpp:360
 msgctxt "MainWindow|"
 msgid "Discord"
-msgstr "Discord"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:361
 #, qt-format
@@ -2629,7 +2629,7 @@ msgstr "Obriu el xat de veu a Discord de %1."
 #: src/launcher/ui/MainWindow.cpp:370
 msgctxt "MainWindow|"
 msgid "Reddit"
-msgstr "Reddit"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:371
 #, qt-format
@@ -2920,7 +2920,7 @@ msgstr "Eliminar grup '%1'"
 #: src/launcher/ui/MainWindow.cpp:979
 msgctxt "MainWindow|"
 msgid "Format"
-msgstr "Format"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:982
 msgctxt "MainWindow|"
@@ -2960,7 +2960,7 @@ msgstr "No hi ha notícies disponibles."
 #: src/launcher/ui/MainWindow.cpp:1331 src/launcher/ui/MainWindow.cpp:1348
 msgctxt "MainWindow|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/MainWindow.cpp:1331
 #, qt-format
@@ -3018,22 +3018,22 @@ msgstr ""
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
 msgid "<SESSION ID>"
-msgstr "<SESSION ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:732
 msgctxt "MinecraftInstance|"
 msgid "<ACCESS TOKEN>"
-msgstr "<ACCESS TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:734
 msgctxt "MinecraftInstance|"
 msgid "<CLIENT TOKEN>"
-msgstr "<CLIENT TOKEN>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:736
 msgctxt "MinecraftInstance|"
 msgid "<PROFILE ID>"
-msgstr "<PROFILE ID>"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:808
 msgctxt "MinecraftInstance|"
@@ -3044,7 +3044,7 @@ msgstr "trencat"
 #, qt-format
 msgctxt "MinecraftInstance|"
 msgid "Minecraft %1 (%2)"
-msgstr "Minecraft %1 (%2)"
+msgstr ""
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:817
 #, qt-format
@@ -3138,7 +3138,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/MinecraftPage.h:42
 msgctxt "MinecraftPage|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/minecraft/auth/steps/MinecraftProfileCreateStep.cpp:23
 #, qt-format
@@ -3536,7 +3536,7 @@ msgstr "Carregant..."
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.h:47
 msgctxt "ModrinthPage|"
 msgid "Modrinth"
-msgstr "Modrinth"
+msgstr ""
 
 #: src/launcher/net/NetJob.cpp:128
 #, qt-format
@@ -3558,7 +3558,7 @@ msgstr "Nom"
 #: src/launcher/ui/dialogs/NewComponentDialog.ui:37
 msgctxt "NewComponentDialog|"
 msgid "uid"
-msgstr "uid"
+msgstr ""
 
 #: src/launcher/ui/dialogs/NewInstanceDialog.ui:17
 #: src/launcher/ui/dialogs/NewInstanceDialog.cpp:144
@@ -3611,7 +3611,7 @@ msgstr "Autor desconegut"
 #: src/launcher/ui/pages/instance/NotesPage.h:38
 msgctxt "NotesPage|"
 msgid "Notes"
-msgstr "Notes"
+msgstr ""
 
 #: src/launcher/ui/dialogs/NotificationDialog.ui:14
 msgctxt "NotificationDialog|"
@@ -3707,7 +3707,7 @@ msgstr "Cerca:"
 #: src/launcher/ui/pages/instance/OtherLogsPage.cpp:266
 msgctxt "OtherLogsPage|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.cpp:127
 #, qt-format
@@ -3944,12 +3944,12 @@ msgstr "&Cap"
 #: src/launcher/ui/pages/global/ProxyPage.ui:84
 msgctxt "ProxyPage|"
 msgid "SOC&KS5"
-msgstr "SOC&KS5"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:94
 msgctxt "ProxyPage|"
 msgid "H&TTP"
-msgstr "H&TTP"
+msgstr ""
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:107
 msgctxt "ProxyPage|"
@@ -3979,7 +3979,7 @@ msgstr "Nota: L'usuari i contrasenya del proxy es guarden en text pla dins el fi
 #: src/launcher/ui/pages/global/ProxyPage.h:39
 msgctxt "ProxyPage|"
 msgid "Proxy"
-msgstr "Proxy"
+msgstr ""
 
 #: src/launcher/minecraft/AssetsUtils.cpp:323
 #, qt-format
@@ -4263,19 +4263,19 @@ msgstr "Servidor de Minecraft"
 #, qt-format
 msgctxt "QObject|"
 msgid "%1m %2s"
-msgstr "%1m %2s"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:35
 #, qt-format
 msgctxt "QObject|"
 msgid "%1h %2m"
-msgstr "%1h %2m"
+msgstr ""
 
 #: src/launcher/MMCTime.cpp:37
 #, qt-format
 msgctxt "QObject|"
 msgid "%1d %2h %3m"
-msgstr "%1d %2h %3m"
+msgstr ""
 
 #: src/launcher/tools/JVisualVM.cpp:92 src/launcher/tools/JProfiler.cpp:99
 msgctxt "QObject|"
@@ -4793,7 +4793,7 @@ msgstr " per "
 #: src/launcher/ui/pages/modplatform/technic/TechnicPage.h:47
 msgctxt "TechnicPage|"
 msgid "Technic"
-msgstr "Technic"
+msgstr ""
 
 #: src/launcher/minecraft/mod/TexturePackFolderModel.cpp:10
 msgctxt "TexturePackFolderModel|"
@@ -4917,7 +4917,7 @@ msgstr "Llançaments"
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:64
 msgctxt "VanillaPage|"
 msgid "Snapshots"
-msgstr "Snapshots"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:74
 msgctxt "VanillaPage|"
@@ -4937,7 +4937,7 @@ msgstr "Alfes"
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:104
 msgctxt "VanillaPage|"
 msgid "Experiments"
-msgstr "Experiments"
+msgstr ""
 
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:127
 msgctxt "VanillaPage|"
@@ -4947,7 +4947,7 @@ msgstr "Recarregar"
 #: src/launcher/ui/pages/modplatform/VanillaPage.h:40
 msgctxt "VanillaPage|"
 msgid "Vanilla"
-msgstr "Vanilla"
+msgstr ""
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
@@ -5199,7 +5199,7 @@ msgstr "%1 té problemes!"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:191
 msgctxt "VersionPage|"
 msgid "Error: "
-msgstr "Error: "
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:195
 msgctxt "VersionPage|"
@@ -5214,7 +5214,7 @@ msgstr "Advertència: "
 #: src/launcher/ui/pages/instance/VersionPage.cpp:413
 msgctxt "VersionPage|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:271
 msgctxt "VersionPage|"
@@ -5234,7 +5234,7 @@ msgstr "Selecciona els mods .jar"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:307
 msgctxt "VersionPage|"
 msgid "Minecraft.jar mods (*.zip *.jar)"
-msgstr "Minecraft.jar mods (*.zip *.jar)"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:317
 msgctxt "VersionPage|"
@@ -5362,7 +5362,7 @@ msgstr "Versió"
 #: src/launcher/VersionProxyModel.cpp:78
 msgctxt "VersionProxyModel|"
 msgid "Minecraft"
-msgstr "Minecraft"
+msgstr ""
 
 #: src/launcher/VersionProxyModel.cpp:80
 msgctxt "VersionProxyModel|"
@@ -5459,7 +5459,7 @@ msgstr "&Recarrega"
 #: src/launcher/ui/widgets/VersionSelectWidget.cpp:128
 msgctxt "VersionSelectWidget|"
 msgid "Error"
-msgstr "Error"
+msgstr ""
 
 #: src/launcher/ui/widgets/VersionSelectWidget.cpp:128
 #, qt-format
@@ -5547,7 +5547,7 @@ msgstr "Elimina"
 #: src/launcher/ui/pages/instance/WorldListPage.ui:135
 msgctxt "WorldListPage|"
 msgid "MCEdit"
-msgstr "MCEdit"
+msgstr ""
 
 #: src/launcher/ui/pages/instance/WorldListPage.ui:140
 msgctxt "WorldListPage|"
