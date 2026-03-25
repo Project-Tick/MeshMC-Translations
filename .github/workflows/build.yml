@@ -3,8 +3,7 @@ name: Build Pages
 on:
   push:
     branches:
-      - l18n-main
-      - main
+      - master
     paths:
       - '*'
   workflow_dispatch:
