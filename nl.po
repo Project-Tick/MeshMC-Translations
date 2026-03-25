@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: projtlauncher\n"
 "Language-Team: Dutch\n"
 "Language: nl_NL\n"
-"PO-Revision-Date: 2026-03-24 16:55\n"
+"PO-Revision-Date: 2026-03-24 18:22\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:95
 msgctxt "ATLauncher::PackInstallTask|"
@@ -283,14 +283,14 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:118
 msgctxt "AccountsDialog|"
 msgid "Account / Profile Name Here"
-msgstr ""
+msgstr "Accounts / Profielnaam Hier"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:138
 #: src/launcher/ui/dialogs/AccountsDialog.ui:573
 #: src/launcher/ui/dialogs/AccountsDialog.ui:880
 msgctxt "AccountsDialog|"
 msgid "Refresh Account"
-msgstr ""
+msgstr "Ververs Account"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:145
 #: src/launcher/ui/dialogs/AccountsDialog.ui:580
@@ -298,12 +298,12 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:887
 msgctxt "AccountsDialog|"
 msgid "Sign Out"
-msgstr ""
+msgstr "Afmelden"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:189
 msgctxt "AccountsDialog|"
 msgid "Open Skins Folder"
-msgstr ""
+msgstr "Open Skins Map"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:209
 msgctxt "AccountsDialog|"
@@ -313,27 +313,27 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:215
 msgctxt "AccountsDialog|"
 msgid "Classic"
-msgstr ""
+msgstr "Klassiek"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:228
 msgctxt "AccountsDialog|"
 msgid "Slim"
-msgstr ""
+msgstr "Nauw"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:241
 msgctxt "AccountsDialog|"
 msgid "Reset Changes"
-msgstr ""
+msgstr "Reset Veranderingen"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:248
 msgctxt "AccountsDialog|"
 msgid "Apply Changes"
-msgstr ""
+msgstr "Pas Veranderingen Toe"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:255
 msgctxt "AccountsDialog|"
 msgid "Save Skin To File"
-msgstr ""
+msgstr "Sla Skin Op Tot Bestand"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:295
 msgctxt "AccountsDialog|"
@@ -343,45 +343,46 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.ui:333
 msgctxt "AccountsDialog|"
 msgid "Capes"
-msgstr ""
+msgstr "Mantels"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:553
 #: src/launcher/ui/dialogs/AccountsDialog.ui:725
 #: src/launcher/ui/dialogs/AccountsDialog.ui:860
 msgctxt "AccountsDialog|"
 msgid "Account Name Here"
-msgstr ""
+msgstr "Accountnaam Hier"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:614
 msgctxt "AccountsDialog|"
 msgid "You just need to take one more step to be able to play Minecraft on this account.\n\n"
 "Choose your name carefully:"
-msgstr ""
+msgstr "Je hoeft nog maar één stap te ondernemen om Minecraft op dit account te spelen.\n\n"
+"Kies voorzichtig je naam:"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:657
 msgctxt "AccountsDialog|"
 msgid "Create Profile"
-msgstr ""
+msgstr "Creëer Profiel"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:779
 msgctxt "AccountsDialog|"
 msgid "This account's authentication tokens have expired and it needs to be signed in into again."
-msgstr ""
+msgstr "De authenticatietokens van dit account zijn verlopen en er moet opnieuw op ingelogd worden."
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:792
 msgctxt "AccountsDialog|"
 msgid "Remove and Sign In Again"
-msgstr ""
+msgstr "Verwijder en Meld Opnieuw Aan"
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:921
 msgctxt "AccountsDialog|"
 msgid "This account doesn't own Minecraft yet. Without purchasing the game, you can only play the demo."
-msgstr ""
+msgstr "Dit account bezit nog geen Minecraft. Zonder het spel te verkrijgen kan alleen de demo gespeeld worden."
 
 #: src/launcher/ui/dialogs/AccountsDialog.ui:934
 msgctxt "AccountsDialog|"
 msgid "Get Minecraft"
-msgstr ""
+msgstr "Krijg Minercraft"
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:52
 msgctxt "AccountsDialog|"
@@ -391,17 +392,17 @@ msgstr ""
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:203
 msgctxt "AccountsDialog|"
 msgid "Failed to apply skin"
-msgstr ""
+msgstr "Gefaald om skin toe te passen"
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:581
 msgctxt "AccountsDialog|"
 msgid "You can scan the QR code and complete the login process on a separate device, or you can open the link and login on this machine."
-msgstr ""
+msgstr "Je kunt of de QR-code scannen om in te loggen op een ander apparaat, of je kunt de link openen en op dit apparaat inloggen."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:708
 msgctxt "AccountsDialog|"
 msgid "Name is too short - must be between 3 and 16 characters long."
-msgstr ""
+msgstr "Naam is te kort - moet tussen de 3 en 16 karakters lang zijn."
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:767
 #, qt-format
@@ -419,12 +420,12 @@ msgstr "De naam %1 is niet toegestaan."
 #, qt-format
 msgctxt "AccountsDialog|"
 msgid "Unhandled profile name status: %1"
-msgstr ""
+msgstr "Onbehandelde profielnaam status: 1%"
 
 #: src/launcher/ui/dialogs/AccountsDialog.cpp:777
 msgctxt "AccountsDialog|"
 msgid "Failed to check name availability."
-msgstr ""
+msgstr "Gefaald om verkrijgbaarheid van naam te bevestigen."
 
 #: src/launcher/Application.cpp:784
 msgctxt "Application|"
@@ -582,13 +583,13 @@ msgstr "Profiler onderbroken"
 #: src/launcher/skins/CapesModel.cpp:34
 msgctxt "CapesModel|"
 msgid "Nothing"
-msgstr ""
+msgstr "Niets"
 
 #: src/launcher/minecraft/launch/ClaimAccount.cpp:30
 #, qt-format
 msgctxt "ClaimAccount|"
 msgid "Failed to claim account by profile: %1 was not found."
-msgstr ""
+msgstr "Gefaald om account te claimen door middel van profiel: 1% niet gevonden."
 
 #: src/launcher/minecraft/ComponentUpdateTask.cpp:270
 msgctxt "ComponentUpdateTask|"
@@ -1130,7 +1131,7 @@ msgstr "Importeren van zip"
 #: src/launcher/meta/Index.cpp:71
 msgctxt "Index|"
 msgid "Name"
-msgstr ""
+msgstr "Naam"
 
 #: src/launcher/ui/widgets/InstanceCardWidget.ui:27
 msgctxt "InstanceCardWidget|"
@@ -1714,14 +1715,16 @@ msgstr "Geen account gekozen om mee op te starten."
 #: src/launcher/LaunchController.cpp:165
 msgctxt "LaunchController|"
 msgid "Account doesn't have a Minecraft profile"
-msgstr ""
+msgstr "Account heeft geen Minecraft profiel"
 
 #: src/launcher/LaunchController.cpp:166
 msgctxt "LaunchController|"
 msgid "The account doesn't have a Minecraft profile yet.\n"
 "You need to create a profile first to play.\n\n"
 "Do you want to open the Accounts dialog?"
-msgstr ""
+msgstr "The account heeft nog geen Minecraft profiel.\n"
+"Je moet eerst een profiel aanmaken om te spelen.\n\n"
+"Wil je het accountmenu openen?"
 
 #: src/launcher/LaunchController.cpp:168
 msgctxt "LaunchController|"
@@ -1764,7 +1767,7 @@ msgstr "Speel offline"
 #: src/launcher/LaunchController.cpp:234
 msgctxt "LaunchController|"
 msgid "The account has expired and needs to be logged into manually. Press OK to open the accounts window."
-msgstr ""
+msgstr "Het termijn van het account is verstreken en er moet handmatig ingelogd worden. Druk op OK om het accountsvenster te openen."
 
 #: src/launcher/LaunchController.cpp:237
 msgctxt "LaunchController|"
@@ -2086,7 +2089,7 @@ msgstr "Mods-map"
 #: src/launcher/ui/pages/global/LauncherPage.cpp:160
 msgctxt "LauncherPage|"
 msgid "Skins Folder"
-msgstr ""
+msgstr "Skins Map"
 
 #: src/launcher/ui/pages/global/LauncherPage.cpp:377
 msgctxt "LauncherPage|"
@@ -2975,7 +2978,7 @@ msgstr "De map voor het downloaden van updates kon niet worden aangemaakt:\n"
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:69
 msgctxt "MinecraftAccount|Account status"
 msgid "Unchecked"
-msgstr ""
+msgstr "Onbevestigd"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:72
 msgctxt "MinecraftAccount|Account status"
@@ -2990,32 +2993,32 @@ msgstr ""
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:78
 msgctxt "MinecraftAccount|Account status"
 msgid "Working"
-msgstr ""
+msgstr "Werkend"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:81
 msgctxt "MinecraftAccount|Account status"
 msgid "Errored"
-msgstr ""
+msgstr "Errorgevend"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:84
 msgctxt "MinecraftAccount|Account status"
 msgid "Expired"
-msgstr ""
+msgstr "Verlopen"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:87
 msgctxt "MinecraftAccount|Account status"
 msgid "Gone"
-msgstr ""
+msgstr "Weg"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:90
 msgctxt "MinecraftAccount|Account status"
 msgid "Must Migrate"
-msgstr ""
+msgstr "Moet Migreren"
 
 #: src/launcher/minecraft/auth/MinecraftAccount.cpp:93
 msgctxt "MinecraftAccount|Account status"
 msgid "Unknown"
-msgstr ""
+msgstr "Onbekend"
 
 #: src/launcher/minecraft/MinecraftInstance.cpp:730
 msgctxt "MinecraftInstance|"
@@ -3176,7 +3179,7 @@ msgstr "Ophalen Minecraft Java-profiel is geslaagd."
 #: src/launcher/minecraft/MinecraftUpdate.cpp:54
 msgctxt "MinecraftUpdate|"
 msgid "Failed to load version components - mmc-pack.json is probably corrupted."
-msgstr ""
+msgstr "Gefaald om visiecomponenten in te laden - mcc.pack.json is hoogstwaarschijnlijk gecorrumpeerd."
 
 #: src/launcher/minecraft/MinecraftUpdate.cpp:91
 msgctxt "MinecraftUpdate|"
@@ -3643,17 +3646,17 @@ msgstr "Onbekend instantietype"
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:18
 msgctxt "OfflineNameDialog|"
 msgid "Player name"
-msgstr ""
+msgstr "Speler Naam"
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:24
 msgctxt "OfflineNameDialog|"
 msgid "Choose your offline mode player name."
-msgstr ""
+msgstr "Kies je naam voor de offline modus."
 
 #: src/launcher/ui/dialogs/OfflineNameDialog.cpp:29
 msgctxt "OfflineNameDialog|"
 msgid "Retry Online"
-msgstr ""
+msgstr "Probeer Opnieuw Online"
 
 #: src/launcher/ui/pages/instance/OtherLogsPage.ui:42
 msgctxt "OtherLogsPage|"
@@ -3924,7 +3927,7 @@ msgstr "Overslaan"
 #: src/launcher/ui/pages/global/ProxyPage.ui:42
 msgctxt "ProxyPage|"
 msgid "This only applies to the launcher."
-msgstr ""
+msgstr "Dit gaat alleen over de launcher."
 
 #: src/launcher/ui/pages/global/ProxyPage.ui:55
 msgctxt "ProxyPage|"
@@ -4607,17 +4610,17 @@ msgstr "Contextmenu"
 #: src/launcher/minecraft/auth/steps/SetCapeStep.cpp:23
 msgctxt "SetCapeStep|"
 msgid "Setting cape."
-msgstr ""
+msgstr "Cape instellingen."
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:39
 msgctxt "SetSkinStep|"
 msgid "Clearing skin"
-msgstr ""
+msgstr "Skin verwijderen"
 
 #: src/launcher/minecraft/auth/steps/SetSkinStep.cpp:43
 msgctxt "SetSkinStep|"
 msgid "Uploading skin"
-msgstr ""
+msgstr "Skin uploaden"
 
 #: src/launcher/ui/setupwizard/SetupWizard.cpp:28
 msgctxt "SetupWizard|"
@@ -4957,7 +4960,7 @@ msgstr "Standaard"
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:42
 msgctxt "VerifyJavaInstall|"
 msgid "Minecraft 24w14a and above require the use of Java 21"
-msgstr ""
+msgstr "Minecraft 21w14a en hoger vereisen het gebruik van Java 21"
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:51
 msgctxt "VerifyJavaInstall|"
@@ -5177,12 +5180,12 @@ msgstr "Open de bij deze instantie behorende map met lokale bibliotheken."
 #: src/launcher/ui/pages/instance/VersionPage.ui:276
 msgctxt "VersionPage|"
 msgid "Install NeoForge"
-msgstr ""
+msgstr "Installeer NeoForge"
 
 #: src/launcher/ui/pages/instance/VersionPage.ui:279
 msgctxt "VersionPage|"
 msgid "Install the NeoForge package."
-msgstr ""
+msgstr "Installeer het NeoForge pakket."
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:156
 msgctxt "VersionPage|"
@@ -5292,17 +5295,17 @@ msgstr "Kon de Forge versielijsten niet laden of downloaden!"
 #: src/launcher/ui/pages/instance/VersionPage.cpp:469
 msgctxt "VersionPage|"
 msgid "Select NeoForge version"
-msgstr ""
+msgstr "Selecteer Neoforge versie"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:471
 msgctxt "VersionPage|"
 msgid "No NeoForge versions are currently available for Minecraft "
-msgstr ""
+msgstr "Geen NeoForge versies zijn momenteel gevonden voor Minecraft "
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:472
 msgctxt "VersionPage|"
 msgid "Couldn't load or download the NeoForge version lists!"
-msgstr ""
+msgstr "Kon de NeoForge versie lijst niet laden/downloaden!"
 
 #: src/launcher/ui/pages/instance/VersionPage.cpp:498
 msgctxt "VersionPage|"
@@ -5721,12 +5724,12 @@ msgstr "XErr element ontbreekt in %1 foutmelding bij toegangsverzoek."
 msgctxt "XboxAuthorizationStep|"
 msgid "Your XBox Live account has been banned by Microsoft for violating the XBox Community Standards.\n"
 "This may happen if your account was shared or resold."
-msgstr ""
+msgstr "Oei... Je XBox Live account is gebanned door Microsoft omdat je de Community Standards hebt geschonden. Dit kan gebeuren als je account gedeeld of herverkocht is."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:130
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account is linked to a family and your parent or guardian has not given you permission to play online."
-msgstr ""
+msgstr "Dit microsoft account is verbonden aan een familie en je ouder of voogd heeft je (nog) geen rechten gegeven om online te spelen."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:137
 #, qt-format
@@ -5737,7 +5740,7 @@ msgstr "Dit Microsoft-account heeft geen XBox Live-profiel. Koop eerst het spel 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:145
 msgctxt "XboxAuthorizationStep|"
 msgid "This account has not accepted the XBox Terms of Service. Please log in online and accept them."
-msgstr ""
+msgstr "Dit account heeft de XBox TOS (Terms Of Service) nog niet geaccepteerd. Log alsjeblieft online in en accepteer ze."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:153
 msgctxt "XboxAuthorizationStep|"
@@ -5748,12 +5751,12 @@ msgstr "XBox Live is niet beschikbaar in uw land. U bent geblokkeerd."
 #, qt-format
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account requires proof of age to play. Please login to %1 to provide proof of age."
-msgstr ""
+msgstr "Dit Microsoft account moet zijn leeftijd verifiëren. Log alsjeblieft in op %1 om je leeftijd te verifiëren."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:168
 msgctxt "XboxAuthorizationStep|"
 msgid "This Microsoft account has reached its playtime limit and has been blocked from logging in."
-msgstr ""
+msgstr "Dit Microsoft account heeft zijn tijdslimiet geraakt en is mag niet meer inloggen."
 
 #: src/launcher/minecraft/auth/steps/XboxAuthorizationStep.cpp:175
 #, qt-format
