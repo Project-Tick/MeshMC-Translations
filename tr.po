@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: projtlauncher\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-03-27 22:31\n"
+"PO-Revision-Date: 2026-03-28 06:02\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:117
 msgctxt "ATLauncher::PackInstallTask|"
@@ -407,7 +407,7 @@ msgstr "Kimlik doğrulama başarısız. Hesap artık yok."
 #: src/launcher/minecraft/auth/AccountTask.cpp:76
 msgctxt "AccountTask|"
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:123
 #, qt-format
