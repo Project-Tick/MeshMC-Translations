@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: projtlauncher\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-04-16 19:15\n"
+"PO-Revision-Date: 2026-04-16 21:41\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:127
 msgctxt "ATLauncher::PackInstallTask|"
@@ -937,7 +937,7 @@ msgstr "QR Kodlar"
 #: src/crashreporter/CrashReportDialog.cpp:70
 msgctxt "CrashReportDialog|"
 msgid "[...truncated...]\n"
-msgstr ""
+msgstr "[...Kesilmiş...]\n"
 
 #: src/crashreporter/CrashReportDialog.cpp:81
 #: src/crashreporter/CrashReportDialog.cpp:98
@@ -1662,110 +1662,110 @@ msgstr "ZIP'ten içeri aktar"
 #, qt-format
 msgctxt "Installer|"
 msgid "Downloading update from %1 …"
-msgstr ""
+msgstr "%1 tarafından güncelleme indiriliyor…"
 
 #: src/updater/Installer.cpp:86
 #, qt-format
 msgctxt "Installer|"
 msgid "Downloading … %1%"
-msgstr ""
+msgstr "%1 İndiriliyor%"
 
 #: src/updater/Installer.cpp:99
 #, qt-format
 msgctxt "Installer|"
 msgid "Download failed: %1"
-msgstr ""
+msgstr "İndirme başarısız: %1"
 
 #: src/updater/Installer.cpp:107
 #, qt-format
 msgctxt "Installer|"
 msgid "Cannot write temp file: %1"
-msgstr ""
+msgstr "Geçici dosyaya yazılamıyor: %1"
 
 #: src/updater/Installer.cpp:113
 #, qt-format
 msgctxt "Installer|"
 msgid "Cannot commit temp file: %1"
-msgstr ""
+msgstr "Geçici dosyaya commit edilemiyor: %1"
 
 #: src/updater/Installer.cpp:117
 msgctxt "Installer|"
 msgid "Download complete. Installing …"
-msgstr ""
+msgstr "İndirme tamamlandı. Kuruluyor…"
 
 #: src/updater/Installer.cpp:151
 msgctxt "Installer|"
 msgid "Cannot create temporary directory for extraction."
-msgstr ""
+msgstr "Çıkarma için geçici dizin oluşturulamıyor."
 
 #: src/updater/Installer.cpp:155
 msgctxt "Installer|"
 msgid "Extracting archive …"
-msgstr ""
+msgstr "Arşiv çıkarılıyor…"
 
 #: src/updater/Installer.cpp:170
 msgctxt "Installer|"
 msgid "Installing files …"
-msgstr ""
+msgstr "Dosyalar kuruluyor…"
 
 #: src/updater/Installer.cpp:207 src/updater/Installer.cpp:310
 #: src/updater/Installer.cpp:395
 #, qt-format
 msgctxt "Installer|"
 msgid "Cannot create directory: %1"
-msgstr ""
+msgstr "Klasör oluşturulamıyor: %1"
 
 #: src/updater/Installer.cpp:231
 #, qt-format
 msgctxt "Installer|"
 msgid "Cannot copy %1 to %2."
-msgstr ""
+msgstr "%1'den %2'ye kopyalanamıyor."
 
 #: src/updater/Installer.cpp:251
 #, qt-format
 msgctxt "Installer|"
 msgid "Unknown archive format: %1"
-msgstr ""
+msgstr "Bilinmeyen arşiv formatı: %1"
 
 #: src/updater/Installer.cpp:260
 msgctxt "Installer|"
 msgid "Launching installer …"
-msgstr ""
+msgstr "Kurucu çalıştırılıyor…"
 
 #: src/updater/Installer.cpp:264
 #, qt-format
 msgctxt "Installer|"
 msgid "Failed to launch installer: %1"
-msgstr ""
+msgstr "Kurucu başlatılamadı: %1"
 
 #: src/updater/Installer.cpp:272
 msgctxt "Installer|"
 msgid ".exe installers are only supported on Windows."
-msgstr ""
+msgstr ".exe kurucular sadece Windows'u desteklemektedir."
 
 #: src/updater/Installer.cpp:287
 #, qt-format
 msgctxt "Installer|"
 msgid "Cannot open zip archive: %1"
-msgstr ""
+msgstr "Arşiv açılamıyor: %1"
 
 #: src/updater/Installer.cpp:353
 #, qt-format
 msgctxt "Installer|"
 msgid "Failed to extract zip archive: %1"
-msgstr ""
+msgstr "Arşivden çıkartma başarısız oldu: %1"
 
 #: src/updater/Installer.cpp:372
 #, qt-format
 msgctxt "Installer|"
 msgid "Cannot open tar archive: %1"
-msgstr ""
+msgstr "Tar arşivi açılamıyor: %1"
 
 #: src/updater/Installer.cpp:438
 #, qt-format
 msgctxt "Installer|"
 msgid "Failed to extract tar archive: %1"
-msgstr ""
+msgstr "Tar arşivi çıkartılamadı: %1"
 
 #: src/launcher/ui/widgets/InstanceCardWidget.ui:27
 msgctxt "InstanceCardWidget|"
