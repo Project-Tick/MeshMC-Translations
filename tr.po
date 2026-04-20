@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: projtlauncher\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-04-16 21:41\n"
+"PO-Revision-Date: 2026-04-20 14:01\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:127
 msgctxt "ATLauncher::PackInstallTask|"
@@ -3608,7 +3608,7 @@ msgstr "Seçili profilin kök dizinini dosya tarayıcısında aç."
 #: src/launcher/ui/MainWindow.cpp:701
 msgctxt "MainWindow|"
 msgid "Export Instance"
-msgstr "Profili İçe Aktar"
+msgstr "Profili Dışa Aktar"
 
 #: src/launcher/ui/MainWindow.cpp:710
 msgctxt "MainWindow|"
