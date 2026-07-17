@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: projtlauncher\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-07-17 21:58\n"
+"PO-Revision-Date: 2026-07-17 23:05\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:127
 msgctxt "ATLauncher::PackInstallTask|"
@@ -499,49 +499,50 @@ msgstr "Skor"
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:66
 msgctxt "AnalysisPage|"
 msgid "Re-analyse"
-msgstr ""
+msgstr "Yeniden analiz et"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:72
 msgctxt "AnalysisPage|"
 msgid "✓ This fixed it"
-msgstr ""
+msgstr "✓ Bu düzeltildi"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:77
 msgctxt "AnalysisPage|"
 msgid "✗ Didn't help"
-msgstr ""
+msgstr "✗ Yardım edilemedi"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:83
 msgctxt "AnalysisPage|"
 msgid "Promote unknown error → rule…"
-msgstr ""
+msgstr "Bilinmeyen hatayı → kurala yükselt…"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:86
 msgctxt "AnalysisPage|"
 msgid "If no rule matched but the same crash signature has appeared more than once, you can teach ErrorOracle about it by writing a custom title + advice."
-msgstr ""
+msgstr "Hiçbir kural eşleşmediyse ancak aynı çökme imzası birden fazla kez ortaya çıktıysa, özel bir başlık + tavsiye yazarak ErrorOracle'e bu konuda öğretebilirsiniz."
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:151
 msgctxt "AnalysisPage|"
 msgid "(no logs found)"
-msgstr ""
+msgstr "(loglar bulunamadı)"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:154
 #, qt-format
 msgctxt "AnalysisPage|"
 msgid "Analysed: <b>%1</b>. %2 rule match(es). Crash signature: <code>%3</code>"
-msgstr ""
+msgstr "<b>%1</b> analiz edildi. %2 kural eşleşti. Hata imzası: <code>%3</code>"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:158
 msgctxt "AnalysisPage|"
 msgid "(no stack trace)"
-msgstr ""
+msgstr "(Yığın izi yok)"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:163
 msgctxt "AnalysisPage|"
 msgid "### No matching rules\n\n"
 "Either the instance ran cleanly or the crash isn't in ErrorOracle's rule pack yet. If the same signature shows up more than once you can promote it into a rule using the button below.\n"
-msgstr ""
+msgstr "### Eşleşen kurallar yok\n\n"
+"Ya örnek temiz bir şekilde çalıştı ya da çökme henüz ErrorOracle'ın kural paketinde değil. Aynı imza birden fazla kez görünürse, aşağıdaki düğmeyi kullanarak bir kurala yükseltebilirsiniz.\n"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:210
 #, qt-format
@@ -590,18 +591,18 @@ msgstr ""
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:254
 msgctxt "AnalysisPage|"
 msgid "Save"
-msgstr ""
+msgstr "Kaydet"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:255
 msgctxt "AnalysisPage|"
 msgid "Cancel"
-msgstr ""
+msgstr "İptal et"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:291
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:319
 msgctxt "AnalysisPage|"
 msgid "ErrorOracle"
-msgstr ""
+msgstr "ErrorOracle"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:292
 msgctxt "AnalysisPage|"
@@ -616,47 +617,47 @@ msgstr ""
 #: src/launcher/ui/setupwizard/AnalyticsWizardPage.cpp:69
 msgctxt "AnalyticsWizardPage|"
 msgid "Analytics"
-msgstr ""
+msgstr "İstatistikler"
 
 #: src/launcher/ui/setupwizard/AnalyticsWizardPage.cpp:70
 msgctxt "AnalyticsWizardPage|"
 msgid "We track some anonymous statistics about users."
-msgstr ""
+msgstr "Kullanıcılarla ilgili bazı anonim istatistikleri takip ediyoruz."
 
 #: src/launcher/ui/setupwizard/AnalyticsWizardPage.cpp:72
 msgctxt "AnalyticsWizardPage|"
 msgid "<html><body><p>MeshMC sends anonymous usage statistics on every start of the application. This helps us decide what platforms and issues to focus on.</p><p>The data is processed by Google Analytics, see their <a href=\"https://support.google.com/analytics/answer/6004245?hl=en\">article on the matter</a>.</p><p>The following data is collected:</p><ul><li>A random unique ID of the installation.<br />It is stored in the application settings file.</li><li>Anonymized (partial) IP address.</li><li>MeshMC version.</li><li>Operating system name, version and architecture.</li><li>CPU architecture (kernel architecture on linux).</li><li>Size of system memory.</li><li>Java version, architecture and memory settings.</li></ul><p>If we change the tracked information, you will see this page again.</p></body></html>"
-msgstr ""
+msgstr "<html><body><p>MeshMC, uygulamanın her başlangıcında anonim kullanım istatistikleri gönderir. Bu, hangi platformlara ve konulara odaklanacağımıza karar vermemize yardımcı olur.</p><p>Veriler Google Analytics tarafından işlenir, konuyla ilgili <a href=\"https://support.google.com/analytics/answer/6004245?hl=en\">yazıyı inceleyin</a>.</p><p>Aşağıdaki veriler toplanır:</p><ul><li>Kurulumun rastgele benzersiz bir kimliği.<br />Saklanan uygulama ayar dosyası.</li><li>Anonimlerştirilmiş (bir kısmı) IP adresi.</li><li>MeshMC sürümü.</li><li>İşletim sistemi adı, sürümü ve mimarisi.</li><li>İşlemci mimarisi (Linux üzerindeki kernel mimarisi).</li><li>Sistem belleğinin boyutu.</li><li>Java sürümü, mimarisi ve bellek ayarları.</li></ul><p>Takip edilen bilgileri değiştirirsek, bu sayfayı tekrar göreceksiniz.</p></body></html>"
 
 #: src/launcher/ui/setupwizard/AnalyticsWizardPage.cpp:91
 msgctxt "AnalyticsWizardPage|"
 msgid "Enable Analytics"
-msgstr ""
+msgstr "Analizleri aktif et"
 
 #: src/launcher/ui/pages/global/AppearancePage.ui:44
 msgctxt "AppearancePage|"
 msgid "&Theme:"
-msgstr ""
+msgstr "&Tema:"
 
 #: src/launcher/ui/pages/global/AppearancePage.ui:67
 msgctxt "AppearancePage|"
 msgid "&Icons:"
-msgstr ""
+msgstr "&İkonlar:"
 
 #: src/launcher/ui/pages/global/AppearancePage.ui:90
 msgctxt "AppearancePage|"
 msgid "&Cat:"
-msgstr ""
+msgstr "&Kedi:"
 
 #: src/launcher/ui/pages/global/AppearancePage.ui:115
 msgctxt "AppearancePage|"
 msgid "Preview"
-msgstr ""
+msgstr "Önizleme"
 
 #: src/launcher/ui/pages/global/AppearancePage.h:47
 msgctxt "AppearancePage|"
 msgid "Appearance"
-msgstr ""
+msgstr "Görünüm"
 
 #: src/launcher/Application.cpp:1014
 msgctxt "Application|"
@@ -677,18 +678,18 @@ msgstr ""
 #: src/plugins/staging/PackUpdater/ApplyProgressDialog.cpp:69
 msgctxt "ApplyProgressDialog|"
 msgid "Preparing…"
-msgstr ""
+msgstr "Hazırlanıyor…"
 
 #: src/plugins/staging/PackUpdater/ApplyProgressDialog.cpp:85
 #: src/plugins/staging/PackUpdater/ApplyProgressDialog.cpp:214
 msgctxt "ApplyProgressDialog|"
 msgid "Apply"
-msgstr ""
+msgstr "Uygula"
 
 #: src/plugins/staging/PackUpdater/ApplyProgressDialog.cpp:87
 msgctxt "ApplyProgressDialog|"
 msgid "Cancel"
-msgstr ""
+msgstr "İptal et"
 
 #: src/plugins/staging/PackUpdater/ApplyProgressDialog.cpp:127
 msgctxt "ApplyProgressDialog|"
@@ -749,7 +750,7 @@ msgstr ""
 #: src/plugins/staging/PackUpdater/ApplyProgressDialog.cpp:635
 msgctxt "ApplyProgressDialog|"
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: src/plugins/staging/PackUpdater/ApplyProgressDialog.cpp:213
 msgctxt "ApplyProgressDialog|"
@@ -870,7 +871,7 @@ msgstr ""
 #: src/plugins/staging/PackUpdater/ApplyProgressDialog.cpp:675
 msgctxt "ApplyProgressDialog|"
 msgid "Restored"
-msgstr ""
+msgstr "Geri Yüklendi"
 
 #: src/plugins/staging/PackUpdater/ApplyProgressDialog.cpp:676
 msgctxt "ApplyProgressDialog|"
@@ -998,17 +999,17 @@ msgstr ""
 #: src/plugins/staging/PackUpdater/AttachDialog.cpp:78
 msgctxt "AttachDialog|"
 msgid "Modrinth"
-msgstr ""
+msgstr "Modrinth"
 
 #: src/plugins/staging/PackUpdater/AttachDialog.cpp:79
 msgctxt "AttachDialog|"
 msgid "CurseForge"
-msgstr ""
+msgstr "CurseForge"
 
 #: src/plugins/staging/PackUpdater/AttachDialog.cpp:81
 msgctxt "AttachDialog|"
 msgid "Source:"
-msgstr ""
+msgstr "Kaynak:"
 
 #: src/plugins/staging/PackUpdater/AttachDialog.cpp:91
 msgctxt "AttachDialog|"
@@ -1023,12 +1024,12 @@ msgstr ""
 #: src/plugins/staging/PackUpdater/AttachDialog.cpp:119
 msgctxt "AttachDialog|"
 msgid "Attach"
-msgstr ""
+msgstr "Ekle"
 
 #: src/plugins/staging/PackUpdater/AttachDialog.cpp:184
 msgctxt "AttachDialog|"
 msgid "Searching…"
-msgstr ""
+msgstr "Aranıyor…"
 
 #: src/plugins/staging/PackUpdater/AttachDialog.cpp:208
 msgctxt "AttachDialog|"
@@ -1100,7 +1101,7 @@ msgstr ""
 #: src/plugins/staging/PackUpdater/AttachDialog.cpp:478
 msgctxt "AttachDialog|"
 msgid "Attach failed"
-msgstr ""
+msgstr "Ekleme işlemi başarısız"
 
 #: src/plugins/staging/PackUpdater/AttachDialog.cpp:479
 msgctxt "AttachDialog|"
@@ -1125,42 +1126,42 @@ msgstr "Üzerinde Çalışılıyor..."
 #: src/plugins/BackupSystem/BackupPage.ui:27
 msgctxt "BackupPage|"
 msgid "Name"
-msgstr ""
+msgstr "İsim"
 
 #: src/plugins/BackupSystem/BackupPage.ui:32
 msgctxt "BackupPage|"
 msgid "Date"
-msgstr ""
+msgstr "Tarih"
 
 #: src/plugins/BackupSystem/BackupPage.ui:37
 msgctxt "BackupPage|"
 msgid "Size"
-msgstr ""
+msgstr "Boyut"
 
 #: src/plugins/BackupSystem/BackupPage.ui:47
 msgctxt "BackupPage|"
 msgid "Create"
-msgstr ""
+msgstr "Oluştur"
 
 #: src/plugins/BackupSystem/BackupPage.ui:57
 msgctxt "BackupPage|"
 msgid "Restore"
-msgstr ""
+msgstr "Geri yükle"
 
 #: src/plugins/BackupSystem/BackupPage.ui:70
 msgctxt "BackupPage|"
 msgid "Export"
-msgstr ""
+msgstr "Dışarı aktar"
 
 #: src/plugins/BackupSystem/BackupPage.ui:83
 msgctxt "BackupPage|"
 msgid "Import"
-msgstr ""
+msgstr "İçeri aktar"
 
 #: src/plugins/BackupSystem/BackupPage.ui:93
 msgctxt "BackupPage|"
 msgid "Delete"
-msgstr ""
+msgstr "Sil"
 
 #: src/plugins/BackupSystem/BackupPage.ui:115
 msgctxt "BackupPage|"
@@ -2133,52 +2134,52 @@ msgstr[1] ""
 #: src/launcher/modplatform/flame/FileResolvingTask.cpp:38
 msgctxt "Flame::FileResolvingTask|"
 msgid "Resolving mod IDs..."
-msgstr ""
+msgstr "Mod ID'leri çözümleniyor..."
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.ui:52
 msgctxt "FlamePage|"
 msgid "Version selected:"
-msgstr ""
+msgstr "Seçilen sürüm:"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.ui:67
 msgctxt "FlamePage|"
 msgid "Search"
-msgstr ""
+msgstr "Ara"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.ui:74
 msgctxt "FlamePage|"
 msgid "Search and filter ..."
-msgstr ""
+msgstr "Ara ve filtrele ..."
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:52
 msgctxt "FlamePage|"
 msgid "Sort by featured"
-msgstr ""
+msgstr "Öne çıkanlara göre sırala"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:53
 msgctxt "FlamePage|"
 msgid "Sort by popularity"
-msgstr ""
+msgstr "Popülerliğe göre sırala"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:54
 msgctxt "FlamePage|"
 msgid "Sort by last updated"
-msgstr ""
+msgstr "Son güncellemeye göre sırala"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:55
 msgctxt "FlamePage|"
 msgid "Sort by name"
-msgstr ""
+msgstr "İsme göre sırala"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:56
 msgctxt "FlamePage|"
 msgid "Sort by author"
-msgstr ""
+msgstr "Geliştiriciye göre sırala"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:57
 msgctxt "FlamePage|"
 msgid "Sort by total downloads"
-msgstr ""
+msgstr "Toplam indirmelere göre sırala"
 
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.cpp:134
 msgctxt "FlamePage|"
@@ -2188,7 +2189,7 @@ msgstr ""
 #: src/launcher/ui/pages/modplatform/flame/FlamePage.h:73
 msgctxt "FlamePage|"
 msgid "CurseForge"
-msgstr ""
+msgstr "CurseForge"
 
 #: src/launcher/minecraft/update/FoldersTask.cpp:40
 msgctxt "FoldersTask|"
@@ -2198,32 +2199,32 @@ msgstr "Minecraft çalıştırılabilir programları için klasör yaratılamad�
 #: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:56
 msgctxt "Ftb::FilterModel|"
 msgid "Sort by plays"
-msgstr ""
+msgstr "Oynamaya göre sırala"
 
 #: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:57
 msgctxt "Ftb::FilterModel|"
 msgid "Sort by installs"
-msgstr ""
+msgstr "İndirmeye göre sırala"
 
 #: src/launcher/ui/pages/modplatform/ftb/FtbFilterModel.cpp:58
 msgctxt "Ftb::FilterModel|"
 msgid "Sort by name"
-msgstr ""
+msgstr "İsme göre sırala"
 
 #: src/launcher/ui/pages/modplatform/ftb/FtbPage.ui:22
 msgctxt "FtbPage|"
 msgid "Version selected:"
-msgstr ""
+msgstr "Seçilen sürüm:"
 
 #: src/launcher/ui/pages/modplatform/ftb/FtbPage.ui:37
 msgctxt "FtbPage|"
 msgid "Search and filter ..."
-msgstr ""
+msgstr "Ara ve filtrele ..."
 
 #: src/launcher/ui/pages/modplatform/ftb/FtbPage.h:70
 msgctxt "FtbPage|"
 msgid "FTB"
-msgstr ""
+msgstr "FTB"
 
 #: src/launcher/minecraft/gameoptions/GameOptions.cpp:101
 msgctxt "GameOptions|"
@@ -2284,32 +2285,32 @@ msgstr "Skin alındı"
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:66
 msgctxt "GitVersioningPage|"
 msgid "When"
-msgstr ""
+msgstr "Ne zaman"
 
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:66
 msgctxt "GitVersioningPage|"
 msgid "Commit"
-msgstr ""
+msgstr "Commit"
 
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:66
 msgctxt "GitVersioningPage|"
 msgid "Subject"
-msgstr ""
+msgstr "Konu"
 
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:67
 msgctxt "GitVersioningPage|"
 msgid "Files"
-msgstr ""
+msgstr "Dosyalar"
 
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:67
 msgctxt "GitVersioningPage|"
 msgid "+"
-msgstr ""
+msgstr "+"
 
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:67
 msgctxt "GitVersioningPage|"
 msgid "-"
-msgstr ""
+msgstr "-"
 
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:79
 msgctxt "GitVersioningPage|"
@@ -2324,12 +2325,12 @@ msgstr ""
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:85
 msgctxt "GitVersioningPage|"
 msgid "Restore selected"
-msgstr ""
+msgstr "Seçileni geri yükle"
 
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:91
 msgctxt "GitVersioningPage|"
 msgid "Tag…"
-msgstr ""
+msgstr "Etiket..."
 
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:97
 msgctxt "GitVersioningPage|"
@@ -2344,7 +2345,7 @@ msgstr ""
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:107
 msgctxt "GitVersioningPage|"
 msgid "Refresh"
-msgstr ""
+msgstr "Yenile"
 
 #: src/plugins/GitVersioning/GitVersioningPage.cpp:119
 msgctxt "GitVersioningPage|"
