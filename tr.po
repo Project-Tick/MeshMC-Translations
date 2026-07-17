@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: projtlauncher\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-07-17 20:39\n"
+"PO-Revision-Date: 2026-07-17 21:58\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:127
 msgctxt "ATLauncher::PackInstallTask|"
@@ -146,12 +146,12 @@ msgstr "Platform:"
 #: src/launcher/ui/dialogs/AboutDialog.ui:189
 msgctxt "AboutDialog|"
 msgid "Build Date:"
-msgstr ""
+msgstr "Derleme tarihi:"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:205
 msgctxt "AboutDialog|"
 msgid "Commit:"
-msgstr ""
+msgstr "Commit:"
 
 #: src/launcher/ui/dialogs/AboutDialog.ui:221
 msgctxt "AboutDialog|"
@@ -193,13 +193,13 @@ msgstr "Platform"
 #, qt-format
 msgctxt "AboutDialog|"
 msgid "Commit: %1"
-msgstr ""
+msgstr "Commit: %1"
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:125
 #, qt-format
 msgctxt "AboutDialog|"
 msgid "Build date: %1"
-msgstr ""
+msgstr "Derleme tarihi: %1"
 
 #: src/launcher/ui/dialogs/AboutDialog.cpp:130
 msgctxt "AboutDialog|"
@@ -209,228 +209,231 @@ msgstr "Kanal"
 #: src/launcher/minecraft/auth/AccountList.cpp:355
 msgctxt "AccountList|Account status"
 msgid "Unchecked"
-msgstr ""
+msgstr "Kontrolsüz"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:358
 msgctxt "AccountList|Account status"
 msgid "Offline"
-msgstr ""
+msgstr "Çevrimdışı"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:361
 msgctxt "AccountList|Account status"
 msgid "Online"
-msgstr ""
+msgstr "Çevrimiçi"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:364
 msgctxt "AccountList|Account status"
 msgid "Working"
-msgstr ""
+msgstr "Çalışıyor"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:367
 msgctxt "AccountList|Account status"
 msgid "Errored"
-msgstr ""
+msgstr "Hatalı"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:370
 msgctxt "AccountList|Account status"
 msgid "Expired"
-msgstr ""
+msgstr "Geçersiz"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:373
 msgctxt "AccountList|Account status"
 msgid "Gone"
-msgstr ""
+msgstr "Gitmiş"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:410
 msgctxt "AccountList|"
 msgid "Account"
-msgstr ""
+msgstr "Hesap"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:412
 msgctxt "AccountList|"
 msgid "Type"
-msgstr ""
+msgstr "Tip"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:414
 msgctxt "AccountList|"
 msgid "Status"
-msgstr ""
+msgstr "Durum"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:416
 msgctxt "AccountList|"
 msgid "Profile"
-msgstr ""
+msgstr "Profil"
 
 #: src/launcher/minecraft/auth/AccountList.cpp:424
 msgctxt "AccountList|"
 msgid "User name of the account."
-msgstr ""
+msgstr "Hesabın kullanıcı adı."
 
 #: src/launcher/minecraft/auth/AccountList.cpp:426
 msgctxt "AccountList|"
 msgid "Type of the account."
-msgstr ""
+msgstr "Hesabın tipi."
 
 #: src/launcher/minecraft/auth/AccountList.cpp:428
 msgctxt "AccountList|"
 msgid "Current status of the account."
-msgstr ""
+msgstr "Hesabın mevcut durumu."
 
 #: src/launcher/minecraft/auth/AccountList.cpp:430
 msgctxt "AccountList|"
 msgid "Name of the Minecraft profile associated with the account."
-msgstr ""
+msgstr "Hesapla bağlantılı olan Minecraft profilinin adı."
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:67
 msgctxt "AccountListPage|"
 msgid "Remove"
-msgstr ""
+msgstr "Silme"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:72
 msgctxt "AccountListPage|"
 msgid "Set Default"
-msgstr ""
+msgstr "Varsayılan yap"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:80
 msgctxt "AccountListPage|"
 msgid "No Default"
-msgstr ""
+msgstr "Varsayılan değil"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:85
 msgctxt "AccountListPage|"
 msgid "Upload Skin"
-msgstr ""
+msgstr "Skin yükle"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:90
 #: src/launcher/ui/pages/global/AccountListPage.cpp:338
 msgctxt "AccountListPage|"
 msgid "Delete Skin"
-msgstr ""
+msgstr "Skini kaldır"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:93
 msgctxt "AccountListPage|"
 msgid "Delete the currently active skin and go back to the default one"
-msgstr ""
+msgstr "Şuan aktif olan skini sil ve varsayılana dön"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:98
 msgctxt "AccountListPage|"
 msgid "Add Microsoft"
-msgstr ""
+msgstr "Microsoft hesabı ekle"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:103
 msgctxt "AccountListPage|"
 msgid "Add Offline"
-msgstr ""
+msgstr "Çevrimdışı hesap ekle"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:106
 msgctxt "AccountListPage|"
 msgid "Add an offline account (requires at least one Microsoft account)"
-msgstr ""
+msgstr "Çevrimdışı bir hesap ekle (en az bir adet Microsoft hesabı gerekli)"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:111
 msgctxt "AccountListPage|"
 msgid "Refresh"
-msgstr ""
+msgstr "Yenile"
 
 #: src/launcher/ui/pages/global/AccountListPage.ui:114
 msgctxt "AccountListPage|"
 msgid "Refresh the account tokens"
-msgstr ""
+msgstr "Hesap tokenlerini yenile"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:73
 msgctxt "AccountListPage|"
 msgid "Welcome!\n"
 "If you're new here, you can click the \"Add Microsoft\" button to add your Microsoft account."
-msgstr ""
+msgstr "Hoş geldin!\n"
+"Eğer burada yeni isen, \"Microsoft hesabı ekle\" butonu ile Microsoft hesabını ekleyebilirsin."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:118
 msgctxt "AccountListPage|"
 msgid "Context menu"
-msgstr ""
+msgstr "İçerik menüsü"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:147
 msgctxt "AccountListPage|"
 msgid "Microsoft Accounts not available"
-msgstr ""
+msgstr "Microsoft hesabı mevcut değil"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:148
 msgctxt "AccountListPage|"
 msgid "Microsoft accounts are only usable on macOS 10.13 or newer, with fully updated MeshMC.\n\n"
 "Please update both your operating system and MeshMC."
-msgstr ""
+msgstr "Microsoft hesapları sadece macOS 10.13 ve sonrası için kullanılabilir ve MeshMC tamamen güncel olmalıdır.\n\n"
+"Lütfen İşletm sisteminle birlikte MeshMC'yide güncelle."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:156
 msgctxt "AccountListPage|"
 msgid "Log in with your Microsoft account to add it."
-msgstr ""
+msgstr "Eklemek için lütfen Microsoft hesabı ile giriş yapın."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:178
 msgctxt "AccountListPage|"
 msgid "Microsoft Account Required"
-msgstr ""
+msgstr "Microsoft hesabı gerekli"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:179
 msgctxt "AccountListPage|"
 msgid "Adding an offline account requires at least one Microsoft account to be logged in. Please add a Microsoft account first."
-msgstr ""
+msgstr "Çevrimdışı hesap eklemek için en az bir Microsoft hesabına giriş yapmanız gerekmektedir. Lütfen önce bir Microsoft hesabı ekleyin."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:194
 msgctxt "AccountListPage|"
 msgid "User"
-msgstr ""
+msgstr "Kullanıcı"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:198
 msgctxt "AccountListPage|"
 msgid "Add Offline Account"
-msgstr ""
+msgstr "Çevrimdışı hesap ekle"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:199
 msgctxt "AccountListPage|"
 msgid "Enter a username for the offline account:"
-msgstr ""
+msgstr "Çevrimdışı hesap için kullanıcı adı girin:"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:207
 msgctxt "AccountListPage|"
 msgid "Invalid username"
-msgstr ""
+msgstr "Geçersiz kullanıcı adı"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:208
 msgctxt "AccountListPage|"
 msgid "The username cannot be empty or whitespace-only."
-msgstr ""
+msgstr "Kullanıcı adı boş veya yalnızca boşluk içeremez."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:217
 msgctxt "AccountListPage|"
 msgid "Duplicate offline account"
-msgstr ""
+msgstr "Çoklu çevrimdışı hesap"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:218
 #, qt-format
 msgctxt "AccountListPage|"
 msgid "An offline account named \"%1\" already exists. Offline account names must be unique — please pick a different one."
-msgstr ""
+msgstr "\"%1\" isimli çevrimdışı hesap zaten mevcut. Çevrimdışı hesap adları benzersiz olmalıdır. Lütfen farklı bir tane seçin."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:339
 #, qt-format
 msgctxt "AccountListPage|"
 msgid "Are you sure you want to delete the skin for account \"%1\"?\n"
 "This action cannot be undone."
-msgstr ""
+msgstr "\"%1\" hesabına ait görünümü silmek istediğinizden emin misiniz?\n"
+"Bu işlem geri alınamaz."
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:350
 msgctxt "AccountListPage|"
 msgid "Skin Delete"
-msgstr ""
+msgstr "Skini Sil"
 
 #: src/launcher/ui/pages/global/AccountListPage.cpp:351
 msgctxt "AccountListPage|"
 msgid "Failed to delete current skin!"
-msgstr ""
+msgstr "Mevcut skin silinemedi!"
 
 #: src/launcher/ui/pages/global/AccountListPage.h:69
 msgctxt "AccountListPage|"
 msgid "Accounts"
-msgstr ""
+msgstr "Hesaplar"
 
 #: src/launcher/minecraft/auth/AccountTask.cpp:67
 msgctxt "AccountTask|"
@@ -476,22 +479,22 @@ msgstr "Bilinmeyen hesap görev durumu: %1"
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:49
 msgctxt "AnalysisPage|"
 msgid "Severity"
-msgstr ""
+msgstr "Önem derecesi"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:49
 msgctxt "AnalysisPage|"
 msgid "Title"
-msgstr ""
+msgstr "Başlık"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:49
 msgctxt "AnalysisPage|"
 msgid "Line"
-msgstr ""
+msgstr "Satır"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:49
 msgctxt "AnalysisPage|"
 msgid "Score"
-msgstr ""
+msgstr "Skor"
 
 #: src/plugins/staging/ErrorOracle/AnalysisPage.cpp:66
 msgctxt "AnalysisPage|"
@@ -1162,57 +1165,57 @@ msgstr ""
 #: src/plugins/BackupSystem/BackupPage.ui:115
 msgctxt "BackupPage|"
 msgid "No backups"
-msgstr ""
+msgstr "Yedek yok"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:60
 #, qt-format
 msgctxt "BackupPage|"
 msgid "%n backup(s)"
 msgid_plural "%n backup(s)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%n yedek(ler)"
+msgstr[1] "%n yedek(ler)"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:94
 msgctxt "BackupPage|"
 msgid "Create Backup"
-msgstr ""
+msgstr "Yedek oluştur"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:95
 msgctxt "BackupPage|"
 msgid "Backup label (optional):"
-msgstr ""
+msgstr "Yedek etiketi (opsiyonel):"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:101
 msgctxt "BackupPage|"
 msgid "Creating backup..."
-msgstr ""
+msgstr "Yedek oluşturuluyor..."
 
 #: src/plugins/BackupSystem/BackupPage.cpp:107
 msgctxt "BackupPage|"
 msgid "Backup Failed"
-msgstr ""
+msgstr "Yedek alınamadı"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:108
 msgctxt "BackupPage|"
 msgid "Failed to create backup. Check the logs for details."
-msgstr ""
+msgstr "Yedek alma başarısız oldu. Detaylar için loglara bakın."
 
 #: src/plugins/BackupSystem/BackupPage.cpp:111
 msgctxt "BackupPage|"
 msgid "Backup Created"
-msgstr ""
+msgstr "Yedek oluşturuldu"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:112
 #, qt-format
 msgctxt "BackupPage|"
 msgid "Backup created successfully:\n"
 "%1"
-msgstr ""
+msgstr "Yedek başarıyla oluşturuldu: %1"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:125
 msgctxt "BackupPage|"
 msgid "Restore Backup"
-msgstr ""
+msgstr "Yedeği geri yükle"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:126
 #, qt-format
@@ -1220,101 +1223,104 @@ msgctxt "BackupPage|"
 msgid "This will replace the current instance contents with the backup:\n\n"
 "%1\n\n"
 "This action cannot be undone. Continue?"
-msgstr ""
+msgstr "Bu işlem, mevcut örnek içeriğini yedek dosyayla değiştirecektir:\n\n"
+"%1\n\n"
+"Bu işlem geri alınamaz. Devam edilsin mi?"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:136
 msgctxt "BackupPage|"
 msgid "Restoring backup..."
-msgstr ""
+msgstr "Yedek geri yükleniyor..."
 
 #: src/plugins/BackupSystem/BackupPage.cpp:140
 msgctxt "BackupPage|"
 msgid "Restore Complete"
-msgstr ""
+msgstr "Geri yükleme tamamlandı"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:141
 msgctxt "BackupPage|"
 msgid "Backup restored successfully."
-msgstr ""
+msgstr "Yedek başarıyla geri yüklendi."
 
 #: src/plugins/BackupSystem/BackupPage.cpp:144
 msgctxt "BackupPage|"
 msgid "Restore Failed"
-msgstr ""
+msgstr "Geri yükleme başarısız"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:145
 msgctxt "BackupPage|"
 msgid "Failed to restore backup. Check the logs for details."
-msgstr ""
+msgstr "Geri yükleme başarısız oldu. Detaylar için loglara bakın."
 
 #: src/plugins/BackupSystem/BackupPage.cpp:158
 msgctxt "BackupPage|"
 msgid "Export Backup"
-msgstr ""
+msgstr "Yedeği dışarı aktar"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:158
 #: src/plugins/BackupSystem/BackupPage.cpp:175
 msgctxt "BackupPage|"
 msgid "Zip Files (*.zip)"
-msgstr ""
+msgstr "Zip dosyası (*.zip)"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:164
 msgctxt "BackupPage|"
 msgid "Export Complete"
-msgstr ""
+msgstr "Dışarı aktarma başarılı"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:165
 #, qt-format
 msgctxt "BackupPage|"
 msgid "Backup exported to:\n"
 "%1"
-msgstr ""
+msgstr "Yedekleme şu konuma dışa aktarıldı:\n"
+"%1"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:167
 msgctxt "BackupPage|"
 msgid "Export Failed"
-msgstr ""
+msgstr "Dışarı aktarma başarısız"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:168
 msgctxt "BackupPage|"
 msgid "Failed to export backup."
-msgstr ""
+msgstr "Dışarı aktarma başarısız oldu."
 
 #: src/plugins/BackupSystem/BackupPage.cpp:174
 #: src/plugins/BackupSystem/BackupPage.cpp:182
 msgctxt "BackupPage|"
 msgid "Import Backup"
-msgstr ""
+msgstr "Yedeği içeri aktar"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:182
 msgctxt "BackupPage|"
 msgid "Label for imported backup (optional):"
-msgstr ""
+msgstr "İçe aktarılan yedekleme için etiket (opsiyonel):"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:190
 msgctxt "BackupPage|"
 msgid "Import Failed"
-msgstr ""
+msgstr "İçeri aktarma başarısız"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:191
 msgctxt "BackupPage|"
 msgid "Failed to import backup."
-msgstr ""
+msgstr "İçeri aktarma başarısız oldu."
 
 #: src/plugins/BackupSystem/BackupPage.cpp:193
 msgctxt "BackupPage|"
 msgid "Import Complete"
-msgstr ""
+msgstr "İçeri aktarma başarılı"
 
 #: src/plugins/BackupSystem/BackupPage.cpp:194
 msgctxt "BackupPage|"
 msgid "Backup imported successfully."
-msgstr ""
+msgstr "Yedek başarıyla içeri aktarıldı."
 
 #: src/plugins/BackupSystem/BackupPage.cpp:207
 msgctxt "BackupPage|"
 msgid "Delete Backup"
-msgstr ""
+msgstr "Yedeği sil."
 
 #: src/plugins/BackupSystem/BackupPage.cpp:208
 #, qt-format
@@ -1322,12 +1328,14 @@ msgctxt "BackupPage|"
 msgid "Delete the selected backup?\n\n"
 "%1\n\n"
 "This cannot be undone."
-msgstr ""
+msgstr "Seçilen yedek silinsin mi?\n\n"
+"%1\n\n"
+"Bu işlem geri alınamaz."
 
 #: src/plugins/BackupSystem/BackupPage.h:33
 msgctxt "BackupPage|"
 msgid "Backups"
-msgstr ""
+msgstr "Yedekler"
 
 #: src/launcher/tools/BaseProfiler.cpp:55
 msgctxt "BaseProfiler|"
@@ -1337,43 +1345,43 @@ msgstr "Profilleyici iptal edildi"
 #: src/launcher/ui/dialogs/BlockedModsDialog.cpp:64
 msgctxt "BlockedModsDialog|"
 msgid "<b>Mod</b>"
-msgstr ""
+msgstr "<b>Mod</b>"
 
 #: src/launcher/ui/dialogs/BlockedModsDialog.cpp:65
 msgctxt "BlockedModsDialog|"
 msgid "<b>Status</b>"
-msgstr ""
+msgstr "<b>Durum</b>"
 
 #: src/launcher/ui/dialogs/BlockedModsDialog.cpp:75
 #: src/launcher/ui/dialogs/BlockedModsDialog.cpp:160
 msgctxt "BlockedModsDialog|"
 msgid "Missing"
-msgstr ""
+msgstr "Eksik"
 
 #: src/launcher/ui/dialogs/BlockedModsDialog.cpp:78
 msgctxt "BlockedModsDialog|"
 msgid "Download"
-msgstr ""
+msgstr "İndir"
 
 #: src/launcher/ui/dialogs/BlockedModsDialog.cpp:99
 msgctxt "BlockedModsDialog|"
 msgid "Continue"
-msgstr ""
+msgstr "Devam et"
 
 #: src/launcher/ui/dialogs/BlockedModsDialog.cpp:155
 msgctxt "BlockedModsDialog|"
 msgid "Found"
-msgstr ""
+msgstr "Bulundu"
 
 #: src/launcher/minecraft/services/CapeChange.cpp:48
 msgctxt "CapeChange|"
 msgid "Equipping cape"
-msgstr ""
+msgstr "Pelerin giyiliyor"
 
 #: src/launcher/minecraft/services/CapeChange.cpp:66
 msgctxt "CapeChange|"
 msgid "Removing cape"
-msgstr ""
+msgstr "Pelerin çıkarılıyor"
 
 #: src/launcher/minecraft/ComponentUpdateTask.cpp:277
 msgctxt "ComponentUpdateTask|"
@@ -1407,7 +1415,7 @@ msgstr "Uzaktaki sunucudan indirilirken bileşen metaveri güncelleme görevi ba
 #, qt-format
 msgctxt "ContentDownloadTask|"
 msgid "Downloading %1 file(s)..."
-msgstr ""
+msgstr "%1 dosya indiriliyor..."
 
 #: src/launcher/ui/dialogs/CopyInstanceDialog.ui:17
 msgctxt "CopyInstanceDialog|"
@@ -1442,59 +1450,59 @@ msgstr "Grup yok"
 #: src/crashreporter/CrashReportDialog.cpp:45
 msgctxt "CrashReportDialog|"
 msgid "MeshMC Crash Report"
-msgstr ""
+msgstr "MeshMC Hata raporu"
 
 #: src/crashreporter/CrashReportDialog.cpp:53
 msgctxt "CrashReportDialog|"
 msgid "<h2 style='color: #cc0000;'>MeshMC has failed</h2><p>An unexpected error occurred and MeshMC had to close.</p><p>Your logs have been uploaded to paste.ee for troubleshooting.</p>"
-msgstr ""
+msgstr "<h2 style='color: #cc0000;'>MeshMC çöktü</h2><p>Beklenmeyen bir hata oluştu ve MeshMC kapanmak zorunda kaldı.</p><p>Sorun giderme amacıyla kayıtlarınız paste.ee adresine yüklendi.</p>"
 
 #: src/crashreporter/CrashReportDialog.cpp:62
 msgctxt "CrashReportDialog|"
 msgid "QR Codes"
-msgstr ""
+msgstr "QR Kodlar"
 
 #: src/crashreporter/CrashReportDialog.cpp:70
 msgctxt "CrashReportDialog|"
 msgid "[...truncated...]\n"
-msgstr ""
+msgstr "[...Kesilmiş...]\n"
 
 #: src/crashreporter/CrashReportDialog.cpp:81
 #: src/crashreporter/CrashReportDialog.cpp:98
 msgctxt "CrashReportDialog|"
 msgid "[QR Code - requires libqrencode]"
-msgstr ""
+msgstr "[QR Kod - libqrencode gerektirir]"
 
 #: src/crashreporter/CrashReportDialog.cpp:83
 msgctxt "CrashReportDialog|"
 msgid "Full Log"
-msgstr ""
+msgstr "Tam loglar"
 
 #: src/crashreporter/CrashReportDialog.cpp:100
 msgctxt "CrashReportDialog|"
 msgid "Paste.ee Log"
-msgstr ""
+msgstr "Paste.ee Log"
 
 #: src/crashreporter/CrashReportDialog.cpp:111
 #, qt-format
 msgctxt "CrashReportDialog|"
 msgid "Paste.ee link: <a href=\"%1\">%1</a>"
-msgstr ""
+msgstr "Paste.ee link: <a href=\"%1\">%1</a>"
 
 #: src/crashreporter/CrashReportDialog.cpp:121
 msgctxt "CrashReportDialog|"
 msgid "Copy Link"
-msgstr ""
+msgstr "Linki kopyala"
 
 #: src/crashreporter/CrashReportDialog.cpp:126
 msgctxt "CrashReportDialog|"
 msgid "Open in Browser"
-msgstr ""
+msgstr "Tarayıcıda aç"
 
 #: src/crashreporter/CrashReportDialog.cpp:131
 msgctxt "CrashReportDialog|"
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: src/launcher/minecraft/launch/CreateGameFolders.cpp:42
 msgctxt "CreateGameFolders|"
@@ -1524,7 +1532,7 @@ msgstr "Wrapper komutu:"
 #: src/launcher/ui/widgets/CustomCommands.ui:77
 msgctxt "CustomCommands|"
 msgid "<html><head/><body><p>Pre-launch command runs before the instance launches and post-exit command runs after it exits.</p><p>Both will be run in MeshMC's working folder with extra environment variables:</p><ul><li>$INST_NAME - Name of the instance</li><li>$INST_ID - ID of the instance (its folder name)</li><li>$INST_DIR - absolute path of the instance</li><li>$INST_MC_DIR - absolute path of minecraft</li><li>$INST_JAVA - java binary used for launch</li><li>$INST_JAVA_ARGS - command-line parameters used for launch</li></ul><p>Wrapper command allows launching using an extra wrapper program (like 'optirun' on Linux)</p></body></html>"
-msgstr ""
+msgstr "<html><head/><body><p>Ön başlatma komutu, örnek başlatılmadan önce çalışır ve son çıkış komutu, örnek kapatıldıktan sonra çalışır.</p><p>Her ikisi de MeshMC'nin çalışma klasöründe ek ortam değişkenleriyle çalıştırılacaktır:</p><ul><li>$INST_NAME - Profil adı</li><li>$INST_ID - Profil ID'si (klasör adı)</li><li>$INST_DIR - Profilin dosya yolu</li><li>$INST_MC_DIR - Minecraft'ın dosya yolu</li><li>$INST_JAVA - Başlatma için kullanılan Java binary dosyası</li><li>$INST_JAVA_ARGS - Başlatma için kullanılan komut satırı parametreleri</li></ul><p>Wrapper komutu, ek bir sarmalayıcı program (Linux'ta 'optirun' gibi) kullanarak başlatmaya olanak tanır.</p></body></html>"
 
 #: src/launcher/ui/pages/global/CustomCommandsPage.h:62
 msgctxt "CustomCommandsPage|"
@@ -1534,7 +1542,7 @@ msgstr "Özel Komutlar"
 #: src/launcher/modplatform/DependencyResolver.cpp:94
 msgctxt "DependencyResolver|"
 msgid "Resolving dependencies..."
-msgstr ""
+msgstr "Bağımlılıklar çözülüyor..."
 
 #: src/launcher/minecraft/launch/DirectJavaLaunch.cpp:103
 #, qt-format
@@ -1558,168 +1566,169 @@ msgstr "Oyun çöktü."
 #, qt-format
 msgctxt "DownloadContentDialog|"
 msgid "Download %1"
-msgstr ""
+msgstr "%1 İndiriliyor"
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:127
 msgctxt "DownloadContentDialog|"
 msgid "CurseForge"
-msgstr ""
+msgstr "CurseForge"
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:128
 msgctxt "DownloadContentDialog|"
 msgid "Modrinth"
-msgstr ""
+msgstr "Modrinth"
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:136
 msgctxt "DownloadContentDialog|"
 msgid "Selected"
-msgstr ""
+msgstr "Seçilen"
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:155
 #, qt-format
 msgctxt "DownloadContentDialog|"
 msgid "Search %1..."
-msgstr ""
+msgstr "%1 Aranıyor..."
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:160
 msgctxt "DownloadContentDialog|"
 msgid "Sort by relevance"
-msgstr ""
+msgstr "Alakaya göre sırala"
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:161
 msgctxt "DownloadContentDialog|"
 msgid "Sort by downloads"
-msgstr ""
+msgstr "İndirme sayısına göre"
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:162
 msgctxt "DownloadContentDialog|"
 msgid "Sort by updated"
-msgstr ""
+msgstr "Son güncellemeye göre sırala"
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:163
 msgctxt "DownloadContentDialog|"
 msgid "Sort by newest"
-msgstr ""
+msgstr "Yeniye göre sırala"
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:164
 msgctxt "DownloadContentDialog|"
 msgid "Sort by follows"
-msgstr ""
+msgstr "Takipçi sayısına göre sırala"
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:204
 msgctxt "DownloadContentDialog|"
 msgid "Add"
-msgstr ""
+msgstr "Ekle"
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:222
 msgctxt "DownloadContentDialog|"
 msgid "Cancel"
-msgstr ""
+msgstr "İptal et"
 
 #: src/launcher/ui/dialogs/DownloadContentDialog.cpp:223
 msgctxt "DownloadContentDialog|"
 msgid "Continue"
-msgstr ""
+msgstr "Devam et"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:77
 msgctxt "DownloadSummaryDialog|"
 msgid "Download Summary"
-msgstr ""
+msgstr "İndirme özeti"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:88
 #, qt-format
 msgctxt "DownloadSummaryDialog|"
 msgid "Ready to download %1 file(s): %2 selected + %3 dependency(ies)"
-msgstr ""
+msgstr "İndirilmeye hazır %1 dosya: %2 seçili + %3 bağımlılık(lar)"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:93
 #, qt-format
 msgctxt "DownloadSummaryDialog|"
 msgid "Ready to download %1 file(s): %2 selected + %3 dependency(ies)\n"
 "⚠ %4 dependency(ies) could NOT be resolved (see warnings below)"
-msgstr ""
+msgstr "İndirilmeye hazır %1 dosya(lar): %2 seçili + %3 bağımlılık(lar)\n"
+"⚠ %4 bağımlılık(lar) çözümlenemedi (aşağıdaki uyarılara bakın)"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:108
 msgctxt "DownloadSummaryDialog|"
 msgid "Name"
-msgstr ""
+msgstr "İsim"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:108
 msgctxt "DownloadSummaryDialog|"
 msgid "File"
-msgstr ""
+msgstr "Dosya"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:108
 msgctxt "DownloadSummaryDialog|"
 msgid "Type"
-msgstr ""
+msgstr "Tip"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:108
 msgctxt "DownloadSummaryDialog|"
 msgid "Source"
-msgstr ""
+msgstr "Kaynak"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:118
 msgctxt "DownloadSummaryDialog|"
 msgid "Selected"
-msgstr ""
+msgstr "Seçilen"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:119
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:129
 msgctxt "DownloadSummaryDialog|"
 msgid "CurseForge"
-msgstr ""
+msgstr "CurseForge"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:120
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:130
 msgctxt "DownloadSummaryDialog|"
 msgid "Modrinth"
-msgstr ""
+msgstr "Modrinth"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:128
 msgctxt "DownloadSummaryDialog|"
 msgid "Dependency"
-msgstr ""
+msgstr "Bağımlılık"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:139
 msgctxt "DownloadSummaryDialog|"
 msgid "NOT FOUND"
-msgstr ""
+msgstr "BULUNAMADI"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:140
 msgctxt "DownloadSummaryDialog|"
 msgid "⚠ Unresolved"
-msgstr ""
+msgstr "⚠ Çözülemedi"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:141
 msgctxt "DownloadSummaryDialog|"
 msgid "No compatible version"
-msgstr ""
+msgstr "Uyumlu sürüm yok"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:157
 msgctxt "DownloadSummaryDialog|"
 msgid "Cancel"
-msgstr ""
+msgstr "İptal et"
 
 #: src/launcher/ui/dialogs/DownloadSummaryDialog.cpp:158
 msgctxt "DownloadSummaryDialog|"
 msgid "Continue"
-msgstr ""
+msgstr "Devam et"
 
 #: src/launcher/ui/dialogs/EditAccountDialog.ui:14
 msgctxt "EditAccountDialog|"
 msgid "Login"
-msgstr ""
+msgstr "Giriş yap"
 
 #: src/launcher/ui/dialogs/EditAccountDialog.ui:33
 msgctxt "EditAccountDialog|"
 msgid "Email"
-msgstr ""
+msgstr "E-Posta"
 
 #: src/launcher/ui/dialogs/EditAccountDialog.ui:43
 msgctxt "EditAccountDialog|"
 msgid "Password"
-msgstr ""
+msgstr "Şifre"
 
 #: src/launcher/minecraft/auth/steps/EntitlementsStep.cpp:40
 msgctxt "EntitlementsStep|"
@@ -1925,37 +1934,37 @@ msgstr "Belirtilen dosyalar indirilemedi:\n"
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:34
 msgctxt "FeatureFlagsDialog|"
 msgid "Feature Flags"
-msgstr ""
+msgstr "Özellik bayrakları"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:52
 msgctxt "FeatureFlagsDialog|"
 msgid "Flag"
-msgstr ""
+msgstr "Bayrak"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:52
 msgctxt "FeatureFlagsDialog|"
 msgid "Toggle"
-msgstr ""
+msgstr "Değiştir"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:52
 msgctxt "FeatureFlagsDialog|"
 msgid "Effective"
-msgstr ""
+msgstr "Etkili"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:52
 msgctxt "FeatureFlagsDialog|"
 msgid "Strategies"
-msgstr ""
+msgstr "Stratejiler"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:53
 msgctxt "FeatureFlagsDialog|"
 msgid "Override"
-msgstr ""
+msgstr "Üstüne Yazma"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:66
 msgctxt "FeatureFlagsDialog|"
 msgid "Refresh"
-msgstr ""
+msgstr "Yenile"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:101
 msgctxt "FeatureFlagsDialog|"
@@ -1984,67 +1993,67 @@ msgstr[1] ""
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:130
 msgctxt "FeatureFlagsDialog|"
 msgid "unknown"
-msgstr ""
+msgstr "bilinmeyen"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:139
 msgctxt "FeatureFlagsDialog|"
 msgid "enabled"
-msgstr ""
+msgstr "etkin"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:139
 msgctxt "FeatureFlagsDialog|"
 msgid "disabled"
-msgstr ""
+msgstr "devre dışı"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:141
 msgctxt "FeatureFlagsDialog|"
 msgid "ON"
-msgstr ""
+msgstr "AÇIK"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:141
 msgctxt "FeatureFlagsDialog|"
 msgid "OFF"
-msgstr ""
+msgstr "Kapalı"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:153
 msgctxt "FeatureFlagsDialog|"
 msgid "Forced by a local override."
-msgstr ""
+msgstr "Yerel bir geçersiz kılma işlemiyle zorunlu hale getirildi."
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:163
 msgctxt "FeatureFlagsDialog|"
 msgid "Auto"
-msgstr ""
+msgstr "Oto"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:164
 msgctxt "FeatureFlagsDialog|"
 msgid "Force ON"
-msgstr ""
+msgstr "Zorla açık"
 
 #: src/launcher/ui/dialogs/FeatureFlagsDialog.cpp:165
 msgctxt "FeatureFlagsDialog|"
 msgid "Force OFF"
-msgstr ""
+msgstr "Zorla kapalı"
 
 #: src/plugins/Filelink/FilelinkPage.cpp:45
 #, qt-format
 msgctxt "FilelinkPage|"
 msgid "From: %1"
-msgstr ""
+msgstr "Kimden: %1"
 
 #: src/plugins/Filelink/FilelinkPage.cpp:47
 #, qt-format
 msgctxt "FilelinkPage|"
 msgid "To: %1"
-msgstr ""
+msgstr "Kime: %1"
 
 #: src/plugins/Filelink/FilelinkPage.cpp:54
 #, qt-format
 msgctxt "FilelinkPage|"
 msgid "%n linked file(s)"
 msgid_plural "%n linked file(s)"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%n linkli dosya(lar)"
+msgstr[1] "%n linkli dosya(lar)"
 
 #: src/plugins/Filelink/FilelinkPage.cpp:80
 #: src/plugins/Filelink/FilelinkPage.cpp:119
@@ -2054,7 +2063,7 @@ msgstr[1] ""
 #: src/plugins/Filelink/FilelinkPage.h:22
 msgctxt "FilelinkPage|"
 msgid "Filelink"
-msgstr ""
+msgstr "Filelink"
 
 #: src/plugins/Filelink/FilelinkPage.cpp:81
 msgctxt "FilelinkPage|"
@@ -8270,17 +8279,17 @@ msgstr ""
 #: src/launcher/ui/dialogs/UpdateProgressDialog.cpp:38
 msgctxt "UpdateProgressDialog|"
 msgid "Checking for updates..."
-msgstr ""
+msgstr "Güncellemeler kontrol ediliyor..."
 
 #: src/launcher/ui/dialogs/UpdateProgressDialog.cpp:57
 msgctxt "UpdateProgressDialog|"
 msgid "Cancel"
-msgstr ""
+msgstr "İptal et"
 
 #: src/launcher/ui/dialogs/UpdateProgressDialog.cpp:84
 msgctxt "UpdateProgressDialog|"
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: src/launcher/ui/pages/modplatform/VanillaPage.ui:41
 msgctxt "VanillaPage|"
@@ -8325,26 +8334,26 @@ msgstr "Yenile"
 #: src/launcher/ui/pages/modplatform/VanillaPage.h:67
 msgctxt "VanillaPage|"
 msgid "Vanilla"
-msgstr ""
+msgstr "Vanilla"
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:163
 #, qt-format
 msgctxt "VerifyJavaInstall|"
 msgid "Current Java version %1 does not meet the requirement of Java %2."
-msgstr ""
+msgstr "Mevcut Java sürümü %1, Java %2'nin gereksinimlerini karşılamamaktadır."
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:170
 #, qt-format
 msgctxt "VerifyJavaInstall|"
 msgid "Found installed Java %1 at: %2"
-msgstr ""
+msgstr "Java %1'in kurulu olduğu şu konumda bulundu: %2"
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:179
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:392
 #, qt-format
 msgctxt "VerifyJavaInstall|"
 msgid "Java path set to: %1"
-msgstr ""
+msgstr "Java yolu şu şekilde ayarlandı: %1"
 
 #: src/launcher/minecraft/launch/VerifyJavaInstall.cpp:189
 #, qt-format
