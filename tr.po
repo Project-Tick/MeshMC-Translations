@@ -13,7 +13,7 @@ msgstr ""
 "Project-Id-Version: projtlauncher\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2026-07-17 23:05\n"
+"PO-Revision-Date: 2026-08-01 12:29\n"
 
 #: src/launcher/modplatform/atlauncher/ATLPackInstallTask.cpp:127
 msgctxt "ATLauncher::PackInstallTask|"
@@ -2774,7 +2774,7 @@ msgstr ""
 #: src/launcher/InstanceImportTask.cpp:645
 msgctxt "InstanceImportTask|"
 msgid "Restricted Mods"
-msgstr ""
+msgstr "Kısıtlanan modlar"
 
 #: src/launcher/InstanceImportTask.cpp:646
 msgctxt "InstanceImportTask|"
@@ -3806,7 +3806,7 @@ msgstr "Bu işlem, profilin bozulmasına neden olabilir ve sadece Minecraft herh
 msgctxt "LaunchTask|"
 msgid "MeshMC stopped watching the game log because the log length surpassed %1 lines.\n"
 "You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!"
-msgstr ""
+msgstr "MeshMC, oyunun sistem kaydınızı izlemeyi durdurdu çünkü sistem kaydının satır sayısı %1 satırını aştı. Modlarınızı düzeltmeniz gerekebilir çünkü oyun hala sistem kaydı yapmakta ve büyük ihtimalle disk alanını endişe verici derecede israf ediyor!"
 
 #: src/launcher/ui/pages/modplatform/legacy_ftb/ListModel.cpp:45
 msgctxt "LegacyFTB::FilterModel|"
@@ -4552,12 +4552,12 @@ msgstr "Seçili profilin minecraft klasörünü bir dosya tarayıcısında aç."
 #: src/launcher/ui/MainWindow.cpp:694
 msgctxt "MainWindow|"
 msgid "Mods Folder"
-msgstr ""
+msgstr "Mod Klasörü"
 
 #: src/launcher/ui/MainWindow.cpp:695
 msgctxt "MainWindow|"
 msgid "Open the selected instance's mods folder in a file browser."
-msgstr ""
+msgstr "Seçili profilin mod dizinini dosya tarayıcısında aç."
 
 #: src/launcher/ui/MainWindow.cpp:705
 msgctxt "MainWindow|"
@@ -4886,7 +4886,7 @@ msgstr ""
 #: src/launcher/ui/dialogs/MeshMCLogsDialog.ui:100
 msgctxt "MeshMCLogsDialog|"
 msgid "Search:"
-msgstr ""
+msgstr "Ara:"
 
 #: src/launcher/ui/dialogs/MeshMCLogsDialog.ui:110
 msgctxt "MeshMCLogsDialog|"
@@ -4981,7 +4981,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/MeshMCPage.ui:120
 msgctxt "MeshMCPage|"
 msgid "&Mods:"
-msgstr ""
+msgstr "&Modlar:"
 
 #: src/launcher/ui/pages/global/MeshMCPage.ui:143
 msgctxt "MeshMCPage|"
@@ -5121,7 +5121,7 @@ msgstr ""
 #: src/launcher/ui/pages/global/MeshMCPage.cpp:164
 msgctxt "MeshMCPage|"
 msgid "Mods Folder"
-msgstr ""
+msgstr "Mod Klasörü"
 
 #: src/launcher/ui/pages/global/MeshMCPage.cpp:175
 msgctxt "MeshMCPage|"
@@ -5638,12 +5638,12 @@ msgstr ""
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui:67
 msgctxt "ModrinthPage|"
 msgid "Search"
-msgstr ""
+msgstr "Ara"
 
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.ui:74
 msgctxt "ModrinthPage|"
 msgid "Search and filter ..."
-msgstr ""
+msgstr "Ara ve filtrele ..."
 
 #: src/launcher/ui/pages/modplatform/modrinth/ModrinthPage.cpp:51
 msgctxt "ModrinthPage|"
@@ -9032,7 +9032,7 @@ msgstr "Liste güncellemesi başarısız oldu:\n"
 #: src/plugins/OfflineWiki/WikiPage.cpp:28
 msgctxt "WikiPage|"
 msgid "Search…"
-msgstr ""
+msgstr "Ara…"
 
 #: src/plugins/OfflineWiki/WikiPage.cpp:95
 msgctxt "WikiPage|"
